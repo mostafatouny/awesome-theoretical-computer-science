@@ -5,39 +5,18 @@ ___
 
 ## Table of contents
 - [Broad Introduction to TCS](#broad-introduction-to-tcs)
-  - [Books, Broad Introduction to TCS](#books-broad-introduction-to-tcs)
-  - [Lecture Videos Playlists, Broad Introduction to TCS](#lecture-videos-playlists-broad-introduction-to-tcs)
 - [Introductory Theory of Computation](#introductory-theory-of-computation)
-  - [Lecture Videos Playlists, Introductory Theory of Computation](#lecture-videos-playlists-introductory-theory-of-computation)
-  - [MOOC, Introductory Theory of Computation](#mooc-introductory-theory-of-computation)
-  - [Books, Introductory Theory of Computation](#books-introductory-theory-of-computation)
-  - [Puzzles and Problem Sets, Introductory Theory of Computation](#puzzles-and-problem-sets-introductory-theory-of-computation)
 - [Computational Complexity](#computational-complexity)
-  - [General, Computational Complexity](#general-computational-complexity)
-    - [Lecture Videos Playlists, General, Computational Complexity](#lecture-videos-playlists-general-computational-complexity)
-    - [Books, General, Computational Complexity](#books-general-computational-complexity)
-    - [Popular Science, General, Computational Complexity](#popular-science-general-computational-complexity)
-    - [Surveys, General, Computational Complexity](#surveys-general-computational-complexity)
-  - [Communication Complexity, Computational Complexity](#communication-complexity-computational-complexity)
-    - [Books, Communication Complexity, Computational Complexity](#books-communication-complexity-computational-complexity)
-  - [Circuit Complexity, Computational Complexity](#circuit-complexity-computational-complexity)
-    - [Books, Circuit Complexity, Computational Complexity](#books-circuit-complexity-computational-complexity)
+  - [General](#general)
+  - [Communication Complexity](#communication-complexity)
+  - [Circuit Complexity](#circuit-complexity)
 - [Algorithms](#algorithms)
-  - [Lecture Video Playlists, Algorithms](#lecture-video-playlists-algorithms)
-  - [Books, Algorithms](#books-algorithms)
 - [Logic and Foundational Mathematics](#logic-and-foundational-mathematics)
-  - [Computability Theory, Logic and Foundational Mathematics](#computability-theory-logic-and-foundational-mathematics)
-    - [Books, Computability Theory, Logic and Foundational Mathematics](#books-computability-theory-logic-and-foundational-mathematics)
-  - [Computational Complexity, Logic and Foundational Mathematics](#computational-complexity-logic-and-foundational-mathematics)
-    - [Books, Computational Complexity, Logic and Foundational Mathematics](#books-computational-complexity-logic-and-foundational-mathematics)
-  - [Popular Science, Logic and Foundational Mathematics](#popular-science-logic-and-foundational-mathematics)
+  - [Computability Theory](#computability-theory)
+  - [Computational Complexity](#computational-complexity)
+  - [Popular Science](#popular-science)
 - [Philosophy](#philosophy)
-  - [Lecture Notes, Philosophy](#lecture-notes-philosophy)
-  - [Books, Philosophy](#books-philosophy)
-  - [Popular Science, Philosophy](#popular-science-philosophy)
-  - [Papers, Philosophy](#papers-philosophy)
 - [Physics](#physics)
-  - [Books, Physics](#books-physics)
 - [Other Resources](#other-resources)
   - [Blog Posts](#blog-posts)
   - [Magazines](#magazines)
@@ -50,54 +29,54 @@ ___
 ___
 
 ## Broad Introduction to TCS
-### Books, Broad Introduction to TCS
+### Books
 - **(accessible)** Moore & Mertens. The Nature of Computation
 - Wigderson. Mathematics and Computation: A Theory Revolutionizing Technology and Science
 
-### Lecture Videos Playlists, Broad Introduction to TCS
+### Lecture Videos Playlists
 - [Ryan O'Donnell. CS Theory Toolkit](https://www.youtube.com/playlist?list=PLm3J0oaFux3ZYpFLwwrlv_EHH9wtH6pnX)
 
 
 
 ## Introductory Theory of Computation
 
-### Lecture Videos Playlists, Introductory Theory of Computation
+### Lecture Videos Playlists
 - [Ryan O'Donnell. Great Ideas in Theoretical Computer Science. CMU](https://www.youtube.com/playlist?list=PLm3J0oaFux3aafQm568blS9blxtA_EWQv)
 
-### MOOC, Introductory Theory of Computation
+### MOOC
 - [Intro to Theoretical Computer Science. Udacity](https://www.udacity.com/course/intro-to-theoretical-computer-science--cs313)
 
-### Books, Introductory Theory of Computation
+### Books
 - **(Golden Standard)** Michael Sipser. Introduciton to Theory of Computation
 - Hopcroft, Motwani & Ullman. Introduction to Automata Theory, Languages, and Computation.
 - [Introduction to TCS. Boaz Barak](https://introtcs.org/public/index.html)
 
-### Puzzles and Problem Sets, Introductory Theory of Computation
+### Puzzles and Problem Sets
 - Zhu & Ko. Problem Solving in Automata, Languages, and Complexity
 
 
 
 ## Computational Complexity
 
-### General, Computational Complexity
-#### Lecture Videos Playlists, General, Computational Complexity
+### General
+#### Lecture Videos Playlists
 - [Ryan O'Donnell. Undergrad Complexity Theory at CMU](https://www.youtube.com/playlist?list=PLm3J0oaFux3YL5vLXpzOyJiLtqLp6dCW2)
 - [Ryan O'Donnell. Graduate Complexity Theory at CMU](https://www.youtube.com/playlist?list=PLm3J0oaFux3b8Gg1DdaJOzYNsaXYLAOKH)
-#### Books, General, Computational Complexity
+#### Books
 - **(Golden Standard)** Arora & Barak. Computational Complexity: A Modern Approach
-#### Popular Science, General, Computational Complexity
+#### Popular Science
 - Lance Fortnow. The Golden Ticket: P, NP, and the search for the impossible
 - Scott Aaronson. Quantum Computing Since Democritus
-#### Surveys, General, Computational Complexity
+#### Surveys
 - [John Watrous. Quantum Computational Complexity](https://arxiv.org/abs/0804.3401)
 - [Aram Harrow & Ashley Montanaro. Quantum Computational Supremacy](https://www.nature.com/articles/nature23458)
 
-### Communication Complexity, Computational Complexity
-#### Books, Communication Complexity, Computational Complexity
+### Communication Complexity
+#### Books
 - **(accessible)** Rao & Yehudayoff. Communication Complexity and Applications
 
-### Circuit Complexity, Computational Complexity
-#### Books, Circuit Complexity, Computational Complexity
+### Circuit Complexity
+#### Books
 - Stasys Jukna. Boolean Function Complexity: Advances and Frontiers
 - Clote & Kranakis. Boolean Functions and Computation Models
 
@@ -105,47 +84,47 @@ ___
 
 ## Algorithms
 
-### Lecture Video Playlists, Algorithms
+### Lecture Video Playlists
 - [Algorithmic Lower Bounds: Fun with Hardness Proofs](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-890-algorithmic-lower-bounds-fun-with-hardness-proofs-fall-2014/)
-### Books, Algorithms
+### Books
 - Erik Demaine. Games, Puzzles, and Computation
 
 
 
 ## Logic and Foundational Mathematics
 
-### Computability Theory, Logic and Foundational Mathematics
-#### Books, Computability Theory, Logic and Foundational Mathematics
+### Computability Theory
+#### Books
 - **(accessible)** Charles Petzold. The Annotated Turing: A Guided Tour Through Alan Turing's Historic Paper on Computability and the Turing Machine
 - Cutland, Computability, An Introduction to Recursive Function Theory
 - Cooper. Computability Theory
 
-### Computational Complexity, Logic and Foundational Mathematics
-#### Books, Computational Complexity, Logic and Foundational Mathematics
+### Computational Complexity
+#### Books
 - Pavel Pudlák. Logical Foundations of Mathematics and Computational Complexity: A Gentle Introduction
 
-### Popular Science, Logic and Foundational Mathematics
+### Popular Science
 - Papadimitriou. Turing: A Novel About Computation. MIT Press
 
 
 
 ## Philosophy
 
-### Lecture Notes, Philosophy
+### Lecture Notes
 - [6.893 Philosophy and Theoretical Computer Science. MIT](https://stellar.mit.edu/S/course/6/fa11/6.893/index.html)
-### Books, Philosophy
+### Books
 - Donald Knuth. Things a Computer Scientist Rarely Talks About
-### Popular Science, Philosophy
+### Popular Science
 - David Deutsch. The Fabric of Reality: The Science of Parallel Universes and Its Implications
 
-### Papers, Philosophy
+### Papers
 - Dhorit Aharonov & Umesh Vazirani, Is Quantum Mechanics Falsifiable? A Computational Perspective on the Foundations of Quantum Mechanics
 
 
 
 ## Physics
 
-### Books, Physics
+### Books
 - Feynman And Computation: Exploring The Limits Of Computers
 
 
