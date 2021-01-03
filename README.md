@@ -44,10 +44,12 @@ ___
 - [Ryan O'Donnell. Graduate Complexity Theory at CMU](https://www.youtube.com/playlist?list=PLm3J0oaFux3b8Gg1DdaJOzYNsaXYLAOKH)
 #### Books
 - **(Golden Standard)** Arora & Barak. Computational Complexity: A Modern Approach
+#### Popular Science
+- Lance Fortnow. The Golden Ticket: P, NP, and the search for the impossible
+- Scott Aaronson. Quantum Computing Since Democritus
 #### Surveys
 - [John Watrous. Quantum Computational Complexity](https://arxiv.org/abs/0804.3401)
 - [Aram Harrow & Ashley Montanaro. Quantum Computational Supremacy](https://www.nature.com/articles/nature23458)
-
 
 ### Communication Complexity
 - **(accessible)** Rao & Yehudayoff. Communication Complexity and Applications
@@ -55,10 +57,6 @@ ___
 ### Circuit Complexity
 - Stasys Jukna. Boolean Function Complexity: Advances and Frontiers
 - Clote & Kranakis. Boolean Functions and Computation Models
-
-### Popular Science
-- Lance Fortnow. The Golden Ticket: P, NP, and the search for the impossible
-- Scott Aaronson. Quantum Computing Since Democritus
 
 
 
