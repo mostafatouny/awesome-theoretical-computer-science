@@ -95,9 +95,15 @@ ___
 
 ### Computability Theory
 #### Books
-- **(accessible)** Charles Petzold. The Annotated Turing: A Guided Tour Through Alan Turing's Historic Paper on Computability and the Turing Machine
+##### Introductory
 - Cutland, Computability, An Introduction to Recursive Function Theory
 - Cooper. Computability Theory
+##### Collected Papers
+- Copeland, Posy & Shagrir (editors). Computability: Turing, Gödel, Church, and Beyond
+##### Special
+- **(accessible)** Charles Petzold. The Annotated Turing: A Guided Tour Through Alan Turing's Historic Paper on Computability and the Turing Machine
+
+
 
 ### Computational Complexity
 #### Books
