@@ -14,7 +14,6 @@ ___
 - [Logic and Foundational Mathematics](#logic-and-foundational-mathematics)
   - [Computability Theory](#computability-theory)
   - [Computational Complexity](#computational-complexity)
-  - [Popular Science](#popular-science)
 - [Philosophy](#philosophy)
 - [Physics](#physics)
 - [Other Resources](#other-resources)
@@ -100,8 +99,9 @@ ___
 - Cooper. Computability Theory
 ##### Collected Papers
 - Copeland, Posy & Shagrir (editors). Computability: Turing, Gödel, Church, and Beyond
-##### Special
-- **(accessible)** Charles Petzold. The Annotated Turing: A Guided Tour Through Alan Turing's Historic Paper on Computability and the Turing Machine
+##### Popular Science
+- Papadimitriou. Turing: A Novel About Computation. MIT Press
+- Charles Petzold. The Annotated Turing: A Guided Tour Through Alan Turing's Historic Paper on Computability and the Turing Machine
 
 
 
@@ -109,8 +109,6 @@ ___
 #### Books
 - Pavel Pudlák. Logical Foundations of Mathematics and Computational Complexity: A Gentle Introduction
 
-### Popular Science
-- Papadimitriou. Turing: A Novel About Computation. MIT Press
 
 
 
