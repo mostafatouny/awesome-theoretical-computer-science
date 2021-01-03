@@ -3,14 +3,14 @@
 
 ___
 
-## Table of Contents
+## Table of contents
 - [Broad Introduction to TCS](#broad-introduction-to-tcs)
   - [Books, Broad Introduction to TCS](#books-broad-introduction-to-tcs)
   - [Lecture Videos Playlists, Broad Introduction to TCS](#lecture-videos-playlists-broad-introduction-to-tcs)
 - [Introductory Theory of Computation](#introductory-theory-of-computation)
-  - [Books, Introductory Theory of Computation](#books-introductory-theory-of-computation)
-  - [MOOC, Introductory Theory of Computation](#mooc-introductory-theory-of-computation)
   - [Lecture Videos Playlists, Introductory Theory of Computation](#lecture-videos-playlists-introductory-theory-of-computation)
+  - [MOOC, Introductory Theory of Computation](#mooc-introductory-theory-of-computation)
+  - [Books, Introductory Theory of Computation](#books-introductory-theory-of-computation)
   - [Puzzles and Problem Sets, Introductory Theory of Computation](#puzzles-and-problem-sets-introductory-theory-of-computation)
 - [Computational Complexity](#computational-complexity)
   - [General, Computational Complexity](#general-computational-complexity)
@@ -19,13 +19,17 @@ ___
     - [Popular Science, General, Computational Complexity](#popular-science-general-computational-complexity)
     - [Surveys, General, Computational Complexity](#surveys-general-computational-complexity)
   - [Communication Complexity, Computational Complexity](#communication-complexity-computational-complexity)
+    - [Books, Communication Complexity, Computational Complexity](#books-communication-complexity-computational-complexity)
   - [Circuit Complexity, Computational Complexity](#circuit-complexity-computational-complexity)
+    - [Books, Circuit Complexity, Computational Complexity](#books-circuit-complexity-computational-complexity)
 - [Algorithms](#algorithms)
   - [Lecture Video Playlists, Algorithms](#lecture-video-playlists-algorithms)
   - [Books, Algorithms](#books-algorithms)
 - [Logic and Foundational Mathematics](#logic-and-foundational-mathematics)
   - [Computability Theory, Logic and Foundational Mathematics](#computability-theory-logic-and-foundational-mathematics)
+    - [Books, Computability Theory, Logic and Foundational Mathematics](#books-computability-theory-logic-and-foundational-mathematics)
   - [Computational Complexity, Logic and Foundational Mathematics](#computational-complexity-logic-and-foundational-mathematics)
+    - [Books, Computational Complexity, Logic and Foundational Mathematics](#books-computational-complexity-logic-and-foundational-mathematics)
   - [Popular Science, Logic and Foundational Mathematics](#popular-science-logic-and-foundational-mathematics)
 - [Philosophy](#philosophy)
   - [Lecture Notes, Philosophy](#lecture-notes-philosophy)
@@ -57,16 +61,16 @@ ___
 
 ## Introductory Theory of Computation
 
-### Books, Introductory Theory of Computation
-- **(Golden Standard)** Michael Sipser. Introduciton to Theory of Computation
-- Hopcroft, Motwani & Ullman. Introduction to Automata Theory, Languages, and Computation.
-- [Introduction to TCS. Boaz Barak](https://introtcs.org/public/index.html)
+### Lecture Videos Playlists, Introductory Theory of Computation
+- [Ryan O'Donnell. Great Ideas in Theoretical Computer Science. CMU](https://www.youtube.com/playlist?list=PLm3J0oaFux3aafQm568blS9blxtA_EWQv)
 
 ### MOOC, Introductory Theory of Computation
 - [Intro to Theoretical Computer Science. Udacity](https://www.udacity.com/course/intro-to-theoretical-computer-science--cs313)
 
-### Lecture Videos Playlists, Introductory Theory of Computation
-- [Ryan O'Donnell. Great Ideas in Theoretical Computer Science. CMU](https://www.youtube.com/playlist?list=PLm3J0oaFux3aafQm568blS9blxtA_EWQv)
+### Books, Introductory Theory of Computation
+- **(Golden Standard)** Michael Sipser. Introduciton to Theory of Computation
+- Hopcroft, Motwani & Ullman. Introduction to Automata Theory, Languages, and Computation.
+- [Introduction to TCS. Boaz Barak](https://introtcs.org/public/index.html)
 
 ### Puzzles and Problem Sets, Introductory Theory of Computation
 - Zhu & Ko. Problem Solving in Automata, Languages, and Complexity
@@ -89,9 +93,11 @@ ___
 - [Aram Harrow & Ashley Montanaro. Quantum Computational Supremacy](https://www.nature.com/articles/nature23458)
 
 ### Communication Complexity, Computational Complexity
+#### Books, Communication Complexity, Computational Complexity
 - **(accessible)** Rao & Yehudayoff. Communication Complexity and Applications
 
 ### Circuit Complexity, Computational Complexity
+#### Books, Circuit Complexity, Computational Complexity
 - Stasys Jukna. Boolean Function Complexity: Advances and Frontiers
 - Clote & Kranakis. Boolean Functions and Computation Models
 
@@ -109,11 +115,13 @@ ___
 ## Logic and Foundational Mathematics
 
 ### Computability Theory, Logic and Foundational Mathematics
+#### Books, Computability Theory, Logic and Foundational Mathematics
 - **(accessible)** Charles Petzold. The Annotated Turing: A Guided Tour Through Alan Turing's Historic Paper on Computability and the Turing Machine
 - Cutland, Computability, An Introduction to Recursive Function Theory
 - Cooper. Computability Theory
 
 ### Computational Complexity, Logic and Foundational Mathematics
+#### Books, Computational Complexity, Logic and Foundational Mathematics
 - Pavel Pudlák. Logical Foundations of Mathematics and Computational Complexity: A Gentle Introduction
 
 ### Popular Science, Logic and Foundational Mathematics
