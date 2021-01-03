@@ -8,6 +8,7 @@ ___
 
 ___
 
+## General Introduction to TCS
 
 
 ___
@@ -21,6 +22,8 @@ ___
 ## Blogs and RSS Aggregators
 ## Blog posts
 ## Magazines
+## Journals
+- [Foundations and Trends in Theoretical Computer Science](https://www.nowpublishers.com/TCS)
 
 ___
 
@@ -37,3 +40,4 @@ ___
 - SIGACT
 - PolyTCS
 - TCS subreddit
+- TCS stack exchange
