@@ -13,7 +13,8 @@ ___
 - Wigderson. Mathematics and Computation: A Theory Revolutionizing Technology and Science
 
 ### Lecture Videos Playlists
-[Ryan O'Donnell. CS Theory Toolkit](https://www.youtube.com/playlist?list=PLm3J0oaFux3ZYpFLwwrlv_EHH9wtH6pnX)
+- [Ryan O'Donnell. CS Theory Toolkit](https://www.youtube.com/playlist?list=PLm3J0oaFux3ZYpFLwwrlv_EHH9wtH6pnX)
+
 
 ## Introductory Theory of Computation
 ### Books
@@ -22,7 +23,7 @@ ___
 - [Introduction to TCS. Boaz Barak](https://introtcs.org/public/index.html)
 
 ### MOOC
-- Intro to Theoretical Computer Science. Udacity
+- [Intro to Theoretical Computer Science. Udacity](https://www.udacity.com/course/intro-to-theoretical-computer-science--cs313)
 
 ### Lecture Videos Playlists
 - [Ryan O'Donnell. Great Ideas in Theoretical Computer Science. CMU](https://www.youtube.com/playlist?list=PLm3J0oaFux3aafQm568blS9blxtA_EWQv)
@@ -30,13 +31,38 @@ ___
 ### Puzzles and Problem Sets
 - Zhu & Ko. Problem Solving in Automata, Languages, and Complexity
 
+
 ## Computational Complexity
+### Lecture Videos Playlists
+- [Ryan O'Donnell. Undergrad Complexity Theory at CMU](https://www.youtube.com/playlist?list=PLm3J0oaFux3YL5vLXpzOyJiLtqLp6dCW2)
+- [Ryan O'Donnell. Graduate Complexity Theory at CMU](https://www.youtube.com/playlist?list=PLm3J0oaFux3b8Gg1DdaJOzYNsaXYLAOKH)
+### Books
+- **(Golden Standard)** Arora & Barak. Computational Complexity: A Modern Approach
 
 ### Communication Complexity
+- **(accessible)** Rao & Yehudayoff. Communication Complexity and Applications
 
 ### Circuit Complexity
+- Stasys Jukna. Boolean Function Complexity: Advances and Frontiers
+- Clote & Kranakis. Boolean Functions and Computation Models
 
-## Computability Theory
+## Algorithms
+### Lecture Video Playlists
+- [Algorithmic Lower Bounds: Fun with Hardness Proofs](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-890-algorithmic-lower-bounds-fun-with-hardness-proofs-fall-2014/)
+### Books
+- Erik Demaine. Games, Puzzles, and Computation
+
+## Physics
+- Feynman And Computation: Exploring The Limits Of Computers
+
+## Logic and Foundational Mathematics
+### Computability Theory
+- **(accessible)** Charles Petzold. The Annotated Turing: A Guided Tour Through Alan Turing's Historic Paper on Computability and the Turing Machine
+- Cutland, Computability, An Introduction to Recursive Function Theory
+- Cooper. Computability Theory
+
+### Computational Complexity
+- Pavel Pudlák. Logical Foundations of Mathematics and Computational Complexity: A Gentle Introduction
 
 ## Philosophy
 ### Lecture Notes
@@ -45,16 +71,15 @@ ___
 - Donald Knuth. Things a Computer Scientist Rarely Talks About
 ### Papers
 - Dhorit Aharonov & Umesh Vazirani, Is Quantum Mechanics Falsifiable? A Computational Perspective on the Foundations of Quantum Mechanics
-
+### Popular Science
+- David Deutsch. The Fabric of Reality: The Science of Parallel Universes and Its Implications
 
 ___
 
-## MOOC
-## Lecture Videos Playlists
-## Books
-## Lecture Notes
 ## Popular Science
 - Papadimitriou. Turing: A Novel About Computation. MIT Press
+- Scott Aaronson. Quantum Computing Since Democritus
+- Lance Fortnow. The Golden Ticket: P, NP, and the search for the impossible
 ## Puzzles
 ## Blogs and RSS Aggregators
 ## Blog posts
@@ -67,6 +92,9 @@ ___
 ## Journals
 - [Foundations and Trends in Theoretical Computer Science](https://www.nowpublishers.com/TCS)
 ## Surveys
+### Computational Complexity
+- [John Watrous. Quantum Computational Complexity](https://arxiv.org/abs/0804.3401)
+- [Aram Harrow & Ashley Montanaro. Quantum Computational Supremacy](https://www.nature.com/articles/nature23458)
 ## Talks
 - berekely public 
 ## Handbook
