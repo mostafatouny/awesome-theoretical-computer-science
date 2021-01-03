@@ -28,7 +28,6 @@ ___
   - [Books](#books)
   - [Popular Science](#popular-science)
   - [Papers](#papers)
-  - [](#)
 - [Physics](#physics)
   - [Books](#books)
 - [Other Resources](#other-resources)
