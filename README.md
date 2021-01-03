@@ -3,8 +3,42 @@
 
 ___
 
-[TOC]
-
+## Table of contents
+- [Broad Introduction to TCS](#broad-introduction-to-tcs)
+  - [Books](#books)
+  - [Lecture Videos Playlists](#lecture-videos-playlists)
+- [Introductory Theory of Computation](#introductory-theory-of-computation)
+  - [Books](#books)
+  - [MOOC](#mooc)
+  - [Lecture Videos Playlists](#lecture-videos-playlists)
+  - [Puzzles and Problem Sets](#puzzles-and-problem-sets)
+- [Computational Complexity](#computational-complexity)
+  - [General](#general)
+  - [Communication Complexity](#communication-complexity)
+  - [Circuit Complexity](#circuit-complexity)
+- [Algorithms](#algorithms)
+  - [Lecture Video Playlists](#lecture-video-playlists)
+  - [Books](#books)
+- [Logic and Foundational Mathematics](#logic-and-foundational-mathematics)
+  - [Computability Theory](#computability-theory)
+  - [Computational Complexity](#computational-complexity)
+  - [Popular Science](#popular-science)
+- [Philosophy](#philosophy)
+  - [Lecture Notes](#lecture-notes)
+  - [Books](#books)
+  - [Popular Science](#popular-science)
+  - [Papers](#papers)
+  - [](#)
+- [Physics](#physics)
+  - [Books](#books)
+- [Other Resources](#other-resources)
+  - [Blog Posts](#blog-posts)
+  - [Magazines](#magazines)
+  - [Journals](#journals)
+  - [Handbooks](#handbooks)
+- [Talks](#talks)
+- [Related Awesome Lists](#related-awesome-lists)
+- [Useful Links](#useful-links)
 
 ___
 
