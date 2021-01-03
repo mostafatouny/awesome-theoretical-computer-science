@@ -34,7 +34,7 @@ ___
 
 ### Lecture Videos Playlists
 - [Ryan O'Donnell. CS Theory Toolkit](https://www.youtube.com/playlist?list=PLm3J0oaFux3ZYpFLwwrlv_EHH9wtH6pnX)
-
+  - alternatively: [bilibili](https://www.bilibili.com/video/BV1Ry4y1e7zR)
 
 
 ## Introductory Theory of Computation
