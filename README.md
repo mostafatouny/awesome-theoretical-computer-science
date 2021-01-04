@@ -17,7 +17,7 @@ ___
   - [Computational Complexity](#computational-complexity)
 - [Philosophy](#philosophy)
 - [Physics](#physics)
-- [Math/Logic Preliminaries](#math/logic-preliminaries)
+- [Math/Logic Preliminaries](#mathlogic-preliminaries)
   - [General](#general)
   - [Transition To Pure Rigour Math](#transition-to-pure-rigour-math)
   - [Discrete Mathematics](#discrete-mathematics)
