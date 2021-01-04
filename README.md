@@ -6,7 +6,7 @@ ___
 ## Table of contents
 - [Broad Introduction to TCS](#broad-introduction-to-tcs)
 - [Introductory Theory of Computation](#introductory-theory-of-computation)
-- [TCS Handbooks](#tcs-handbook)
+- [TCS Handbooks](#tcs-handbooks)
 - [Computational Complexity](#computational-complexity)
   - [General](#general)
   - [Communication Complexity](#communication-complexity)
@@ -61,7 +61,6 @@ ___
 - Handbook of Theoretical Computer Science. Volume A: Algorithms and Complexity
 - Handbook of Theoretical Computer Science. Volume B: Formal Methods and Semantics
 
-___
 
 ## Computational Complexity
 
