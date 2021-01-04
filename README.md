@@ -16,6 +16,10 @@ ___
   - [Computational Complexity](#computational-complexity)
 - [Philosophy](#philosophy)
 - [Physics](#physics)
+- [Mathematics Preliminaries](#mathematics-preliminaries)
+  - [General](#general)
+  - [Transition To Pure Rigour Math](#transition-to-pure-rigour-math)
+  - [Discrete Mathematics](#discrete-mathematics)
 - [Other Resources](#other-resources)
   - [Blog Posts](#blog-posts)
   - [Magazines](#magazines)
@@ -130,6 +134,25 @@ ___
 
 ### Books
 - Feynman And Computation: Exploring The Limits Of Computers
+
+
+
+## Mathematics Preliminaries
+### General
+#### Lecture Video Playlist
+- [Lehman, Leighton & Meyer. Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/lecture-slides/)
+  - [Companion Textbook](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/readings/MIT6_042JS15_textbook.pdf)
+#### Books
+- [Jeremy Kun. A Programmer's Introduction to Mathematics](https://pimbook.org/)
+### Transition To Pure Rigour Math
+#### Books
+- Velleman. How to Prove It: A Structured Approach
+- [Hammack. Book of Proof](https://www.people.vcu.edu/~rhammack/BookOfProof/)
+- Smith, Eggen & Andre. A Transition to Advanced Mathematics
+### Discrete Mathematics
+#### Books
+- Rosen. Discrete Mathematics and Its Applications
+- Rosen. Handbook of Discrete and Combinatorial Mathematics
 
 
 
