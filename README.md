@@ -58,6 +58,7 @@ ___
 - Zhu & Ko. Problem Solving in Automata, Languages, and Complexity
 
 ## TCS Handbooks
+**(Technical)**
 - Handbook of Theoretical Computer Science. Volume A: Algorithms and Complexity
 - Handbook of Theoretical Computer Science. Volume B: Formal Methods and Semantics
 
