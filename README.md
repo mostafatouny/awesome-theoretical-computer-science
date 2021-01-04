@@ -6,6 +6,7 @@ ___
 ## Table of contents
 - [Broad Introduction to TCS](#broad-introduction-to-tcs)
 - [Introductory Theory of Computation](#introductory-theory-of-computation)
+- [TCS Handbooks](#tcs-handbook)
 - [Computational Complexity](#computational-complexity)
   - [General](#general)
   - [Communication Complexity](#communication-complexity)
@@ -24,7 +25,6 @@ ___
   - [Blog Posts](#blog-posts)
   - [Magazines](#magazines)
   - [Journals](#journals)
-  - [Handbooks](#handbooks)
 - [Talks](#talks)
 - [Related Awesome Lists](#related-awesome-lists)
 - [Useful Links](#useful-links)
@@ -57,7 +57,11 @@ ___
 ### Puzzles and Problem Sets
 - Zhu & Ko. Problem Solving in Automata, Languages, and Complexity
 
+## TCS Handbooks
+- Handbook of Theoretical Computer Science. Volume A: Algorithms and Complexity
+- Handbook of Theoretical Computer Science. Volume B: Formal Methods and Semantics
 
+___
 
 ## Computational Complexity
 
@@ -137,12 +141,13 @@ ___
 
 
 
-## Mathematics Preliminaries
+## Math/Logic Preliminaries
 ### General
 #### Lecture Video Playlist
 - [Lehman, Leighton & Meyer. Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/lecture-slides/)
   - [Companion Textbook](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/readings/MIT6_042JS15_textbook.pdf)
 #### Books
+- Krantz. Handbook of Logic and Proof Techniques for Computer Science
 - [Jeremy Kun. A Programmer's Introduction to Mathematics](https://pimbook.org/)
 ### Transition To Pure Rigour Math
 #### Books
@@ -169,11 +174,6 @@ ___
 
 ### Journals
 - [Foundations and Trends in Theoretical Computer Science](https://www.nowpublishers.com/TCS)
-
-### Handbooks
-- Krantz. Handbook of Logic and Proof Techniques for Computer Science
-- Handbook of Theoretical Computer Science. Volume A: Algorithms and Complexity
-- Handbook of Theoretical Computer Science. Volume B: Formal Methods and Semantics
 
 
 
