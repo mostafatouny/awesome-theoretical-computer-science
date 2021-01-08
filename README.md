@@ -105,6 +105,7 @@ ___
 ##### Introductory
 - Cutland. Computability: An Introduction to Recursive Function Theory
 - Cooper. Computability Theory
+- Martin Davis, Computability and Unsolvability
 ##### Collected Papers
 - Copeland, Posy & Shagrir (editors). Computability: Turing, Gödel, Church, and Beyond
 ##### Popular Science
