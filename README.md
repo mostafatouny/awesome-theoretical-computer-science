@@ -151,10 +151,8 @@ ___
 - Krantz. Handbook of Logic and Proof Techniques for Computer Science
 - [Jeremy Kun. A Programmer's Introduction to Mathematics](https://pimbook.org/)
 ### Transition To Pure Rigour Math
-#### Books
-- Velleman. How to Prove It: A Structured Approach
-- [Hammack. Book of Proof](https://www.people.vcu.edu/~rhammack/BookOfProof/)
-- Smith, Eggen & Andre. A Transition to Advanced Mathematics
+It is already curated [here](https://github.com/mostafatouny/awesome-pure-math#transition-to-pure-rigour-math).
+
 ### Discrete Mathematics
 #### Books
 - Rosen. Discrete Mathematics and Its Applications
@@ -188,8 +186,9 @@ ___
 
 
 ## Related Awesome Lists
-- [Mathematics](https://github.com/rossant/awesome-math#mathematics-for-computer-science)
 - [Algorithms](https://github.com/tayllan/awesome-algorithms)
+- [Mathematics](https://github.com/rossant/awesome-math#mathematics-for-computer-science) (free lecture notes)
+- [Pure Math](https://github.com/mostafatouny/awesome-pure-math)
 - [Cryptography](https://github.com/sobolevn/awesome-cryptography)
 - [Quantum Computing](https://github.com/desireevl/awesome-quantum-computing)
 
