@@ -154,6 +154,10 @@ ___
 It is already curated [here](https://github.com/mostafatouny/awesome-pure-math#transition-to-pure-rigour-math).
 
 ### Discrete Mathematics
+#### Lecture Notes
+- [Joe Halpern. CS 2802: Discrete Structures - Honors. 2020. Cornell](https://www.cs.cornell.edu/courses/cs2802/2020fa/cs2802-20f-notes.html)
+  - [Homework](https://www.cs.cornell.edu/courses/cs2802/2020fa/cs2802-20f-homework.html)
+
 #### Books
 - Rosen. Discrete Mathematics and Its Applications
 - Rosen. Handbook of Discrete and Combinatorial Mathematics
