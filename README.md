@@ -132,6 +132,7 @@ ___
 - David Deutsch. The Fabric of Reality: The Science of Parallel Universes and Its Implications
 
 ### Papers
+- [Scott Aaronson. Why Should Philosophers Care About Computational Complexity Theory](https://www.scottaaronson.com/papers/philos.pdf)
 - Dhorit Aharonov & Umesh Vazirani, Is Quantum Mechanics Falsifiable? A Computational Perspective on the Foundations of Quantum Mechanics
 
 
