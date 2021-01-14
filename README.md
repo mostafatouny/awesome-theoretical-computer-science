@@ -58,9 +58,10 @@ ___
 - Zhu & Ko. Problem Solving in Automata, Languages, and Complexity
 
 ## TCS Handbooks
-**(Technical)**
-- Handbook of Theoretical Computer Science. Volume A: Algorithms and Complexity
-- Handbook of Theoretical Computer Science. Volume B: Formal Methods and Semantics
+- Atallah & Blanton. Algorithms and Theory of Computation Handbook: General Concepts and Techniques. Vol.1. CRC
+- Atallah & Blanton. Algorithms and Theory of Computation Handbook: Special Topics and Techniques. Vol.2. CRC
+- Handbook of Theoretical Computer Science. Volume A: Algorithms and Complexity. MIT Press
+- Handbook of Theoretical Computer Science. Volume B: Formal Methods and Semantics. MIT Press
 
 
 ## Computational Complexity
