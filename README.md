@@ -34,7 +34,7 @@ ___
 ## Broad Introduction to TCS
 ### Books
 - **(accessible)** Moore & Mertens. The Nature of Computation
-- Wigderson. Mathematics and Computation: A Theory Revolutionizing Technology and Science
+- [Wigderson. Mathematics and Computation: A Theory Revolutionizing Technology and Science](https://www.math.ias.edu/files/Book-online-Aug0619.pdf)
 
 ### Lecture Videos Playlists
 - [Ryan O'Donnell. CS Theory Toolkit](https://www.youtube.com/playlist?list=PLm3J0oaFux3ZYpFLwwrlv_EHH9wtH6pnX)
