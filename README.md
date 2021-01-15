@@ -4,9 +4,10 @@
 ___
 
 ## Table of contents
-- [Broad Introduction to TCS](#broad-introduction-to-tcs)
-- [Introductory Theory of Computation](#introductory-theory-of-computation)
-- [TCS Handbooks](#tcs-handbooks)
+- [## Introductory Theoretical Computer Science (aka Theory of Computation)](#introductory-theoretical-computer-science-aka-theory-of-computation)
+  - [Broad Intros](#broad-introduction-to-tcs)
+  - [Automata, Computability, & Complexity](#automata-computability--complexity)
+- [Theoretical Computer Science Handbooks](#theoretical-computer-science-handbooks)
 - [Computational Complexity](#computational-complexity)
   - [General](#general)
   - [Communication Complexity](#communication-complexity)
@@ -31,33 +32,36 @@ ___
 
 ___
 
-## Broad Introduction to TCS
-### Books
-- **(accessible)** Moore & Mertens. The Nature of Computation
+## Introductory Theoretical Computer Science (aka Theory of Computation)
+
+### Broad Intros
+#### Books
+- **(Accessible)** Moore & Mertens. The Nature of Computation
 - [Wigderson. Mathematics and Computation: A Theory Revolutionizing Technology and Science](https://www.math.ias.edu/files/Book-online-Aug0619.pdf)
 
-### Lecture Videos Playlists
+#### Lecture Videos Playlists
 - [Ryan O'Donnell. CS Theory Toolkit](https://www.youtube.com/playlist?list=PLm3J0oaFux3ZYpFLwwrlv_EHH9wtH6pnX)
   - alternatively: [bilibili](https://www.bilibili.com/video/BV1Ry4y1e7zR)
 
 
-## Introductory Theory of Computation
+### Automata, Computability, & Complexity
 
-### Lecture Videos Playlists
+#### Lecture Videos Playlists
 - [Ryan O'Donnell. Great Ideas in Theoretical Computer Science. CMU](https://www.youtube.com/playlist?list=PLm3J0oaFux3aafQm568blS9blxtA_EWQv)
 
-### MOOC
+#### MOOC
 - [Intro to Theoretical Computer Science. Udacity](https://www.udacity.com/course/intro-to-theoretical-computer-science--cs313)
 
-### Books
+#### Books
 - **(Golden Standard)** Michael Sipser. Introduciton to Theory of Computation
 - Hopcroft, Motwani & Ullman. Introduction to Automata Theory, Languages, and Computation.
 - [Introduction to TCS. Boaz Barak](https://introtcs.org/public/index.html)
 
-### Puzzles and Problem Sets
+#### Puzzles and Problem Sets
 - Zhu & Ko. Problem Solving in Automata, Languages, and Complexity
 
-## TCS Handbooks
+
+## Theoretical Computer Science Handbooks
 - Atallah & Blanton. Algorithms and Theory of Computation Handbook: General Concepts and Techniques. Vol.1. CRC
 - Atallah & Blanton. Algorithms and Theory of Computation Handbook: Special Topics and Techniques. Vol.2. CRC
 - Handbook of Theoretical Computer Science. Volume A: Algorithms and Complexity. MIT Press
