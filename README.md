@@ -4,7 +4,7 @@
 ___
 
 ## Table of contents
-- [## Introductory Theoretical Computer Science (aka Theory of Computation)](#introductory-theoretical-computer-science-aka-theory-of-computation)
+- [Introductory Theoretical Computer Science (aka Theory of Computation)](#introductory-theoretical-computer-science-aka-theory-of-computation)
   - [Broad Intros](#broad-introduction-to-tcs)
   - [Automata, Computability, & Complexity](#automata-computability--complexity)
 - [Theoretical Computer Science Handbooks](#theoretical-computer-science-handbooks)
