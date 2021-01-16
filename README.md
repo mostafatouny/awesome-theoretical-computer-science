@@ -172,10 +172,12 @@ It is already curated [here](https://github.com/mostafatouny/awesome-pure-math#t
 
 ## Other Resources
 
-### Blog Posts
-- [The Practice of Theory Research. Omer Reingold](https://omereingold.wordpress.com/cs-353-the-practice-of-theory-research/)
-- [Essays and Opinions by Oded Goldreich](http://www.wisdom.weizmann.ac.il/~oded/essays.html)
-- [Surveys For Students](https://thmatters.wordpress.com/surveys/)
+### Blog Posts and Essays
+- [Omer Reingold. The Practice of Theory Research](https://omereingold.wordpress.com/cs-353-the-practice-of-theory-research/)
+- [Manuel Blum. You and Your Research: An Advice to a Beginning Graduate Student](https://www.cs.cmu.edu/~mblum/research/pdf/grad.html)
+- [Dijkstra. The Three Golden Rules for Successful Scientific Research](https://link.springer.com/chapter/10.1007%2F978-1-4612-5695-3_58)
+- [Oded Goldreich. Essays and Opinions](http://www.wisdom.weizmann.ac.il/~oded/essays.html)
+- [Boaz Barak. Surveys For Students](https://thmatters.wordpress.com/surveys/)
 
 ### Magazines
 - The Legacy of Alan Turing: Pushing the Boundaries of Computation (Volume 18, Issue 3, Spring 2012). ACM, XRDS.
