@@ -178,6 +178,8 @@ It is already curated [here](https://github.com/mostafatouny/awesome-pure-math#t
 - [Dijkstra. The Three Golden Rules for Successful Scientific Research](https://link.springer.com/chapter/10.1007%2F978-1-4612-5695-3_58)
 - [Oded Goldreich. Essays and Opinions](http://www.wisdom.weizmann.ac.il/~oded/essays.html)
 - [Boaz Barak. Surveys For Students](https://thmatters.wordpress.com/surveys/)
+- [Steven Weinberg. Four Golden Lessons](https://www.nature.com/articles/426389a)
+    
 
 ### Magazines
 - The Legacy of Alan Turing: Pushing the Boundaries of Computation (Volume 18, Issue 3, Spring 2012). ACM, XRDS.
