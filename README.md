@@ -177,7 +177,9 @@ It is already curated [here](https://github.com/mostafatouny/awesome-pure-math#t
 - [Manuel Blum. You and Your Research: An Advice to a Beginning Graduate Student](https://www.cs.cmu.edu/~mblum/research/pdf/grad.html)
 - [Dijkstra. The Three Golden Rules for Successful Scientific Research](https://link.springer.com/chapter/10.1007%2F978-1-4612-5695-3_58)
 - [Oded Goldreich. Essays and Opinions](http://www.wisdom.weizmann.ac.il/~oded/essays.html)
+- [Boaz Barak. Advice for The Budding Theorist](https://windowsontheory.org/2015/11/03/advice-for-the-budding-theorist/)
 - [Boaz Barak. Surveys For Students](https://thmatters.wordpress.com/surveys/)
+- [Boaz Barak. Non-technical or Less-technical Writings and Talks](https://www.boazbarak.org/informal/)
 - [Steven Weinberg. Four Golden Lessons](https://www.nature.com/articles/426389a)
     
 
