@@ -23,7 +23,7 @@ ___
   - [Transition To Pure Rigour Math](#transition-to-pure-rigour-math)
   - [Discrete Mathematics](#discrete-mathematics)
 - [Other Resources](#other-resources)
-  - [Blog Posts](#blog-posts)
+  - [Blog Posts and Essays](#blog-posts-and-essays)
   - [Magazines](#magazines)
   - [Journals](#journals)
 - [Talks](#talks)
