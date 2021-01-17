@@ -180,6 +180,7 @@ It is already curated [here](https://github.com/mostafatouny/awesome-pure-math#t
 - [Boaz Barak. Advice for The Budding Theorist](https://windowsontheory.org/2015/11/03/advice-for-the-budding-theorist/)
 - [Boaz Barak. Surveys For Students](https://thmatters.wordpress.com/surveys/)
 - [Boaz Barak. Non-technical or Less-technical Writings and Talks](https://www.boazbarak.org/informal/)
+- [Richard Hamming. You and Your Research](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
 - [Steven Weinberg. Four Golden Lessons](https://www.nature.com/articles/426389a)
 - [Terry Tao. Career Advice](https://terrytao.wordpress.com/career-advice/)
 
@@ -208,7 +209,7 @@ It is already curated [here](https://github.com/mostafatouny/awesome-pure-math#t
 - [Pure Math](https://github.com/mostafatouny/awesome-pure-math)
 - [Cryptography](https://github.com/sobolevn/awesome-cryptography)
 - [Quantum Computing](https://github.com/desireevl/awesome-quantum-computing)
-
+- [research-advice](https://github.com/smilli/research-advice), [research-advice-list](https://github.com/TheShadow29/research-advice-list)
 
 
 ## Useful Links
