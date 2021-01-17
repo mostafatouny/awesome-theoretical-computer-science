@@ -181,7 +181,8 @@ It is already curated [here](https://github.com/mostafatouny/awesome-pure-math#t
 - [Boaz Barak. Surveys For Students](https://thmatters.wordpress.com/surveys/)
 - [Boaz Barak. Non-technical or Less-technical Writings and Talks](https://www.boazbarak.org/informal/)
 - [Steven Weinberg. Four Golden Lessons](https://www.nature.com/articles/426389a)
-    
+- [Terry Tao. Career Advice](https://terrytao.wordpress.com/career-advice/)
+
 
 ### Magazines
 - The Legacy of Alan Turing: Pushing the Boundaries of Computation (Volume 18, Issue 3, Spring 2012). ACM, XRDS.
