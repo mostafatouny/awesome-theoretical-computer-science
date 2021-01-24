@@ -218,3 +218,4 @@ It is already curated [here](https://github.com/mostafatouny/awesome-pure-math#t
 - [TCS Subreddit](https://www.reddit.com/r/theoreticalcs)
 - [TCS Stack Exchange](https://cstheory.stackexchange.com/)
 - [PolyTCS](https://polytcs.wordpress.com/)
+- [Conferences in TCS](http://www.nicolas-hermann.net/conf.html)
