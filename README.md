@@ -155,6 +155,7 @@ ___
   - [Companion Textbook](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/readings/MIT6_042JS15_textbook.pdf)
 #### Books
 - Krantz. Handbook of Logic and Proof Techniques for Computer Science
+- [Aho & Ullman. Foundations of Computer Science](http://i.stanford.edu/~ullman/focs.html)
 - [Jeremy Kun. A Programmer's Introduction to Mathematics](https://pimbook.org/)
 ### Transition To Pure Rigour Math
 It is already curated [here](https://github.com/mostafatouny/awesome-pure-math#transition-to-pure-rigour-math).
