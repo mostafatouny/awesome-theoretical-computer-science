@@ -43,6 +43,10 @@ ___
 - [Ryan O'Donnell. CS Theory Toolkit](https://www.youtube.com/playlist?list=PLm3J0oaFux3ZYpFLwwrlv_EHH9wtH6pnX)
   - alternatively: [bilibili](https://www.bilibili.com/video/BV1Ry4y1e7zR)
 
+#### Lecture Notes
+- [Yuan Zhou. A Theorist's Toolkit](https://yuanz.web.illinois.edu/teaching/B609fa16/)
+- [Ryan O'Donnell. A Theorist's Toolkit](https://www.cs.cmu.edu/~odonnell/toolkit13/)
+- [Sanjeev Arora. Thinking Like a Theorist](https://www.cs.princeton.edu/courses/archive/fall07/cos597D/Site/lectopics.html)
 
 ### Automata, Computability, & Complexity
 
