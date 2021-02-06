@@ -8,6 +8,7 @@ ___
   - [Broad Intros](#broad-intros)
   - [Automata, Computability, & Complexity](#automata-computability--complexity)
 - [Theoretical Computer Science Handbooks](#theoretical-computer-science-handbooks)
+- [Theoretical Computer Science Cheat Sheets](#theoretical-computer-science-cheat-sheets)
 - [Computational Complexity](#computational-complexity)
   - [General](#general)
   - [Communication Complexity](#communication-complexity)
@@ -73,6 +74,12 @@ ___
 - Atallah & Blanton. Algorithms and Theory of Computation Handbook: Special Topics and Techniques. Vol.2. CRC
 - Handbook of Theoretical Computer Science. Volume A: Algorithms and Complexity. MIT Press
 - Handbook of Theoretical Computer Science. Volume B: Formal Methods and Semantics. MIT Press
+
+
+
+## Theoretical Computer Science Cheat Sheets
+- [TCS Cheat Sheet](http://www.cheat-sheets.org/saved-copy/cheat.pdf)
+
 
 
 ## Computational Complexity
