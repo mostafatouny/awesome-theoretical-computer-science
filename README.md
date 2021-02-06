@@ -229,8 +229,9 @@ It is already curated [here](https://github.com/mostafatouny/awesome-pure-math#t
 
 ## Useful Links
 - [Theory of Computing Blog Aggregator](https://cstheory-feed.org/)
-- [SIGACT](https://www.sigact.org/articles/web_pages.html)
-- [TCS Subreddit](https://www.reddit.com/r/theoreticalcs)
-- [TCS Stack Exchange](https://cstheory.stackexchange.com/)
-- [PolyTCS](https://polytcs.wordpress.com/)
+- [Research Masters in TCS](https://docs.google.com/spreadsheets/d/1znVmERIVm2Fz2cbYjXE97VH9eIx7UdaLh5n3FBYb8o8/edit?usp=sharing)
 - [Conferences in TCS](http://www.nicolas-hermann.net/conf.html)
+- [PolyTCS](https://polytcs.wordpress.com/)
+- [SIGACT](https://www.sigact.org/articles/web_pages.html)
+- [TCS Stack Exchange](https://cstheory.stackexchange.com/)
+- [TCS Subreddit](https://www.reddit.com/r/theoreticalcs)
