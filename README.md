@@ -218,7 +218,6 @@ It is already curated [here](https://github.com/mostafatouny/awesome-pure-math#t
 - [Pure Math](https://github.com/mostafatouny/awesome-pure-math)
 - [Cryptography](https://github.com/sobolevn/awesome-cryptography)
 - [Quantum Computing](https://github.com/desireevl/awesome-quantum-computing)
-- [research-advice](https://github.com/smilli/research-advice), [research-advice-list](https://github.com/TheShadow29/research-advice-list)
 
 
 ## Useful Links
