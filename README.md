@@ -203,7 +203,7 @@ It is already curated [here](https://github.com/mostafatouny/awesome-pure-math#t
 - [Foundations and Trends in Theoretical Computer Science](https://www.nowpublishers.com/TCS)
 
 #### Cheat-Sheets
-- [TCS Cheat Sheet](https://www.cosy.sbg.ac.at)
+- [TCS Cheat Sheet](https://www.cosy.sbg.ac.at/~held/teaching/aads/TCS-cheat_sheet.pdf)
 
 
 ## Talks
