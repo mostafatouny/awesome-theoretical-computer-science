@@ -26,6 +26,7 @@ ___
   - [Blog Posts and Essays](#blog-posts-and-essays)
   - [Magazines](#magazines)
   - [Journals](#journals)
+  - [Cheat-sheets](#cheat-sheets)
 - [Talks](#talks)
 - [Related Awesome Lists](#related-awesome-lists)
 - [Useful Links](#useful-links)
@@ -201,6 +202,8 @@ It is already curated [here](https://github.com/mostafatouny/awesome-pure-math#t
 ### Journals
 - [Foundations and Trends in Theoretical Computer Science](https://www.nowpublishers.com/TCS)
 
+#### Cheat-Sheets
+- [TCS Cheat Sheet](https://www.cosy.sbg.ac.at)
 
 
 ## Talks
