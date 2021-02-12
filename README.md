@@ -165,6 +165,7 @@ ___
 #### Books
 - Krantz. Handbook of Logic and Proof Techniques for Computer Science
 - [Aho & Ullman. Foundations of Computer Science](http://i.stanford.edu/~ullman/focs.html)
+- [Delftse Foundations of Computation](https://textbooks.open.tudelft.nl/textbooks/catalog/book/13)
 - [Jeremy Kun. A Programmer's Introduction to Mathematics](https://pimbook.org/)
 ### Transition To Pure Rigour Math
 It is already curated [here](https://github.com/mostafatouny/awesome-pure-math#transition-to-pure-rigour-math).
