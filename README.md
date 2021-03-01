@@ -89,9 +89,6 @@ ___
 #### Popular Science
 - Lance Fortnow. The Golden Ticket: P, NP, and the search for the impossible
 - Scott Aaronson. Quantum Computing Since Democritus
-#### Surveys
-- [John Watrous. Quantum Computational Complexity](https://arxiv.org/abs/0804.3401)
-- [Aram Harrow & Ashley Montanaro. Quantum Computational Supremacy](https://www.nature.com/articles/nature23458)
 
 ### Communication Complexity
 #### Books
@@ -181,9 +178,14 @@ It is already curated [here](https://github.com/mostafatouny/awesome-pure-math#t
 - Rosen. Handbook of Discrete and Combinatorial Mathematics
 
 
+
 ## Surveys
+- [John Watrous. Quantum Computational Complexity](https://arxiv.org/abs/0804.3401)
+- [Aram Harrow & Ashley Montanaro. Quantum Computational Supremacy](https://www.nature.com/articles/nature23458)
 - [Stephen Cook. An Overview of Computational Complexity](https://dl.acm.org/doi/abs/10.1145/1283920.1283938?casa_token=I0zkxGUh7zoAAAAA:qUozzyaWcba56dq5q6CXVo2JvGVOzcXY2J8HKoI-OZxEbxhVXlQlWF0pg5ttfs8X8pznp5j7Bbrktg)
 - [Lance Fortnow & Steve Homer. A Short History of Computational Complexity](https://www.researchgate.net/profile/Lance-Fortnow/publication/220530495_A_Short_History_of_Computational_Complexity/links/0deec52bd7ab603fef000000/A-Short-History-of-Computational-Complexity.pdf)
+
+
 
 ## Other Resources
 
