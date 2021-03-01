@@ -210,6 +210,7 @@ It is already curated [here](https://github.com/mostafatouny/awesome-pure-math#t
 
 ## Talks
 - [TCS+](https://www.youtube.com/user/TCSplusSeminars)
+- [Turing Lectures. ACM](https://amturing.acm.org/lectures.cfm)
 - ACM A.M. Turing Laureate Interview. Berekely
 	- [Shafi Goldwasser and Silvio Micali](https://www.youtube.com/watch?v=yBRbSzPgG4A)
 - Berkeley in the 80s
