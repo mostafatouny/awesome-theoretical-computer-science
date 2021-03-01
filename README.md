@@ -15,13 +15,13 @@ ___
 - [Algorithms](#algorithms)
 - [Logic and Foundational Mathematics](#logic-and-foundational-mathematics)
   - [Computability Theory](#computability-theory)
-  - [Computational Complexity](#computational-complexity)
 - [Philosophy](#philosophy)
 - [Physics](#physics)
 - [Math/Logic Preliminaries](#mathlogic-preliminaries)
   - [General](#general)
   - [Transition To Pure Rigour Math](#transition-to-pure-rigour-math)
   - [Discrete Mathematics](#discrete-mathematics)
+- [Surveys](#surveys)
 - [Other Resources](#other-resources)
   - [Blog Posts and Essays](#blog-posts-and-essays)
   - [Magazines](#magazines)
@@ -181,6 +181,9 @@ It is already curated [here](https://github.com/mostafatouny/awesome-pure-math#t
 - Rosen. Handbook of Discrete and Combinatorial Mathematics
 
 
+## Surveys
+- [Stephen Cook. An Overview of Computational Complexity](https://dl.acm.org/doi/abs/10.1145/1283920.1283938?casa_token=I0zkxGUh7zoAAAAA:qUozzyaWcba56dq5q6CXVo2JvGVOzcXY2J8HKoI-OZxEbxhVXlQlWF0pg5ttfs8X8pznp5j7Bbrktg)
+- [Lance Fortnow & Steve Homer. A Short History of Computational Complexity](https://www.researchgate.net/profile/Lance-Fortnow/publication/220530495_A_Short_History_of_Computational_Complexity/links/0deec52bd7ab603fef000000/A-Short-History-of-Computational-Complexity.pdf)
 
 ## Other Resources
 
