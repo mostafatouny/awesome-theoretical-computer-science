@@ -209,7 +209,10 @@ It is already curated [here](https://github.com/mostafatouny/awesome-pure-math#t
 ### Journals
 - [Foundations and Trends in Theoretical Computer Science](https://www.nowpublishers.com/TCS)
 
-#### Cheat-Sheets
+### Popular Science
+- Shasha & Lazere. Out of their Minds: The Lives and Discoveries of 15 Great Computer Scientists
+
+### Cheat-Sheets
 - [TCS Cheat Sheet](https://www.cosy.sbg.ac.at/~held/teaching/aads/TCS-cheat_sheet.pdf)
 
 
