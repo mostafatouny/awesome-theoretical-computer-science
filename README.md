@@ -176,6 +176,7 @@ It is already curated [here](https://github.com/mostafatouny/awesome-pure-math#t
 #### Books
 - Rosen. Discrete Mathematics and Its Applications
 - Rosen. Handbook of Discrete and Combinatorial Mathematics
+- Gries & Schneider. A Logical Approach to Discrete Math
 
 
 
