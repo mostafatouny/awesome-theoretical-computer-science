@@ -35,7 +35,7 @@
 
 ### Broad Intros
 #### Books
-- **(Accessible)** Moore & Mertens. The Nature of Computation
+- Moore & Mertens. The Nature of Computation
 - [Wigderson. Mathematics and Computation: A Theory Revolutionizing Technology and Science](https://www.math.ias.edu/files/Book-online-Aug0619.pdf)
 
 #### Lecture Videos Playlists
@@ -60,7 +60,7 @@
 - [Intro to Theoretical Computer Science. Udacity](https://www.udacity.com/course/intro-to-theoretical-computer-science--cs313)
 
 #### Books
-- **(Golden Standard)** Michael Sipser. Introduciton to Theory of Computation
+- Michael Sipser. Introduciton to Theory of Computation
 - Hopcroft, Motwani & Ullman. Introduction to Automata Theory, Languages, and Computation.
 - [Introduction to TCS. Boaz Barak](https://introtcs.org/public/index.html)
 
@@ -83,14 +83,14 @@
 - [Ryan O'Donnell. Undergrad Complexity Theory at CMU](https://www.youtube.com/playlist?list=PLm3J0oaFux3YL5vLXpzOyJiLtqLp6dCW2)
 - [Ryan O'Donnell. Graduate Complexity Theory at CMU](https://www.youtube.com/playlist?list=PLm3J0oaFux3b8Gg1DdaJOzYNsaXYLAOKH)
 #### Books
-- **(Golden Standard)** Arora & Barak. Computational Complexity: A Modern Approach
+- Arora & Barak. Computational Complexity: A Modern Approach
 #### Popular Science
 - Lance Fortnow. The Golden Ticket: P, NP, and the search for the impossible
 - Scott Aaronson. Quantum Computing Since Democritus
 
 ### Communication Complexity
 #### Books
-- **(accessible)** Rao & Yehudayoff. Communication Complexity and Applications
+- Rao & Yehudayoff. Communication Complexity and Applications
 
 ### Circuit Complexity
 #### Books
