@@ -1,0 +1,1 @@
+- The repo is devoted to theoretical computer science, which is distinguished by its mathematical rigour and technique. More practically-oriented resources are ought to be on other repositories.
