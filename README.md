@@ -24,6 +24,7 @@
   - [Blog Posts and Essays](#blog-posts-and-essays)
   - [Magazines](#magazines)
   - [Journals](#journals)
+  - Popular Science
   - [Cheat-sheets](#cheat-sheets)
 - [Talks](#talks)
 - [Related Awesome Lists](#related-awesome-lists)
