@@ -1,9 +1,9 @@
 # Awesome Theoretical Computer Science [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 ![TCS-banner](TCS-banner.png)
 
-___
+---
 
-## Table of contents
+## Contents
 - [Introductory Theoretical Computer Science (aka Theory of Computation)](#introductory-theoretical-computer-science-aka-theory-of-computation)
   - [Broad Intros](#broad-intros)
   - [Automata, Computability, & Complexity](#automata-computability--complexity)
@@ -31,7 +31,7 @@ ___
 - [Related Awesome Lists](#related-awesome-lists)
 - [Useful Links](#useful-links)
 
-___
+---
 
 ## Introductory Theoretical Computer Science (aka Theory of Computation)
 
