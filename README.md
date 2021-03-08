@@ -23,8 +23,7 @@
 - [Surveys](#surveys)
 - [Other Resources](#other-resources)
   - [Blog Posts and Essays](#blog-posts-and-essays)
-  - [Magazines](#magazines)
-  - [Journals](#journals)
+  - [Magazines/Journals/News](#magazinesjournalsnews)
   - Popular Science
   - [Cheat-sheets](#cheat-sheets)
 - [Talks](#talks)
@@ -192,6 +191,7 @@ It is already curated [here](https://github.com/mostafatouny/awesome-pure-math#t
 
 ### Blog Posts and Essays
 - [Omer Reingold. The Practice of Theory Research](https://omereingold.wordpress.com/cs-353-the-practice-of-theory-research/)
+- [Omer Reingold. Through the Lens of a Passionate Theoretician](https://cacm.acm.org/magazines/2020/3/243025-through-the-lens-of-a-passionate-theoretician/fulltext)
 - [Manuel Blum. You and Your Research: An Advice to a Beginning Graduate Student](https://www.cs.cmu.edu/~mblum/research/pdf/grad.html)
 - [Dijkstra. The Three Golden Rules for Successful Scientific Research](https://link.springer.com/chapter/10.1007%2F978-1-4612-5695-3_58)
 - [Oded Goldreich. Essays and Opinions](http://www.wisdom.weizmann.ac.il/~oded/essays.html)
@@ -203,11 +203,9 @@ It is already curated [here](https://github.com/mostafatouny/awesome-pure-math#t
 - [Terry Tao. Career Advice](https://terrytao.wordpress.com/career-advice/)
 
 
-### Magazines
+### Magazines/Journals/News
 - The Legacy of Alan Turing: Pushing the Boundaries of Computation (Volume 18, Issue 3, Spring 2012). ACM, XRDS.
-- [Omer Reingold. Through the Lens of a Passionate Theoretician](https://cacm.acm.org/magazines/2020/3/243025-through-the-lens-of-a-passionate-theoretician/fulltext)
-
-### Journals
+- [SIGACT News](https://dl.acm.org/loi/sigact)
 - [Foundations and Trends in Theoretical Computer Science](https://www.nowpublishers.com/TCS)
 
 ### Popular Science
