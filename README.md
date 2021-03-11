@@ -5,38 +5,27 @@
 ---
 
 ## Contents
-- [Introductory Theoretical Computer Science (aka Theory of Computation)](#introductory-theoretical-computer-science-aka-theory-of-computation)
-  - [Broad Intros](#broad-intros)
-  - [Automata, Computability, & Complexity](#automata-computability--complexity)
+- [Introductory Theoretical Computer Science](#introductory-theoretical-computer-science)
 - [Theoretical Computer Science Handbooks](#theoretical-computer-science-handbooks)
 - [Computational Complexity](#computational-complexity)
-  - [Communication Complexity](#communication-complexity)
-  - [Circuit Complexity](#circuit-complexity)
 - [Algorithms](#algorithms)
 - [Logic and Foundational Mathematics](#logic-and-foundational-mathematics)
-  - [Computability Theory](#computability-theory)
 - [Philosophy](#philosophy)
 - [Physics](#physics)
 - [Math/Logic Preliminaries](#mathlogic-preliminaries)
-  - [Transition To Pure Rigour Math](#transition-to-pure-rigour-math)
-  - [Discrete Mathematics](#discrete-mathematics)
 - [Surveys](#surveys)
 - [Other Resources](#other-resources)
-  - [Blog Posts and Essays](#blog-posts-and-essays)
-  - [Magazines/Journals/News](#magazinesjournalsnews)
-  - Popular Science
-  - [Cheat-sheets](#cheat-sheets)
 - [Talks](#talks)
 - [Related Awesome Lists](#related-awesome-lists)
 - [Useful Links](#useful-links)
 
 ---
 
-## Introductory Theoretical Computer Science (aka Theory of Computation)
+## Introductory Theoretical Computer Science
 
 ### Broad Intros
 #### Books
-- Moore & Mertens. The Nature of Computation
+- [Moore & Mertens. The Nature of Computation](http://nature-of-computation.org/)
 - [Wigderson. Mathematics and Computation: A Theory Revolutionizing Technology and Science](https://www.math.ias.edu/files/Book-online-Aug0619.pdf)
 
 #### Lecture Videos Playlists
@@ -62,18 +51,18 @@
 
 #### Books
 - Michael Sipser. Introduciton to Theory of Computation
-- Hopcroft, Motwani & Ullman. Introduction to Automata Theory, Languages, and Computation.
+- [Hopcroft, Motwani & Ullman. Introduction to Automata Theory, Languages, and Computation](https://www.pearson.com/us/higher-education/program/Hopcroft-Introduction-to-Automata-Theory-Languages-and-Computation-3rd-Edition/PGM64331.html)
 - [Introduction to TCS. Boaz Barak](https://introtcs.org/public/index.html)
 
 #### Puzzles and Problem Sets
-- Zhu & Ko. Problem Solving in Automata, Languages, and Complexity
+- [Zhu & Ko. Problem Solving in Automata, Languages, and Complexity](https://onlinelibrary.wiley.com/doi/book/10.1002/0471224642)
 
 
 ## Theoretical Computer Science Handbooks
-- Atallah & Blanton. Algorithms and Theory of Computation Handbook: General Concepts and Techniques. Vol.1. CRC
-- Atallah & Blanton. Algorithms and Theory of Computation Handbook: Special Topics and Techniques. Vol.2. CRC
-- Handbook of Theoretical Computer Science. Volume A: Algorithms and Complexity. MIT Press
-- Handbook of Theoretical Computer Science. Volume B: Formal Methods and Semantics. MIT Press
+- [Atallah & Blanton. Algorithms and Theory of Computation Handbook: General Concepts and Techniques](https://www.routledge.com/Algorithms-and-Theory-of-Computation-Handbook-Volume-1-General-Concepts/Atallah-Blanton/p/book/9781138113930)
+- [Atallah & Blanton. Algorithms and Theory of Computation Handbook: Special Topics and Techniques](https://www.routledge.com/Algorithms-and-Theory-of-Computation-Handbook-Volume-2-Special-Topics/Atallah-Blanton/p/book/9780367384845)
+- [Handbook of Theoretical Computer Science. Volume A: Algorithms and Complexity](https://mitpress.mit.edu/books/handbook-theoretical-computer-science-volume)
+- [Handbook of Theoretical Computer Science. Volume B: Formal Methods and Semantics](https://mitpress.mit.edu/books/handbook-theoretical-computer-science-2-vol-set)
 
 
 
@@ -84,28 +73,28 @@
 - [Ryan O'Donnell. Undergrad Complexity Theory at CMU](https://www.youtube.com/playlist?list=PLm3J0oaFux3YL5vLXpzOyJiLtqLp6dCW2)
 - [Ryan O'Donnell. Graduate Complexity Theory at CMU](https://www.youtube.com/playlist?list=PLm3J0oaFux3b8Gg1DdaJOzYNsaXYLAOKH)
 #### Books
-- Arora & Barak. Computational Complexity: A Modern Approach
+- [Arora & Barak. Computational Complexity: A Modern Approach](https://theory.cs.princeton.edu/complexity/book.pdf)
 #### Popular Science
-- Lance Fortnow. The Golden Ticket: P, NP, and the search for the impossible
-- Scott Aaronson. Quantum Computing Since Democritus
+- [Lance Fortnow. The Golden Ticket: P, NP, and the Search for the Impossible](https://goldenticket.fortnow.com/)
+- [Scott Aaronson. Quantum Computing Since Democritus](https://assets.cambridge.org/97805211/99568/frontmatter/9780521199568_frontmatter.pdf)
 
 ### Communication Complexity
 #### Books
-- Rao & Yehudayoff. Communication Complexity and Applications
+- [Rao & Yehudayoff. Communication Complexity and Applications](https://www.cambridge.org/core/books/communication-complexity/5F44993E3B2597174B71D3F21E748443)
 
 ### Circuit Complexity
 #### Books
-- Stasys Jukna. Boolean Function Complexity: Advances and Frontiers
-- Clote & Kranakis. Boolean Functions and Computation Models
+- [Stasys Jukna. Boolean Function Complexity: Advances and Frontiers](https://www.springer.com/gp/book/9783642245077)
+- [Clote & Kranakis. Boolean Functions and Computation Models](https://www.springer.com/gp/book/9783540594369)
 
 
 
 ## Algorithms
 
 ### Lecture Video Playlists
-- [Algorithmic Lower Bounds: Fun with Hardness Proofs](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-890-algorithmic-lower-bounds-fun-with-hardness-proofs-fall-2014/)
+- [Erik Demaine. Algorithmic Lower Bounds: Fun with Hardness Proofs](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-890-algorithmic-lower-bounds-fun-with-hardness-proofs-fall-2014/)
 ### Books
-- Erik Demaine. Games, Puzzles, and Computation
+- [Erik Demaine. Games, Puzzles, and Computation](https://www.routledge.com/Games-Puzzles-and-Computation/Hearn-Demaine/p/book/9781568813226)
 
 
 
@@ -114,20 +103,20 @@
 ### Computability Theory
 #### Books
 ##### Introductory
-- Cutland. Computability: An Introduction to Recursive Function Theory
-- Cooper. Computability Theory
-- Martin Davis, Computability and Unsolvability
+- [Cutland. Computability: An Introduction to Recursive Function Theory](https://www.cambridge.org/highereducation/books/computability/E8F085FDBECB8280F7723D71C1D2EE1C)
+- [Cooper. Computability Theory](https://www.routledge.com/Computability-Theory/Cooper-Cooper/p/book/9781584882374)
+- [Davis. Computability and Unsolvability](https://www.amazon.com/Computability-Unsolvability-Prof-Martin-Davis/dp/0486614719)
 ##### Collected Papers
-- Copeland, Posy & Shagrir (editors). Computability: Turing, Gödel, Church, and Beyond
+- [Copeland, Posy & Shagrir (editors). Computability: Turing, Gödel, Church, and Beyond](https://mitpress.mit.edu/books/computability)
 ##### Popular Science
-- Papadimitriou. Turing: A Novel About Computation. MIT Press
-- Charles Petzold. The Annotated Turing: A Guided Tour Through Alan Turing's Historic Paper on Computability and the Turing Machine
+- [Papadimitriou. Turing: A Novel About Computation](https://mitpress.mit.edu/books/turing-novel-about-computation)
+- [Petzold. The Annotated Turing: A Guided Tour Through Alan Turing's Historic Paper on Computability and the Turing Machine](http://www.charlespetzold.com/AnnotatedTuring/)
 
 
 
 ### Computational Complexity
 #### Books
-- Pavel Pudlák. Logical Foundations of Mathematics and Computational Complexity: A Gentle Introduction
+- [Pudlák. Logical Foundations of Mathematics and Computational Complexity: A Gentle Introduction](https://www.springer.com/gp/book/9783319001180)
 
 
 
@@ -137,20 +126,20 @@
 ### Lecture Notes
 - [6.893 Philosophy and Theoretical Computer Science. MIT](https://stellar.mit.edu/S/course/6/fa11/6.893/index.html)
 ### Books
-- Donald Knuth. Things a Computer Scientist Rarely Talks About
+- [Knuth. Things a Computer Scientist Rarely Talks About](https://web.stanford.edu/group/cslipublications/cslipublications/site/1575863278.shtml)
 ### Popular Science
-- David Deutsch. The Fabric of Reality: The Science of Parallel Universes and Its Implications
+- [Deutsch. The Fabric of Reality: The Science of Parallel Universes and Its Implications](http://www.daviddeutsch.org.uk/books/the-fabric-of-reality/)
 
 ### Papers
-- [Scott Aaronson. Why Should Philosophers Care About Computational Complexity Theory](https://www.scottaaronson.com/papers/philos.pdf)
-- Dhorit Aharonov & Umesh Vazirani, Is Quantum Mechanics Falsifiable? A Computational Perspective on the Foundations of Quantum Mechanics
+- [Aaronson. Why Should Philosophers Care About Computational Complexity Theory](https://www.scottaaronson.com/papers/philos.pdf)
+- [Aharonov & Vazirani, Is Quantum Mechanics Falsifiable? A Computational Perspective on the Foundations of Quantum Mechanics](https://www.researchgate.net/publication/227171743_Is_Quantum_Mechanics_Falsifiable_A_computational_perspective_on_thefoundations_of_Quantum_Mechanics)
 
 
 
 ## Physics
 
 ### Books
-- Feynman And Computation: Exploring The Limits Of Computers
+- [Feynman. Feynman And Computation: Exploring The Limits Of Computers](https://www.taylorfrancis.com/books/feynman-computation-anthony-hey/e/10.1201/9780429500459)
 
 
 
@@ -160,16 +149,16 @@
 - [Lehman, Leighton & Meyer. Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/lecture-slides/)
   - [Companion Textbook](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/readings/MIT6_042JS15_textbook.pdf)
 #### Books
-- Krantz. Handbook of Logic and Proof Techniques for Computer Science
+- [Krantz. Handbook of Logic and Proof Techniques for Computer Science](https://www.maa.org/press/maa-reviews/handbook-of-logic-and-proof-techniques-for-computer-science)
 - [Aho & Ullman. Foundations of Computer Science](http://i.stanford.edu/~ullman/focs.html)
-- [Delftse Foundations of Computation](https://textbooks.open.tudelft.nl/textbooks/catalog/book/13)
+- [Tu Delft. Delftse Foundations of Computation](https://textbooks.open.tudelft.nl/textbooks/catalog/book/13)
 - [Jeremy Kun. A Programmer's Introduction to Mathematics](https://pimbook.org/)
 ### Transition To Pure Rigour Math
 It is already curated [here](https://github.com/mostafatouny/awesome-pure-math#transition-to-pure-rigour-math).
 
 ### Discrete Mathematics
 #### Lecture Notes
-- [Joe Halpern. CS 2802: Discrete Structures - Honors. 2020. Cornell](https://www.cs.cornell.edu/courses/cs2802/2020fa/cs2802-20f-notes.html)
+- [Halpern. CS 2802: Discrete Structures - Honors. 2020. Cornell](https://www.cs.cornell.edu/courses/cs2802/2020fa/cs2802-20f-notes.html)
   - [Homework](https://www.cs.cornell.edu/courses/cs2802/2020fa/cs2802-20f-homework.html)
 
 #### Books
@@ -180,27 +169,27 @@ It is already curated [here](https://github.com/mostafatouny/awesome-pure-math#t
 
 
 ## Surveys
-- [John Watrous. Quantum Computational Complexity](https://arxiv.org/abs/0804.3401)
-- [Aram Harrow & Ashley Montanaro. Quantum Computational Supremacy](https://www.nature.com/articles/nature23458)
-- [Stephen Cook. An Overview of Computational Complexity](https://dl.acm.org/doi/abs/10.1145/1283920.1283938?casa_token=I0zkxGUh7zoAAAAA:qUozzyaWcba56dq5q6CXVo2JvGVOzcXY2J8HKoI-OZxEbxhVXlQlWF0pg5ttfs8X8pznp5j7Bbrktg)
-- [Lance Fortnow & Steve Homer. A Short History of Computational Complexity](https://www.researchgate.net/profile/Lance-Fortnow/publication/220530495_A_Short_History_of_Computational_Complexity/links/0deec52bd7ab603fef000000/A-Short-History-of-Computational-Complexity.pdf)
+- [Watrous. Quantum Computational Complexity](https://arxiv.org/abs/0804.3401)
+- [Harrow & Ashley Montanaro. Quantum Computational Supremacy](https://www.nature.com/articles/nature23458)
+- [Cook. An Overview of Computational Complexity](https://dl.acm.org/doi/abs/10.1145/1283920.1283938?casa_token=I0zkxGUh7zoAAAAA:qUozzyaWcba56dq5q6CXVo2JvGVOzcXY2J8HKoI-OZxEbxhVXlQlWF0pg5ttfs8X8pznp5j7Bbrktg)
+- [Fortnow & Homer. A Short History of Computational Complexity](https://www.researchgate.net/profile/Lance-Fortnow/publication/220530495_A_Short_History_of_Computational_Complexity/links/0deec52bd7ab603fef000000/A-Short-History-of-Computational-Complexity.pdf)
 
 
 
 ## Other Resources
 
 ### Blog Posts and Essays
-- [Omer Reingold. The Practice of Theory Research](https://omereingold.wordpress.com/cs-353-the-practice-of-theory-research/)
-- [Omer Reingold. Through the Lens of a Passionate Theoretician](https://cacm.acm.org/magazines/2020/3/243025-through-the-lens-of-a-passionate-theoretician/fulltext)
-- [Manuel Blum. You and Your Research: An Advice to a Beginning Graduate Student](https://www.cs.cmu.edu/~mblum/research/pdf/grad.html)
+- [Reingold. The Practice of Theory Research](https://omereingold.wordpress.com/cs-353-the-practice-of-theory-research/)
+- [Reingold. Through the Lens of a Passionate Theoretician](https://cacm.acm.org/magazines/2020/3/243025-through-the-lens-of-a-passionate-theoretician/fulltext)
+- [Blum. You and Your Research: An Advice to a Beginning Graduate Student](https://www.cs.cmu.edu/~mblum/research/pdf/grad.html)
 - [Dijkstra. The Three Golden Rules for Successful Scientific Research](https://link.springer.com/chapter/10.1007%2F978-1-4612-5695-3_58)
-- [Oded Goldreich. Essays and Opinions](http://www.wisdom.weizmann.ac.il/~oded/essays.html)
-- [Boaz Barak. Advice for The Budding Theorist](https://windowsontheory.org/2015/11/03/advice-for-the-budding-theorist/)
-- [Boaz Barak. Surveys For Students](https://thmatters.wordpress.com/surveys/)
-- [Boaz Barak. Non-technical or Less-technical Writings and Talks](https://www.boazbarak.org/informal/)
-- [Richard Hamming. You and Your Research](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
-- [Steven Weinberg. Four Golden Lessons](https://www.nature.com/articles/426389a)
-- [Terry Tao. Career Advice](https://terrytao.wordpress.com/career-advice/)
+- [Goldreich. Essays and Opinions](http://www.wisdom.weizmann.ac.il/~oded/essays.html)
+- [Barak. Advice for The Budding Theorist](https://windowsontheory.org/2015/11/03/advice-for-the-budding-theorist/)
+- [Barak. Surveys For Students](https://thmatters.wordpress.com/surveys/)
+- [Barak. Non-technical or Less-technical Writings and Talks](https://www.boazbarak.org/informal/)
+- [Hamming. You and Your Research](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
+- [Weinberg. Four Golden Lessons](https://www.nature.com/articles/426389a)
+- [Terry. Career Advice](https://terrytao.wordpress.com/career-advice/)
 
 
 ### Magazines/Journals/News
@@ -209,7 +198,7 @@ It is already curated [here](https://github.com/mostafatouny/awesome-pure-math#t
 - [Foundations and Trends in Theoretical Computer Science](https://www.nowpublishers.com/TCS)
 
 ### Popular Science
-- Shasha & Lazere. Out of their Minds: The Lives and Discoveries of 15 Great Computer Scientists
+- [Shasha & Lazere. Out of their Minds: The Lives and Discoveries of 15 Great Computer Scientists](https://www.springer.com/gp/book/9780387982694)
 
 ### Cheat-Sheets
 - [TCS Cheat Sheet](https://www.cosy.sbg.ac.at/~held/teaching/aads/TCS-cheat_sheet.pdf)
