@@ -33,18 +33,18 @@
   - alternatively: [bilibili](https://www.bilibili.com/video/BV1Ry4y1e7zR)
 
 #### Lecture Notes
-- [Yuan Zhou. A Theorist's Toolkit](https://yuanz.web.illinois.edu/teaching/B609fa16/)
-- [Ryan O'Donnell. A Theorist's Toolkit](https://www.cs.cmu.edu/~odonnell/toolkit13/)
-- [Sanjeev Arora. Thinking Like a Theorist](https://www.cs.princeton.edu/courses/archive/fall07/cos597D/Site/lectopics.html)
+- [Zhou. A Theorist's Toolkit](https://yuanz.web.illinois.edu/teaching/B609fa16/)
+- [O'Donnell. A Theorist's Toolkit](https://www.cs.cmu.edu/~odonnell/toolkit13/)
+- [Arora. Thinking Like a Theorist](https://www.cs.princeton.edu/courses/archive/fall07/cos597D/Site/lectopics.html)
 
 ### Automata, Computability, & Complexity
 
 #### Lecture Notes
-- [John Watrous. Introduction to The Theory of Computing](https://cs.uwaterloo.ca/~watrous/ToC-notes/)
+- [Watrous. Introduction to The Theory of Computing](https://cs.uwaterloo.ca/~watrous/ToC-notes/)
 
 #### Lecture Videos Playlists
 - [Yanofsky. Theoretical Computer Science](https://www.youtube.com/playlist?list=PLCqUsBXxq16yBaN_hpo7dY2l9N-ZLtI-X)
-- [Ryan O'Donnell. Great Ideas in Theoretical Computer Science. CMU](https://www.youtube.com/playlist?list=PLm3J0oaFux3aafQm568blS9blxtA_EWQv)
+- [O'Donnell. Great Ideas in Theoretical Computer Science. CMU](https://www.youtube.com/playlist?list=PLm3J0oaFux3aafQm568blS9blxtA_EWQv)
 
 #### MOOC
 - [Intro to Theoretical Computer Science. Udacity](https://www.udacity.com/course/intro-to-theoretical-computer-science--cs313)
@@ -52,7 +52,7 @@
 #### Books
 - Michael Sipser. Introduciton to Theory of Computation
 - [Hopcroft, Motwani & Ullman. Introduction to Automata Theory, Languages, and Computation](https://www.pearson.com/us/higher-education/program/Hopcroft-Introduction-to-Automata-Theory-Languages-and-Computation-3rd-Edition/PGM64331.html)
-- [Introduction to TCS. Boaz Barak](https://introtcs.org/public/index.html)
+- [Barak. Introduction to TCS](https://introtcs.org/public/index.html)
 
 #### Puzzles and Problem Sets
 - [Zhu & Ko. Problem Solving in Automata, Languages, and Complexity](https://onlinelibrary.wiley.com/doi/book/10.1002/0471224642)
@@ -70,13 +70,13 @@
 
 ### General
 #### Lecture Videos Playlists
-- [Ryan O'Donnell. Undergrad Complexity Theory at CMU](https://www.youtube.com/playlist?list=PLm3J0oaFux3YL5vLXpzOyJiLtqLp6dCW2)
-- [Ryan O'Donnell. Graduate Complexity Theory at CMU](https://www.youtube.com/playlist?list=PLm3J0oaFux3b8Gg1DdaJOzYNsaXYLAOKH)
+- [O'Donnell. Undergrad Complexity Theory at CMU](https://www.youtube.com/playlist?list=PLm3J0oaFux3YL5vLXpzOyJiLtqLp6dCW2)
+- [O'Donnell. Graduate Complexity Theory at CMU](https://www.youtube.com/playlist?list=PLm3J0oaFux3b8Gg1DdaJOzYNsaXYLAOKH)
 #### Books
 - [Arora & Barak. Computational Complexity: A Modern Approach](https://theory.cs.princeton.edu/complexity/book.pdf)
 #### Popular Science
-- [Lance Fortnow. The Golden Ticket: P, NP, and the Search for the Impossible](https://goldenticket.fortnow.com/)
-- [Scott Aaronson. Quantum Computing Since Democritus](https://assets.cambridge.org/97805211/99568/frontmatter/9780521199568_frontmatter.pdf)
+- [Fortnow. The Golden Ticket: P, NP, and the Search for the Impossible](https://goldenticket.fortnow.com/)
+- [Aaronson. Quantum Computing Since Democritus](https://assets.cambridge.org/97805211/99568/frontmatter/9780521199568_frontmatter.pdf)
 
 ### Communication Complexity
 #### Books
@@ -84,7 +84,7 @@
 
 ### Circuit Complexity
 #### Books
-- [Stasys Jukna. Boolean Function Complexity: Advances and Frontiers](https://www.springer.com/gp/book/9783642245077)
+- [Jukna. Boolean Function Complexity: Advances and Frontiers](https://www.springer.com/gp/book/9783642245077)
 - [Clote & Kranakis. Boolean Functions and Computation Models](https://www.springer.com/gp/book/9783540594369)
 
 
@@ -92,9 +92,9 @@
 ## Algorithms
 
 ### Lecture Video Playlists
-- [Erik Demaine. Algorithmic Lower Bounds: Fun with Hardness Proofs](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-890-algorithmic-lower-bounds-fun-with-hardness-proofs-fall-2014/)
+- [Demaine. Algorithmic Lower Bounds: Fun with Hardness Proofs](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-890-algorithmic-lower-bounds-fun-with-hardness-proofs-fall-2014/)
 ### Books
-- [Erik Demaine. Games, Puzzles, and Computation](https://www.routledge.com/Games-Puzzles-and-Computation/Hearn-Demaine/p/book/9781568813226)
+- [Demaine. Games, Puzzles, and Computation](https://www.routledge.com/Games-Puzzles-and-Computation/Hearn-Demaine/p/book/9781568813226)
 
 
 
