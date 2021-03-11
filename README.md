@@ -217,7 +217,6 @@ It is already curated [here](https://github.com/mostafatouny/awesome-pure-math#t
 ## Related Awesome Lists
 - [Algorithms](https://github.com/tayllan/awesome-algorithms)
 - [Mathematics](https://github.com/rossant/awesome-math#mathematics-for-computer-science) (free lecture notes)
-- [Pure Math](https://github.com/mostafatouny/awesome-pure-math)
 - [Cryptography](https://github.com/sobolevn/awesome-cryptography)
 - [Quantum Computing](https://github.com/desireevl/awesome-quantum-computing)
 
