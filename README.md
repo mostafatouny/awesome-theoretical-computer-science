@@ -162,9 +162,9 @@ It is already curated [here](https://github.com/mostafatouny/awesome-pure-math#t
   - [Homework](https://www.cs.cornell.edu/courses/cs2802/2020fa/cs2802-20f-homework.html)
 
 #### Books
-- Rosen. Discrete Mathematics and Its Applications
-- Rosen. Handbook of Discrete and Combinatorial Mathematics
-- Gries & Schneider. A Logical Approach to Discrete Math
+- [Rosen. Discrete Mathematics and Its Applications](https://www.mheducation.com/highered/product/discrete-mathematics-applications-rosen/M9780073383095.html)
+- [Rosen. Handbook of Discrete and Combinatorial Mathematics](https://www.taylorfrancis.com/books/handbook-discrete-combinatorial-mathematics-kenneth-rosen-douglas-shier-wayne-goddard/e/10.1201/9781315156484)
+- [Gries & Schneider. A Logical Approach to Discrete Math](https://www.springer.com/gp/book/9780387941158)
 
 
 
