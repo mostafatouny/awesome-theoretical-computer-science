@@ -233,5 +233,6 @@ It is already curated [here](https://github.com/mostafatouny/awesome-pure-math#t
 - [Conferences in TCS](http://www.nicolas-hermann.net/conf.html)
 - [PolyTCS](https://polytcs.wordpress.com/)
 - [SIGACT](https://www.sigact.org/articles/web_pages.html)
+- [ACM Focus: Theory](https://acm.scitrus.com/subject/acm-focus:theory)
 - [TCS Stack Exchange](https://cstheory.stackexchange.com/)
 - [TCS Subreddit](https://www.reddit.com/r/theoreticalcs)
