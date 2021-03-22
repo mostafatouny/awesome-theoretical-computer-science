@@ -193,6 +193,7 @@ It is already curated [here](https://github.com/mostafatouny/awesome-pure-math#t
 - [Barak. Advice for The Budding Theorist](https://windowsontheory.org/2015/11/03/advice-for-the-budding-theorist/)
 - [Barak. Surveys For Students](https://thmatters.wordpress.com/surveys/)
 - [Barak. Non-technical or Less-technical Writings and Talks](https://www.boazbarak.org/informal/)
+- [Karp. A Personal View of Computer Science at Berkeley](https://www2.eecs.berkeley.edu/bears/CS_Anniversary/karp-talk.html)
 - [Hamming. You and Your Research](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
 - [Weinberg. Four Golden Lessons](https://www.nature.com/articles/426389a)
 - [Terry. Career Advice](https://terrytao.wordpress.com/career-advice/)
