@@ -185,7 +185,7 @@ It is already curated [here](https://github.com/mostafatouny/awesome-pure-math#t
 ## Other Resources
 
 ### Blog Posts and Essays
-- [Reingold. The Practice of Theory Research](https://omereingold.wordpress.com/cs-353-the-practice-of-theory-research/)
+- [Reingold. The Practice of Theory Research](https://omereingold.wordpress.com/cs-163-the-practice-of-theory-research/)
 - [Reingold. Through the Lens of a Passionate Theoretician](https://cacm.acm.org/magazines/2020/3/243025-through-the-lens-of-a-passionate-theoretician/fulltext)
 - [Blum. You and Your Research: An Advice to a Beginning Graduate Student](https://www.cs.cmu.edu/~mblum/research/pdf/grad.html)
 - [Dijkstra. The Three Golden Rules for Successful Scientific Research](https://link.springer.com/chapter/10.1007%2F978-1-4612-5695-3_58)
