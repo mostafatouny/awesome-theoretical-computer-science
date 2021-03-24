@@ -132,6 +132,8 @@
 - [6.893 Philosophy and Theoretical Computer Science. MIT](https://stellar.mit.edu/S/course/6/fa11/6.893/index.html)
 ### Books
 - [Knuth. Things a Computer Scientist Rarely Talks About](https://web.stanford.edu/group/cslipublications/cslipublications/site/1575863278.shtml)
+- [Floyd & Bokulich. Philosophical Explorations of the Legacy of Alan Turing: Turing 100](https://www.springer.com/gp/book/9783319532783)
+
 ### Popular Science
 - [Deutsch. The Fabric of Reality: The Science of Parallel Universes and Its Implications](http://www.daviddeutsch.org.uk/books/the-fabric-of-reality/)
 
