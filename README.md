@@ -234,6 +234,7 @@ It is already curated [here](https://github.com/mostafatouny/awesome-pure-math#t
 - [Theory of Computing Blog Aggregator](https://cstheory-feed.org/)
 - [Research Masters in TCS](https://docs.google.com/spreadsheets/d/1znVmERIVm2Fz2cbYjXE97VH9eIx7UdaLh5n3FBYb8o8/edit?usp=sharing)
 - [Conferences in TCS](http://www.nicolas-hermann.net/conf.html)
+- [CS Theory Events Aggregator](https://cstheory-events.org/)
 - [PolyTCS](https://polytcs.wordpress.com/)
 - [SIGACT](https://www.sigact.org/articles/web_pages.html)
 - [ACM Focus: Theory](https://acm.scitrus.com/subject/acm-focus:theory)
