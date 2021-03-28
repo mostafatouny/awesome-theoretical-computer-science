@@ -220,7 +220,7 @@ It is already curated [here](https://github.com/mostafatouny/awesome-pure-math#t
 	- [Shafi Goldwasser and Silvio Micali](https://www.youtube.com/watch?v=yBRbSzPgG4A)
 - Berkeley in the 80s
 	- [Shafi Goldwasser](https://www.youtube.com/watch?v=7D4hIe7M4qU&t=1s)
-
+- [Berkeley's Public Lectures](https://simons.berkeley.edu/programs)
 
 
 ## Related Awesome Lists
