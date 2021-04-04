@@ -47,7 +47,8 @@
 - [O'Donnell. Great Ideas in Theoretical Computer Science. CMU](https://www.youtube.com/playlist?list=PLm3J0oaFux3aafQm568blS9blxtA_EWQv)
 
 #### MOOC
-- [Intro to Theoretical Computer Science. Udacity](https://www.udacity.com/course/intro-to-theoretical-computer-science--cs313)
+- [Intro to Theoretical Computer Science](https://www.udacity.com/course/intro-to-theoretical-computer-science--cs313)
+- [Computability, Complexity & Algorithms. Georgia Institute of Technology](https://www.udacity.com/course/computability-complexity-algorithms--ud061)
 
 #### Books
 - Michael Sipser. Introduciton to Theory of Computation
