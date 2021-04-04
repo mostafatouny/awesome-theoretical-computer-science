@@ -175,7 +175,7 @@ It is already curated [here](https://github.com/mostafatouny/awesome-pure-math#t
 - [Gries & Schneider. A Logical Approach to Discrete Math](https://www.springer.com/gp/book/9780387941158)
 
 #### MOOC
-- [Introduction to Discrete Mathematics for Computer Science Specialization. UC San-Diego](https://www.coursera.org/specializations/discrete-mathematics)
+- [Introduction to Discrete Mathematics for Computer Science. UC San-Diego](https://www.coursera.org/specializations/discrete-mathematics)
 
 ## Surveys
 - [Watrous. Quantum Computational Complexity](https://arxiv.org/abs/0804.3401)
