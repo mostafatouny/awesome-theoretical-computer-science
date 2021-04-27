@@ -163,10 +163,15 @@
   - [Companion Textbook](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/readings/MIT6_042JS15_textbook.pdf)
 #### Books
 - [Knuth, Graham & Patashnik. Concrete Mathematics: A Foundation for Computer Science](https://www.pearson.com/us/higher-education/product/Graham-Concrete-Mathematics-A-Foundation-for-Computer-Science-2nd-Edition/9780134389981.html)
-- [Krantz. Handbook of Logic and Proof Techniques for Computer Science](https://www.maa.org/press/maa-reviews/handbook-of-logic-and-proof-techniques-for-computer-science)
 - [Aho & Ullman. Foundations of Computer Science](http://i.stanford.edu/~ullman/focs.html)
 - [Tu Delft. Delftse Foundations of Computation](https://textbooks.open.tudelft.nl/textbooks/catalog/book/13)
+- [Comprehensive Mathematics for Computer Scientists](https://www.springer.com/series/5517)
+- [Krantz. Handbook of Logic and Proof Techniques for Computer Science](https://www.maa.org/press/maa-reviews/handbook-of-logic-and-proof-techniques-for-computer-science)
+- [Ben-Ari. Mathematical Logic for Computer Science](https://www.springer.com/gp/book/9781447141280)
 - [Jeremy Kun. A Programmer's Introduction to Mathematics](https://pimbook.org/)
+- [Oberguggenberger & Ostermann. Analysis for Computer Scientists: Foundations, Methods, and Algorithms](https://www.springer.com/gp/book/9783319911540)
+#### Lecture Notes
+- [Maciej Paluszynski. Calculus for Computer Scientists](https://www.math.uni.wroc.pl/~mpal/academic/2013/lecture_notes.pdf)
 ### Transition To Pure Rigour Math
 It is already curated [here](https://github.com/mostafatouny/awesome-pure-math#transition-to-pure-rigour-math).
 
