@@ -167,8 +167,10 @@
 - [Tu Delft. Delftse Foundations of Computation](https://textbooks.open.tudelft.nl/textbooks/catalog/book/13)
 - [Comprehensive Mathematics for Computer Scientists](https://www.springer.com/series/5517)
 - [Krantz. Handbook of Logic and Proof Techniques for Computer Science](https://www.maa.org/press/maa-reviews/handbook-of-logic-and-proof-techniques-for-computer-science)
+- [Makinson. Sets, Logic and Maths for Computing](https://www.springer.com/gp/book/9783030422172)
 - [Ben-Ari. Mathematical Logic for Computer Science](https://www.springer.com/gp/book/9781447141280)
 - [Jeremy Kun. A Programmer's Introduction to Mathematics](https://pimbook.org/)
+- [Vince. Foundation Mathematics for Computer Science: A Visual Approach](https://www.springer.com/gp/book/9783030420772)
 - [Oberguggenberger & Ostermann. Analysis for Computer Scientists: Foundations, Methods, and Algorithms](https://www.springer.com/gp/book/9783319911540)
 #### Lecture Notes
 - [Maciej Paluszynski. Calculus for Computer Scientists](https://www.math.uni.wroc.pl/~mpal/academic/2013/lecture_notes.pdf)
@@ -183,6 +185,7 @@ It is already curated [here](https://github.com/mostafatouny/awesome-pure-math#t
 #### Books
 - [Rosen. Discrete Mathematics and Its Applications](https://www.mheducation.com/highered/product/discrete-mathematics-applications-rosen/M9780073383095.html)
 - [Rosen. Handbook of Discrete and Combinatorial Mathematics](https://www.taylorfrancis.com/books/handbook-discrete-combinatorial-mathematics-kenneth-rosen-douglas-shier-wayne-goddard/e/10.1201/9781315156484)
+- [Rosenberg & Trystram. Understand Mathematics, Understand Computing: Discrete Mathematics That All Computing Students Should Know](https://www.springer.com/gp/book/9783030583750)
 - [Gries & Schneider. A Logical Approach to Discrete Math](https://www.springer.com/gp/book/9780387941158)
 - [Mariconda & Tonolo. Discrete Calculus: Methods for Counting](https://www.springer.com/gp/book/9783319030371)
 
