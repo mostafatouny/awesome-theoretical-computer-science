@@ -152,6 +152,7 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 
 ### Books
 - [Feynman. Feynman And Computation: Exploring The Limits Of Computers](https://www.taylorfrancis.com/books/feynman-computation-anthony-hey/e/10.1201/9780429500459) - Feynman’s Course on Computation
+  - See also Preskill's update 40 years later [here](https://arxiv.org/abs/2106.10522)
 
 
 
