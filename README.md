@@ -206,18 +206,18 @@ It is already curated [here](https://github.com/mostafatouny/awesome-pure-math#t
 ## Other Resources
 
 ### Blog Posts and Essays
-- [Reingold. The Practice of Theory Research](https://omereingold.wordpress.com/cs-163-the-practice-of-theory-research/) - A research methods course, concentrating on the how rather than the what. It focuses on research practices common for computer science theory research.
-- [Reingold. Through the Lens of a Passionate Theoretician](https://cacm.acm.org/magazines/2020/3/243025-through-the-lens-of-a-passionate-theoretician/fulltext)
-- [Blum. You and Your Research: An Advice to a Beginning Graduate Student](https://www.cs.cmu.edu/~mblum/research/pdf/grad.html)
-- [Dijkstra. The Three Golden Rules for Successful Scientific Research](https://link.springer.com/chapter/10.1007%2F978-1-4612-5695-3_58)
-- [Goldreich. Essays and Opinions](http://www.wisdom.weizmann.ac.il/~oded/essays.html)
-- [Barak. Advice for The Budding Theorist](https://windowsontheory.org/2015/11/03/advice-for-the-budding-theorist/)
-- [Barak. Surveys For Students](https://thmatters.wordpress.com/surveys/)
-- [Barak. Non-technical or Less-technical Writings and Talks](https://www.boazbarak.org/informal/)
-- [Karp. A Personal View of Computer Science at Berkeley](https://www2.eecs.berkeley.edu/bears/CS_Anniversary/karp-talk.html)
-- [Hamming. You and Your Research](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
-- [Weinberg. Four Golden Lessons](https://www.nature.com/articles/426389a)
-- [Terry. Career Advice](https://terrytao.wordpress.com/career-advice/)
+- [Omer Reingold. The Practice of Theory Research](https://omereingold.wordpress.com/cs-163-the-practice-of-theory-research/) - A research methods course, concentrating on the how rather than the what. It focuses on research practices common for computer science theory research.
+- [Omer Reingold. TOC: a Personal Perspective (2021)](https://theorydish.blog/2021/04/15/toc-a-personal-perspective-2021/) - In celebration of 25 years for “TOC: a Scientific Perspective (1996),” by Oded Goldreich and Avi Wigderson. It spots the light on a criticism directed to TCS, that it is not as deep as Math and not as useful as CS.
+- [Blum. You and Your Research: An Advice to a Beginning Graduate Student](https://www.cs.cmu.edu/~mblum/research/pdf/grad.html) - Manuel Blum, A very popular figure in TCS, gives research advices for juniors.
+- [Dijkstra. The Three Golden Rules for Successful Scientific Research](https://link.springer.com/chapter/10.1007%2F978-1-4612-5695-3_58) - A note devoted to three rules that must be followed if you want to be successful in scientific research.
+- [Goldreich. Essays and Opinions](http://www.wisdom.weizmann.ac.il/~oded/essays.html) - Personal Essays by Oded Goldreich. They are very unique in their conceptual message of TCS and its community.
+- [Barak. Advice for The Budding Theorist](https://windowsontheory.org/2015/11/03/advice-for-the-budding-theorist/) - Tips for anyone interested in theoretical computer science.
+- [Barak. Surveys For Students](https://thmatters.wordpress.com/surveys/) - Surveys for high-school, undergraduate, and even researchers.
+- [Barak. Non-technical or Less-technical Writings and Talks](https://www.boazbarak.org/informal/) - Posts oriented more for a less-technically matured audience.
+- [Karp. A Personal View of Computer Science at Berkeley](https://www2.eecs.berkeley.edu/bears/CS_Anniversary/karp-talk.html) - Karp addresses: In 1968 computer science at Berkeley was problematic, with two departments working independently to develop programs, and his personal reflections.
+- [Hamming. You and Your Research](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html) - Why do so few scientists make significant contributions and so many are forgotten in the long run? The talk is about what Hamming has learned.
+- [Weinberg. Four Golden Lessons](https://www.nature.com/articles/426389a) - Lessons for students and researchers given by Steven Weinberg
+- [Terry. Career Advice](https://terrytao.wordpress.com/career-advice/) - A collection of various pieces of advice on academic career issues in mathematics, roughly arranged by the stage of career at which the advice is most pertinent.
 
 
 ### Magazines/Journals/News
@@ -250,13 +250,12 @@ It is already curated [here](https://github.com/mostafatouny/awesome-pure-math#t
 
 
 ## Useful Links
-- [Theory of Computing Blog Aggregator](https://cstheory-feed.org/)
-- [Research Masters in TCS](https://docs.google.com/spreadsheets/d/1znVmERIVm2Fz2cbYjXE97VH9eIx7UdaLh5n3FBYb8o8/edit?usp=sharing)
-- [Conferences in TCS](http://www.nicolas-hermann.net/conf.html)
-- [CS Theory Events Aggregator](https://cstheory-events.org/)
-- [List of TCS Conferences and Workshops](https://cstheory.blogoverflow.com/theoretical-computer-science-conferences-and-workshops/)
-- [PolyTCS](https://polytcs.wordpress.com/)
-- [SIGACT](https://www.sigact.org/articles/web_pages.html)
-- [ACM Focus: Theory](https://acm.scitrus.com/subject/acm-focus:theory)
-- [TCS Stack Exchange](https://cstheory.stackexchange.com/)
-- [TCS Subreddit](https://www.reddit.com/r/theoreticalcs)
+- [Theory of Computing Blog Aggregator](https://cstheory-feed.org/) - A blog Aggregator for all blogs related to TCS.
+- [Research Masters in TCS](https://docs.google.com/spreadsheets/d/1znVmERIVm2Fz2cbYjXE97VH9eIx7UdaLh5n3FBYb8o8/edit?usp=sharing) - A list of master programs in TCS.
+- [Conferences in TCS](http://www.nicolas-hermann.net/conf.html) - TCS Conferences collected in one table.
+- [CS Theory Events Aggregator](https://cstheory-events.org/) - An aggregator for CS theory workshops and schools.
+- [List of TCS Conferences and Workshops](https://cstheory.blogoverflow.com/theoretical-computer-science-conferences-and-workshops/) - A list of conferences and workshops in theoretical computer science.
+- [PolyTCS](https://polytcs.wordpress.com/) - A project which promotes massive collaborations to solve theoretical computer science problems.
+- [SIGACT](https://www.sigact.org/articles/web_pages.html) - Info page of ACM's Special Interest Group on Algorithms and Computation Theory.
+- [TCS Stack Exchange](https://cstheory.stackexchange.com/) - Stack Exchange (QnA) of theoretical computer science.
+- [TCS Subreddit](https://www.reddit.com/r/theoreticalcs)- Theoretical computer science's subreddit.
