@@ -221,32 +221,32 @@ It is already curated [here](https://github.com/mostafatouny/awesome-pure-math#t
 
 
 ### Magazines/Journals/News
-- The Legacy of Alan Turing: Pushing the Boundaries of Computation (Volume 18, Issue 3, Spring 2012). ACM, XRDS.
+- The Legacy of Alan Turing: Pushing the Boundaries of Computation (Volume 18, Issue 3, Spring 2012). ACM, XRDS. - ACM's students magazine special issue for theory of computation 
 - [SIGACT News](https://dl.acm.org/loi/sigact) - ACM's official theoretical computer science news feed.
-- [Foundations and Trends in Theoretical Computer Science](https://www.nowpublishers.com/TCS)
+- [Foundations and Trends in Theoretical Computer Science](https://www.nowpublishers.com/TCS) - It provides monographs written by leaders that give tutorial coverage of subjects, research retrospectives as well as survey papers that offer state-of-the-art reviews fall within the scope of the journal. 
 
 ### Popular Science
 - [Shasha & Lazere. Out of their Minds: The Lives and Discoveries of 15 Great Computer Scientists](https://www.springer.com/gp/book/9780387982694)
 
 ### Cheat-Sheets
-- [TCS Cheat Sheet](https://www.cosy.sbg.ac.at/~held/teaching/aads/TCS-cheat_sheet.pdf)
+- [TCS Cheat Sheet](https://www.cosy.sbg.ac.at/~held/teaching/aads/TCS-cheat_sheet.pdf) - A sheet of notes containing essential toolboxes needed by any theoretical computer scientist.
 
 
 ## Talks
-- [TCS+](https://www.youtube.com/user/TCSplusSeminars)
+- [TCS+](https://www.youtube.com/user/TCSplusSeminars) -  a series of online seminars in theoretical computer science. The goal is to make engaging talks accessible to the widest possible audience.
 - [Turing Lectures. ACM](https://amturing.acm.org/lectures.cfm)
-- ACM A.M. Turing Laureate Interview. Berekely
+- ACM A.M. Turing Laureate Interview. Berkeley - Interviews with Berkeley's Turing award winners.
 	- [Shafi Goldwasser and Silvio Micali](https://www.youtube.com/watch?v=yBRbSzPgG4A)
-- Berkeley in the 80s
+- Berkeley in the 80s - Interviews with eminent figures in Berkeley's theoretical computer science.
 	- [Shafi Goldwasser](https://www.youtube.com/watch?v=7D4hIe7M4qU&t=1s)
-- [Berkeley's Public Lectures](https://simons.berkeley.edu/programs)
+- [Berkeley's Public Lectures](https://simons.berkeley.edu/programs) - Programs, Events, and workshops, that aim toward maximizing impact and engagement across the theoretical computer science community.
 
 
 ## Related Awesome Lists
-- [Algorithms](https://github.com/tayllan/awesome-algorithms)
-- [Mathematics](https://github.com/rossant/awesome-math#mathematics-for-computer-science) (free lecture notes)
-- [Cryptography](https://github.com/sobolevn/awesome-cryptography)
-- [Quantum Computing](https://github.com/desireevl/awesome-quantum-computing)
+- [Algorithms](https://github.com/tayllan/awesome-algorithms) - Awesome list for design and analysis of algorithms
+- [Mathematics](https://github.com/rossant/awesome-math#mathematics-for-computer-science) - Awesome list for freely available lecture notes on mathematics
+- [Cryptography](https://github.com/sobolevn/awesome-cryptography) - Awesome list for cryptography
+- [Quantum Computing](https://github.com/desireevl/awesome-quantum-computing) - Awesome list for quantum computing
 
 
 ## Useful Links
