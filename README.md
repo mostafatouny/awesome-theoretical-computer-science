@@ -221,7 +221,7 @@ It is already curated [here](https://github.com/mostafatouny/awesome-pure-math#t
 
 
 ### Magazines/Journals/News
-- The Legacy of Alan Turing: Pushing the Boundaries of Computation (Volume 18, Issue 3, Spring 2012). ACM, XRDS. - ACM's students magazine special issue for theory of computation 
+- [The Legacy of Alan Turing: Pushing the Boundaries of Computation (Volume 18, Issue 3, Spring 2012). ACM, XRDS](https://dl.acm.org/toc/xrds/2012/18/3) - ACM's students magazine special issue for theory of computation 
 - [SIGACT News](https://dl.acm.org/loi/sigact) - ACM's official theoretical computer science news feed.
 - [Foundations and Trends in Theoretical Computer Science](https://www.nowpublishers.com/TCS) - It provides monographs written by leaders that give tutorial coverage of subjects, research retrospectives as well as survey papers that offer state-of-the-art reviews fall within the scope of the journal. 
 
@@ -233,7 +233,7 @@ It is already curated [here](https://github.com/mostafatouny/awesome-pure-math#t
 
 
 ## Talks
-- [TCS+](https://www.youtube.com/user/TCSplusSeminars) -  a series of online seminars in theoretical computer science. The goal is to make engaging talks accessible to the widest possible audience.
+- [TCS+](https://www.youtube.com/user/TCSplusSeminars) - A series of online seminars in theoretical computer science. The goal is to make engaging talks accessible to the widest possible audience.
 - [Turing Lectures. ACM](https://amturing.acm.org/lectures.cfm)
 - ACM A.M. Turing Laureate Interview. Berkeley - Interviews with Berkeley's Turing award winners.
 	- [Shafi Goldwasser and Silvio Micali](https://www.youtube.com/watch?v=yBRbSzPgG4A)
