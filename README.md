@@ -216,7 +216,7 @@ It is already curated [here](https://github.com/mostafatouny/awesome-pure-math#t
 - [Barak. Non-technical or Less-technical Writings and Talks](https://www.boazbarak.org/informal/) - Posts oriented more for a less-technically matured audience.
 - [Karp. A Personal View of Computer Science at Berkeley](https://www2.eecs.berkeley.edu/bears/CS_Anniversary/karp-talk.html) - Karp addresses: In 1968 computer science at Berkeley was problematic, with two departments working independently to develop programs, and his personal reflections.
 - [Hamming. You and Your Research](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html) - Why do so few scientists make significant contributions and so many are forgotten in the long run? The talk is about what Hamming has learned.
-- [Weinberg. Four Golden Lessons](https://www.nature.com/articles/426389a) - Lessons for students and researchers given by Steven Weinberg
+- [Weinberg. Four Golden Lessons](https://www.nature.com/articles/426389a) - Lessons for students and researchers given by Steven Weinberg.
 - [Terry. Career Advice](https://terrytao.wordpress.com/career-advice/) - A collection of various pieces of advice on academic career issues in mathematics, roughly arranged by the stage of career at which the advice is most pertinent.
 
 
