@@ -241,7 +241,8 @@ It is already curated [here](https://github.com/mostafatouny/awesome-pure-math#t
 	- [Shafi Goldwasser and Silvio Micali](https://www.youtube.com/watch?v=yBRbSzPgG4A)
 - Berkeley in the 80s - Interviews with eminent figures in Berkeley's theoretical computer science.
 	- [Shafi Goldwasser](https://www.youtube.com/watch?v=7D4hIe7M4qU&t=1s)
-- [Berkeley's Public Lectures](https://simons.berkeley.edu/programs) - Programs, Events, and workshops, that aim toward maximizing impact and engagement across the theoretical computer science community.
+- [Simons' Public Lectures](https://simons.berkeley.edu/programs) - Programs, Events, and workshops, that aim toward maximizing impact and engagement across the theoretical computer science community.
+- [Simons' Theory Shorts](https://www.youtube.com/playlist?list=PLgKuh-lKre134Psz9KECgjuwJ47l3IvqW) - Short accessible videos which populate theory of computation.
 
 
 ## Related Awesome Lists
