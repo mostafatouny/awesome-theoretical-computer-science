@@ -256,6 +256,7 @@ It is already curated [here](https://github.com/mostafatouny/awesome-pure-math#t
 - [Theory of Computing Blog Aggregator](https://cstheory-feed.org/) - A blog Aggregator for all blogs related to TCS.
 - [Rubinstein & Weinberg. Research Masters in TCS](https://www.cs.princeton.edu/~smattw/masters/masters.html) - A list of master programs in TCS.
 - [Barak. Research Masters in TCS](https://docs.google.com/spreadsheets/d/1znVmERIVm2Fz2cbYjXE97VH9eIx7UdaLh5n3FBYb8o8/edit?usp=sharing) - A list of master programs in TCS.
+  - Blog Posts: [Research masters](https://windowsontheory.org/2018/02/20/research-masters/), [Crowdsourcing Masters program](https://windowsontheory.org/2020/07/02/crowdsourcing-masters-program/).
 - [Conferences in TCS](http://www.nicolas-hermann.net/conf.html) - TCS Conferences collected in one table.
 - [CS Theory Events Aggregator](https://cstheory-events.org/) - An aggregator for CS theory workshops and schools.
 - [List of TCS Conferences and Workshops](https://cstheory.blogoverflow.com/theoretical-computer-science-conferences-and-workshops/) - A list of conferences and workshops in theoretical computer science.
