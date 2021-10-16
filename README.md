@@ -244,9 +244,11 @@ It is already curated [here](https://github.com/mostafatouny/awesome-pure-math#t
 - [Simons' Public Lectures](https://simons.berkeley.edu/programs) - Programs, Events, and workshops, that aim toward maximizing impact and engagement across the theoretical computer science community.
 - [Simons' Theory Shorts](https://www.youtube.com/playlist?list=PLgKuh-lKre134Psz9KECgjuwJ47l3IvqW) - Short accessible videos which populate theory of computation.
 - Lex Podcast
+  - Donald Knuth: [1](https://www.youtube.com/watch?v=2BdBfsXbST8), [2](https://www.youtube.com/watch?v=EE1R8FYUJm0)
+  - [Silvio Micali](https://www.youtube.com/watch?v=zNdhgOk4-fE)
   - [Richard Karp](https://www.youtube.com/watch?v=KllCrlfLuzs)
   - Scott Aaronson: [1](https://www.youtube.com/watch?v=uX5t8EivCaM), [2](https://www.youtube.com/watch?v=nAMjv0NAESM)
-  - Donald Knuth: [1](https://www.youtube.com/watch?v=2BdBfsXbST8), [2](https://www.youtube.com/watch?v=EE1R8FYUJm0)
+
 
 ## Related Awesome Lists
 - [Algorithms](https://github.com/tayllan/awesome-algorithms) - Awesome list for design and analysis of algorithms
