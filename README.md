@@ -248,6 +248,7 @@ It is already curated [here](https://github.com/mostafatouny/awesome-pure-math#t
   - [Silvio Micali](https://www.youtube.com/watch?v=zNdhgOk4-fE)
   - [Richard Karp](https://www.youtube.com/watch?v=KllCrlfLuzs)
   - Scott Aaronson: [1](https://www.youtube.com/watch?v=uX5t8EivCaM), [2](https://www.youtube.com/watch?v=nAMjv0NAESM)
+- [Computational Complexity](https://www.youtube.com/channel/UCzBw287tly0c2lE6a-9XymA)
 
 
 ## Related Awesome Lists
