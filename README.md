@@ -156,6 +156,9 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 - [Feynman. Feynman And Computation: Exploring The Limits Of Computers](https://www.taylorfrancis.com/books/feynman-computation-anthony-hey/e/10.1201/9780429500459) - Feynman’s Course on Computation
   - See also Preskill's update 40 years later [here](https://arxiv.org/abs/2106.10522)
 
+### Monographs
+- [Leonard Susskind. Three Lectures on Complexity and Black Holes](https://link.springer.com/book/10.1007/978-3-030-45109-7) - Important connections between thermodynamics and complexity are proposed and discussed. Pedagogically written, serves as a fundamental introduction to black holes and their complex physical interpretation
+
 
 
 ## Math/Logic Preliminaries
