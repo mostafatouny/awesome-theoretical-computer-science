@@ -37,7 +37,7 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
     - [Lecture Video Playlist](#math_logic_preliminaries_general_lecture_video_playlist) | [Books](#math_logic_preliminaries_general_books) | [Lecture Notes](#math_logic_preliminaries_general_books)
   - [Discrete Mathematics](#math_logic_preliminaries_discrete_mathematics)
     - [Lecture Notes](#math_logic_preliminaries_discrete_mathematics_lecture_notes) | [Books](#math_logic_preliminaries_discrete_mathematics_books) | [MOOC](#math_logic_preliminaries_discrete_mathematics_mooc)
-  - [Transition To Pure Rigour Math](#mathlogic_preliminaries_transition_to_pure_rigour_math)
+  - [Transition To Pure Rigour Math](#math_logic_preliminaries_transition_to_pure_rigour_math)
 - [Surveys](#surveys)
 - [Other Resources](#other-resources)
   - [Blog Posts and Essays](#other_resources_blog_posts_and_essays)
