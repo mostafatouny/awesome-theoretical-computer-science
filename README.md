@@ -13,10 +13,19 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
     - [Lecture Notes](#introductory_theoretical_computer_science_automata_computability_complexity_lecture_notes)
     - [Lecture Videos Playlists](#introductory_theoretical_computer_science_automata_computability_complexity_lecture_videos_playlists)
     - [MOOC](#introductory_theoretical_computer_science_automata_computability_complexity_mooc)
-    - [Books](#introductory_theoretical_computer_science_science_automata_computability_complexity_books)
+    - [Books](#introductory_theoretical_computer_science_automata_computability_complexity_books)
     - [Puzzles and Problem Sets](#introductory_theoretical_computer_science_automata_computability_complexity_puzzles_and_problem_sets)
 - [Theoretical Computer Science Handbooks](#theoretical-computer-science-handbooks)
 - [Computational Complexity](#computational-complexity)
+  - [General](#computational_complexity_general)
+    - [Lecture Videos Playlists](#computational_complexity_general_lecture_videos_playlists)
+    - [Lecture Notes](#computational_complexity_general_lecture_notes)
+    - [Books](#computational_complexity_general_books)
+    - [Popular Science](#computational_complexity_general_popular_science)
+  - [Communication Complexity](#computational_complexity_communication_complexity)
+    - [Books](#computational_complexity_communication_complexity_books)
+  - [Circuit Complexity](#computational_complexity_circuit_complexity)
+    - [Books](#computational_complexity_circuit_complexity_books) 
 - [Algorithms](#algorithms)
 - [Logic and Foundational Mathematics](#logic-and-foundational-mathematics)
 - [Philosophy](#philosophy)
@@ -78,28 +87,28 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 
 ## Computational Complexity
 
-### General
-#### Lecture Videos Playlists
+### General<a name="computational_complexity_general"></a>
+#### Lecture Videos Playlists<a name="computational_complexity_general_lecture_videos_playlists"></a>
 - [O'Donnell. Undergrad Complexity Theory. Fall 2019 (15-455)](https://www.youtube.com/playlist?list=PLm3J0oaFux3YL5vLXpzOyJiLtqLp6dCW2) - Undergraduate course on computational complexity theory; It follows the same spirit of Sipser's part III.
 - [O'Donnell. Graduate Complexity Theory](https://www.youtube.com/playlist?list=PLm3J0oaFux3b8Gg1DdaJOzYNsaXYLAOKH) - It covers most of what is believed to be known to get started in complexity theory research.
-#### Lecture Notes
+#### Lecture Notes<a name="computational_complexity_general_lecture_notes"></a>
 - [Rudich & Wigderson. Computational Complexity Theory](http://www.ams.org/books/pcms/010/) - Three weeks of lectures from the IAS/Park City Mathematics Institute Summer School on computational complexity. Topics include reductions, lower-bounds, average-case complexity, randomness, interactive proof systems, probabilistically checkable proofs, quantum computing, and proof complexity.
-#### Books
+#### Books<a name="computational_complexity_general_books"></a>
 - [Arora & Barak. Computational Complexity: A Modern Approach](https://theory.cs.princeton.edu/complexity/book.pdf) - A golden standard textbook, Surveying computational complexity theory for graduate students and researchers.
 - [Goldreich. Computational Complexity: A Conceptual Perspective](http://www.wisdom.weizmann.ac.il/~oded/cc-book.html) - A grad introduction to computation complexity theory, emphasizing the idea behind concepts of complexity theory.
 - [Goldreich. P, NP, and NP-Completeness: The Basics of Computational Complexity](http://www.wisdom.weizmann.ac.il/~oded/bc-book.html) - A very gentle introduction to some fundamental ideas of computational complexity like NP-completeness and P vs NP.
 - [Ogihara & Hemaspaandra. The Complexity Theory Companion](https://www.springer.com/gp/book/9783540674191) - An accessible, algorithmically oriented, research-centered, up-to-date guide to some of the most interesting techniques of complexity theory.
 - [Papadimitriou. Computational Complexity](https://www.pearson.com/us/higher-education/program/Papadimitriou-Computational-Complexity/PGM94583.html) - Body of knowledge for studying the performance and limitations of computer algorithms. Among topics covered are: reductions and NP-completeness, cryptography and protocols, randomized algorithms, and approximability of optimization problems, circuit complexity, the "structural" aspects of the P=NP question, parallel computation, and the polynomial hierarchy.
-#### Popular Science
+#### Popular Science<a name="computational_complexity_general_popular_science"></a>
 - [Fortnow. The Golden Ticket: P, NP, and the Search for the Impossible](https://goldenticket.fortnow.com) - A nontechnical introduction to P-NP, its rich history, and its algorithmic implications for everything we do with computers and beyond.
 - [Aaronson. Quantum Computing Since Democritus](https://assets.cambridge.org/97805211/99568/frontmatter/9780521199568_frontmatter.pdf) - It covers an amazing array of topics. Beginning in antiquity withDemocritus, it progresses through logic and set theory,computability and complexity theory, quantum computing, cryptography, the information content of quantum states, and theinterpretation of quantum mechanics.
 
-### Communication Complexity
-#### Books
+### Communication Complexity<a name="computational_complexity_communication_complexity"></a>
+#### Books<a name="computational_complexity_communication_complexity_books"></a>
 - [Rao & Yehudayoff. Communication Complexity and Applications](https://www.cambridge.org/core/books/communication-complexity/5F44993E3B2597174B71D3F21E748443) - An excellent and very readable introductory textbook to the field of communication complexity.
 
-### Circuit Complexity
-#### Books
+### Circuit Complexity<a name="computational_complexity_circuit_complexity"></a>
+#### Books<a name="computational_complexity_circuit_complexity_books"></a>
 - [Jukna. Boolean Function Complexity: Advances and Frontiers](https://www.springer.com/gp/book/9783642245077) - A modern textbook surveying circuit complexity.
 - [Clote & Kranakis. Boolean Functions and Computation Models](https://www.springer.com/gp/book/9783540594369) - An introduction to circuit complexity, boolean functions, and computation models.
 
