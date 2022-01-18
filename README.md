@@ -30,6 +30,7 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
   - [General](#randomization_general)
 - [Algorithms](#algorithms)
   - [Lecture Videos Playlists](#algorithms_lecture_video_playlists)
+  - [Books](#algorithms_books)
 - [Logic and Foundational Mathematics](#logic-and-foundational-mathematics)
   - [Computability Theory](#logic_and_foundational_mathematics_computability_theory)
     - [Books](#logic_and_foundational_mathematics_computability_theory_books)
@@ -45,7 +46,18 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
   - [Popular Science](#philosophy_popular_science)
   - [Papers](#philosophy_#papers)
 - [Physics](#physics)
+  - [Books](#physics_books)
+  - [Monographs](#physics_monographs)
 - [Math/Logic Preliminaries](#mathlogic-preliminaries)
+  - [General](#math_logic_preliminaries_general)
+    - [Lecture Video Playlist](#math_logic_preliminaries_general_lecture_video_playlist)
+    - [Books](#math_logic_preliminaries_general_books)
+    - [Lecture Notes](#math_logic_preliminaries_general_books)
+  - [Transition To Pure Rigour Math](#mathlogic_preliminaries_transition_to_pure_rigour_math)
+  - [Discrete Mathematics](#mathlogic_preliminaries_discrete_mathematics)
+    - [Lecture Notes](#mathlogic_preliminaries_discrete_mathematics_lecture_notes)
+    - [Books](#mathlogic_preliminaries_discrete_mathematics_books)
+    - [MOOC](#mathlogic_preliminaries_discrete_mathematics_mooc)
 - [Surveys](#surveys)
 - [Other Resources](#other-resources)
 - [Talks](#talks)
@@ -186,21 +198,21 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 
 ## Physics
 
-### Books
+### Books<a name="physics_books"></a>
 - [Feynman. Feynman And Computation: Exploring The Limits Of Computers](https://www.taylorfrancis.com/books/feynman-computation-anthony-hey/e/10.1201/9780429500459) - Feynman’s Course on Computation
   - See also Preskill's update 40 years later [here](https://arxiv.org/abs/2106.10522)
 
-### Monographs
+### Monographs<a name="physics_monographs"></a>
 - [Susskind. Three Lectures on Complexity and Black Holes](https://link.springer.com/book/10.1007/978-3-030-45109-7) - Important connections between thermodynamics and complexity are proposed and discussed. Pedagogically written, serves as a fundamental introduction to black holes and their complex physical interpretation
 
 
 
 ## Math/Logic Preliminaries
-### General
-#### Lecture Video Playlist
+### General<a name="math_logic_preliminaries_general"></a>
+#### Lecture Video Playlist<a name="math_logic_preliminaries_general_lecture_video_playlist"></a>
 - [Lehman, Leighton & Meyer. Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/lecture-slides/) - An introduction to discrete mathematics oriented toward computer science and engineering.
   - [Companion Textbook](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/readings/MIT6_042JS15_textbook.pdf)
-#### Books
+#### Books<a name="math_logic_preliminaries_general_books"></a>
 - [Knuth, Graham & Patashnik. Concrete Mathematics: A Foundation for Computer Science](https://www.pearson.com/us/higher-education/product/Graham-Concrete-Mathematics-A-Foundation-for-Computer-Science-2nd-Edition/9780134389981.html) - An expansion of the Mathematical Preliminaries section in Knuth's classic Art of Computer Programming, but the style of presentation is more leisurely, and individual topics are covered more deeply.
 - [Aho & Ullman. Foundations of Computer Science](http://i.stanford.edu/~ullman/focs.html) - A classic math-oriented introduction to computer science.
 - [Tu Delft. Delftse Foundations of Computation](https://textbooks.open.tudelft.nl/textbooks/catalog/book/13) - A textbook for a one quarter introductory course in theoretical computer science.
@@ -213,32 +225,32 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 - [Jeremy Kun. A Programmer's Introduction to Mathematics](https://pimbook.org/) - Uses your familiarity with ideas from programming and software to teach mathematics.
 - [Vince. Foundation Mathematics for Computer Science: A Visual Approach](https://www.springer.com/gp/book/9783030420772) - A range of mathematical topics to provide a solid foundation for an undergraduate course in computer science, starting with a review of number systems and their relevance to digital computers, and finishing with differential and integral calculus.
 - [Oberguggenberger & Ostermann. Analysis for Computer Scientists: Foundations, Methods, and Algorithms](https://www.springer.com/gp/book/9783319911540) - Presents an algorithmic approach to mathematical analysis, with a focus on modelling and on the applications of analysis.
-#### Lecture Notes
+#### Lecture Notes<a name="math_logic_preliminaries_general_lecture_notes"></a>
 - [Paluszynski. Calculus for Computer Scientists](https://www.math.uni.wroc.pl/~mpal/academic/2013/lecture_notes.pdf) - calculus lecture notes taught for undergrad computer science students
-### Transition To Pure Rigour Math
+### Transition To Pure Rigour Math<a name="math_logic_preliminaries_transition_to_pure_rigour_math"></a>
 It is already curated [here](https://github.com/mostafatouny/awesome-pure-math#transition-to-pure-rigour-math) - Introductory proofs and mathematical maturity.
 
-### Discrete Mathematics
-#### Lecture Notes
+### Discrete Mathematics<a name="math_logic_preliminaries_discrete_mathematics"></a>
+#### Lecture Notes<a name="math_logic_preliminaries_discrete_mathematics_lecture_notes"></a>
 - [Halpern. CS 2802: Discrete Structures - Honors. 2020. Cornell](https://www.cs.cornell.edu/courses/cs2802/2020fa/cs2802-20f-notes.html) - Honors lecture notes on discrete math
   - [Homework](https://www.cs.cornell.edu/courses/cs2802/2020fa/cs2802-20f-homework.html)
 
-#### Books
+#### Books<a name="math_logic_preliminaries_discrete_mathematics_books"></a>
 - [Rosen. Discrete Mathematics and Its Applications](https://www.mheducation.com/highered/product/discrete-mathematics-applications-rosen/M9780073383095.html) - A canonical discrete math textbook, accessible for even high school students.
 - [Rosen. Handbook of Discrete and Combinatorial Mathematics](https://www.taylorfrancis.com/books/handbook-discrete-combinatorial-mathematics-kenneth-rosen-douglas-shier-wayne-goddard/e/10.1201/9781315156484) - A complete survey of roughly all topics of discrete math and their relevance to computing and communication engineering.
 - [Rosenberg & Trystram. Understand Mathematics, Understand Computing: Discrete Mathematics That All Computing Students Should Know](https://www.springer.com/gp/book/9783030583750) - It endows the reader with an operational conceptual and methodological understanding of discrete mathematics for computing
 - [Gries & Schneider. A Logical Approach to Discrete Math](https://www.springer.com/gp/book/9780387941158) - It attempts to change the way we teach logic to beginning students. Instead of teaching logic as a subject in isolation, we regard it as a basic tool and show how to use it.
 - [Mariconda & Tonolo. Discrete Calculus: Methods for Counting](https://www.springer.com/gp/book/9783319030371) - An introduction to combinatorics, finite calculus, formal series, recurrences, and approximations of sums. Readers will find also deep insights into a range of less common topics rarely considered within a single book.
 
-#### MOOC
+#### MOOC<a name="math_logic_preliminaries_discrete_mathematics_mooc"></a>
 - [Introduction to Discrete Mathematics for Computer Science. UC San-Diego](https://www.coursera.org/specializations/discrete-mathematics) - Learn the language of Computer Science. Learn the math that defines computer science, and practice applying it through mathematical proofs and Python code.
 
 ## Surveys
+- [Fortnow & Homer. A Short History of Computational Complexity](https://www.researchgate.net/profile/Lance-Fortnow/publication/220530495_A_Short_History_of_Computational_Complexity/links/0deec52bd7ab603fef000000/A-Short-History-of-Computational-Complexity.pdf) - A historical overview of computational complexity.
+- [Goldreich. Providing Sound Foundations for Cryptography: On the Work of Shafi Goldwasser and Silvio Micali](http://www.wisdom.weizmann.ac.il/~oded/sst.html) - It explains the remarkable work of Shafi and Silvio and their works' implications on foundations of cryptography.
 - [Watrous. Quantum Computational Complexity](https://arxiv.org/abs/0804.3401) - A survey on the intersection of computational complexity and quantum computing.
 - [Harrow & Ashley Montanaro. Quantum Computational Supremacy](https://www.nature.com/articles/nature23458) - A remarkable paper on quantum supremacy.
 - [Cook. An Overview of Computational Complexity](https://dl.acm.org/doi/abs/10.1145/1283920.1283938?casa_token=I0zkxGUh7zoAAAAA:qUozzyaWcba56dq5q6CXVo2JvGVOzcXY2J8HKoI-OZxEbxhVXlQlWF0pg5ttfs8X8pznp5j7Bbrktg) - A historical overview of computational complexity.
-- [Fortnow & Homer. A Short History of Computational Complexity](https://www.researchgate.net/profile/Lance-Fortnow/publication/220530495_A_Short_History_of_Computational_Complexity/links/0deec52bd7ab603fef000000/A-Short-History-of-Computational-Complexity.pdf) - A historical overview of computational complexity.
-- [Goldreich. Providing Sound Foundations for Cryptography: On the Work of Shafi Goldwasser and Silvio Micali](http://www.wisdom.weizmann.ac.il/~oded/sst.html) - It explains the remarkable work of Shafi and Silvio and their works' implications on foundations of cryptography.
 
 
 
