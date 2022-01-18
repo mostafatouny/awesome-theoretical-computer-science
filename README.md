@@ -8,6 +8,13 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 - [Introductory Theoretical Computer Science](#introductory-theoretical-computer-science)
   - [Broad Intros](#introductory_theoretical_computer_science_broad_intros)
     - [Books](#introductory_theoretical_computer_science_broad_intros_books)
+    - [Lecture Videos Playlists](#introductory_theoretical_computer_science_broad_intros_lecture_videos_playlists)
+  - [Automata, Computability, & Complexity](#introductory_theoretical_computer_science_automata_computability_complexity)
+    - [Lecture Notes](#introductory_theoretical_computer_science_automata_computability_complexity_lecture_notes)
+    - [Lecture Videos Playlists](#introductory_theoretical_computer_science_automata_computability_complexity_lecture_videos_playlists)
+    - [MOOC](#introductory_theoretical_computer_science_automata_computability_complexity_mooc)
+    - [Books](#introductory_theoretical_computer_science_science_automata_computability_complexity_books)
+    - [Puzzles and Problem Sets](#introductory_theoretical_computer_science_automata_computability_complexity_puzzles_and_problem_sets)
 - [Theoretical Computer Science Handbooks](#theoretical-computer-science-handbooks)
 - [Computational Complexity](#computational-complexity)
 - [Algorithms](#algorithms)
@@ -30,7 +37,7 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 - [Moore & Mertens. The Nature of Computation](http://nature-of-computation.org/) - It spans complexity of mazes and games; optimization in theory and practice; randomized algorithms, interactive proofs, and pseudorandomness; Markov chains and phase transitions; and of quantum computing. It provides accessible explanations
 - [Wigderson. Mathematics and Computation: A Theory Revolutionizing Technology and Science](https://www.math.ias.edu/files/Book-online-Aug0619.pdf) - A sweeping survey of complexity theory, emphasizing the field’s insights and challenges. It explains the ideas and motivations leading to key models, notions, and results.
 
-#### Lecture Videos Playlists
+#### Lecture Videos Playlists<a name="introductory_theoretical_computer_science_broad_intros_lecture_videos_playlists"></a>
 - [O'Donnell. CS Theory Toolkit](https://www.youtube.com/playlist?list=PLm3J0oaFux3ZYpFLwwrlv_EHH9wtH6pnX) - It covers a large number of the math/CS topics that you need to know for reading and doing research in Computer Science Theory.
   - alternatively: [bilibili](https://www.bilibili.com/video/BV1Ry4y1e7zR)
 
@@ -39,25 +46,25 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 - [O'Donnell. A Theorist's Toolkit](https://www.cs.cmu.edu/~odonnell/toolkit13/) - It covers a large number of the math/CS topics that you need to know for reading and doing research in Computer Science Theory.
 - [Arora. Thinking Like a Theorist](https://www.cs.princeton.edu/courses/archive/fall07/cos597D/Site/lectopics.html) - It covers a large number of the math/CS topics that you need to know for reading and doing research in Computer Science Theory.
 
-### Automata, Computability, & Complexity
+### Automata, Computability, & Complexity<a name="introductory_theoretical_computer_science_automata_computability_complexity"></a>
 
-#### Lecture Notes
+#### Lecture Notes<a name="introductory_theoretical_computer_science_automata_computability_complexity_lecture_notes"></a>
 - [Watrous. Introduction to The Theory of Computing](https://cs.uwaterloo.ca/~watrous/ToC-notes/) - undergrad introduction to theory of computation
 
-#### Lecture Videos Playlists
+#### Lecture Videos Playlists<a name="introductory_theoretical_computer_science_automata_computability_complexity_lecture_videos_playlists"></a>
 - [Yanofsky. Theoretical Computer Science](https://www.youtube.com/playlist?list=PLCqUsBXxq16yBaN_hpo7dY2l9N-ZLtI-X) - undergrad introduction to theory of computation
 - [O'Donnell. Great Ideas in Theoretical Computer Science. CMU](https://www.youtube.com/playlist?list=PLm3J0oaFux3aafQm568blS9blxtA_EWQv) - A series of lectures on selected notable topics in theoretical computer science
 
-#### MOOC
+#### MOOC<a name="introductory_theoretical_computer_science_automata_computability_complexity_mooc"></a>
 - [Intro to Theoretical Computer Science](https://www.udacity.com/course/intro-to-theoretical-computer-science--cs313) - It teaches basic concepts in theoretical computer science, such as NP-completeness, and what they imply for solving tough algorithmic problems.
 - [Computability, Complexity & Algorithms. Georgia Institute of Technology](https://www.udacity.com/course/computability-complexity-algorithms--ud061) - It focuses on the big fundamental questions of computing, and how understanding the power and limitations of algorithms helps us develop the tools to make real-world computers smarter, faster and safer. 
 
-#### Books
+#### Books<a name="introductory_theoretical_computer_science_automata_computability_complexity_books"></a>
 - [Sipser. Introduciton to Theory of Computation](https://www.cengage.com/c/introduction-to-the-theory-of-computation-3e-sipser/9781133187790/) - A standard text for introducing theory of computation for undergrads.
 - [Hopcroft, Motwani & Ullman. Introduction to Automata Theory, Languages, and Computation](https://www.pearson.com/us/higher-education/program/Hopcroft-Introduction-to-Automata-Theory-Languages-and-Computation-3rd-Edition/PGM64331.html) - Introductory undergrad textbook for automata, languages and theory of computation topics.
 - [Barak. Introduction to TCS](https://introtcs.org/public/index.html) - A modern, brief, and accessible text which introduces theoretical computer science for undergrads. It includes topics not usually included in standard undergrad text-books.
 
-#### Puzzles and Problem Sets
+#### Puzzles and Problem Sets<a name="introductory_theoretical_computer_science_automata_computability_complexity_puzzles_and_problem_sets"></a>
 - [Zhu & Ko. Problem Solving in Automata, Languages, and Complexity](https://onlinelibrary.wiley.com/doi/book/10.1002/0471224642) - A problem-set text for automata, languages, and complexity.
 
 
