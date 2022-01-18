@@ -7,13 +7,13 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 ## Contents
 - [Introductory Theoretical Computer Science](#introductory-theoretical-computer-science)
   - [Broad Intros](#introductory_theoretical_computer_science_broad_intros)
-    - [Books](#introductory_theoretical_computer_science_broad_intros_books), [Lecture Videos Playlists](#introductory_theoretical_computer_science_broad_intros_lecture_videos_playlists)
+    - [Books](#introductory_theoretical_computer_science_broad_intros_books) | [Lecture Videos Playlists](#introductory_theoretical_computer_science_broad_intros_lecture_videos_playlists)
   - [Automata, Computability, & Complexity](#introductory_theoretical_computer_science_automata_computability_complexity)
-    - [Lecture Notes](#introductory_theoretical_computer_science_automata_computability_complexity_lecture_notes), [Lecture Videos Playlists](#introductory_theoretical_computer_science_automata_computability_complexity_lecture_videos_playlists), [MOOC](#introductory_theoretical_computer_science_automata_computability_complexity_mooc), [Books](#introductory_theoretical_computer_science_automata_computability_complexity_books), [Puzzles and Problem Sets](#introductory_theoretical_computer_science_automata_computability_complexity_puzzles_and_problem_sets)
+    - [Lecture Notes](#introductory_theoretical_computer_science_automata_computability_complexity_lecture_notes) | [Lecture Videos Playlists](#introductory_theoretical_computer_science_automata_computability_complexity_lecture_videos_playlists) | [MOOC](#introductory_theoretical_computer_science_automata_computability_complexity_mooc) | [Books](#introductory_theoretical_computer_science_automata_computability_complexity_books) | [Puzzles and Problem Sets](#introductory_theoretical_computer_science_automata_computability_complexity_puzzles_and_problem_sets)
 - [Theoretical Computer Science Handbooks](#theoretical-computer-science-handbooks)
 - [Computational Complexity](#computational-complexity)
   - [General](#computational_complexity_general)
-    - [Lecture Videos Playlists](#computational_complexity_general_lecture_videos_playlists), [Lecture Notes](#computational_complexity_general_lecture_notes), [Books](#computational_complexity_general_books), [Popular Science](#computational_complexity_general_popular_science)
+    - [Lecture Videos Playlists](#computational_complexity_general_lecture_videos_playlists) | [Lecture Notes](#computational_complexity_general_lecture_notes) | [Books](#computational_complexity_general_books) | [Popular Science](#computational_complexity_general_popular_science)
   - [Communication Complexity](#computational_complexity_communication_complexity)
     - [Books](#computational_complexity_communication_complexity_books)
   - [Circuit Complexity](#computational_complexity_circuit_complexity)
@@ -32,17 +32,21 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
   - [Computational Complexity](#logic_and_foundational_mathematics_computational_complexity)
     - [Books](#logic_and_foundational_mathematics_computational_complexity_books)
 - [Philosophy](#philosophy)
-  - [Lecture Notes](#philosophy_lecture_notes], [Books](#philosophy_books), [Popular Science](#philosophy_popular_science), [Papers](#philosophy_papers)
+  - [Lecture Notes](#philosophy_lecture_notes) | [Books](#philosophy_books) | [Popular Science](#philosophy_popular_science) | [Papers](#philosophy_papers)
 - [Physics](#physics)
-  - [Books](#physics_books), [Monographs](#physics_monographs)
+  - [Books](#physics_books) | [Monographs](#physics_monographs)
 - [Math/Logic Preliminaries](#mathlogic-preliminaries)
   - [General](#math_logic_preliminaries_general)
-    - [Lecture Video Playlist](#math_logic_preliminaries_general_lecture_video_playlist), [Books](#math_logic_preliminaries_general_books), [Lecture Notes](#math_logic_preliminaries_general_books)
+    - [Lecture Video Playlist](#math_logic_preliminaries_general_lecture_video_playlist) | [Books](#math_logic_preliminaries_general_books) | [Lecture Notes](#math_logic_preliminaries_general_books)
   - [Transition To Pure Rigour Math](#mathlogic_preliminaries_transition_to_pure_rigour_math)
-  - [Discrete Mathematics](#mathlogic_preliminaries_discrete_mathematics)
-    - [Lecture Notes](#math_logic_preliminaries_discrete_mathematics_lecture_notes), [Books](#math_logic_preliminaries_discrete_mathematics_books), [MOOC](#math_logic_preliminaries_discrete_mathematics_mooc)
+  - [Discrete Mathematics](#math_logic_preliminaries_discrete_mathematics)
+    - [Lecture Notes](#math_logic_preliminaries_discrete_mathematics_lecture_notes) | [Books](#math_logic_preliminaries_discrete_mathematics_books) | [MOOC](#math_logic_preliminaries_discrete_mathematics_mooc)
 - [Surveys](#surveys)
 - [Other Resources](#other-resources)
+  - [Blog Posts and Essays](#other_resources_blog_posts_and_essays)
+  - [Magazines/Journals/News](#other_resources_magazines_journals_news)
+  - [Popular Science](#other_resources_popular_science)
+  - [Cheat-Sheets](#other_resources_cheat_sheets)
 - [Talks](#talks)
 - [Related Awesome Lists](#related-awesome-lists)
 - [Useful Links](#useful-links)
@@ -239,7 +243,7 @@ It is already curated [here](https://github.com/mostafatouny/awesome-pure-math#t
 
 ## Other Resources
 
-### Blog Posts and Essays
+### Blog Posts and Essays<a name="other_resources_blog_posts_and_essays"></a>
 - [Omer Reingold. The Practice of Theory Research](https://omereingold.wordpress.com/cs-163-the-practice-of-theory-research/) - A research methods course, concentrating on the how rather than the what. It focuses on research practices common for computer science theory research.
 - [Omer Reingold. TOC: a Personal Perspective (2021)](https://theorydish.blog/2021/04/15/toc-a-personal-perspective-2021/) - In celebration of 25 years for “TOC: a Scientific Perspective (1996),” by Oded Goldreich and Avi Wigderson. It spots the light on a criticism directed to TCS, that it is not as deep as Math and not as useful as CS.
 - [Blum. You and Your Research: An Advice to a Beginning Graduate Student](https://www.cs.cmu.edu/~mblum/research/pdf/grad.html) - Manuel Blum, A very popular figure in TCS, gives research advices for juniors.
@@ -254,15 +258,15 @@ It is already curated [here](https://github.com/mostafatouny/awesome-pure-math#t
 - [Terry. Career Advice](https://terrytao.wordpress.com/career-advice/) - A collection of various pieces of advice on academic career issues in mathematics, roughly arranged by the stage of career at which the advice is most pertinent.
 
 
-### Magazines/Journals/News
+### Magazines/Journals/News<a name="other_resources_magazines_journals_news"></a>
 - [The Legacy of Alan Turing: Pushing the Boundaries of Computation (Volume 18, Issue 3, Spring 2012). ACM, XRDS](https://dl.acm.org/toc/xrds/2012/18/3) - ACM's students magazine special issue for theory of computation 
 - [SIGACT News](https://dl.acm.org/loi/sigact) - ACM's official theoretical computer science news feed.
 - [Foundations and Trends in Theoretical Computer Science](https://www.nowpublishers.com/TCS) - It provides monographs written by leaders that give tutorial coverage of subjects, research retrospectives as well as survey papers that offer state-of-the-art reviews fall within the scope of the journal. 
 
-### Popular Science
+### Popular Science<a name="other_resources_popular_science"></a>
 - [Shasha & Lazere. Out of their Minds: The Lives and Discoveries of 15 Great Computer Scientists](https://www.springer.com/gp/book/9780387982694)
 
-### Cheat-Sheets
+### Cheat-Sheets<a name="other_resources_cheat_sheets"></a>
 - [TCS Cheat Sheet](https://www.cosy.sbg.ac.at/~held/teaching/aads/TCS-cheat_sheet.pdf) - A sheet of notes containing essential toolboxes needed by any theoretical computer scientist.
 
 
@@ -282,6 +286,7 @@ It is already curated [here](https://github.com/mostafatouny/awesome-pure-math#t
   - [Richard Karp](https://www.youtube.com/watch?v=KllCrlfLuzs)
   - Scott Aaronson: [1](https://www.youtube.com/watch?v=uX5t8EivCaM), [2](https://www.youtube.com/watch?v=nAMjv0NAESM)
 - [Computational Complexity](https://www.youtube.com/channel/UCzBw287tly0c2lE6a-9XymA)
+- [Chi-Ning Chou. Mini-Course: What is Computation? From Turing Machines to Black Holes and Neurons](https://www.youtube.com/playlist?list=PLUxf7X3NCfHNqOFlnnX9nSTENSzZoOLVp) (see also [main website](https://cnchou.github.io/mini-course/))
 
 
 ## Related Awesome Lists
