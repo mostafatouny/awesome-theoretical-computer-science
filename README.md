@@ -26,9 +26,24 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
     - [Books](#computational_complexity_communication_complexity_books)
   - [Circuit Complexity](#computational_complexity_circuit_complexity)
     - [Books](#computational_complexity_circuit_complexity_books) 
+- [Randomization](#randomization)
+  - [General](#randomization_general)
 - [Algorithms](#algorithms)
+  - [Lecture Videos Playlists](#algorithms_lecture_video_playlists)
 - [Logic and Foundational Mathematics](#logic-and-foundational-mathematics)
+  - [Computability Theory](#logic_and_foundational_mathematics_computability_theory)
+    - [Books](#logic_and_foundational_mathematics_computability_theory_books)
+      - [Introductory](#logic_and_foundational_mathematics_computability_theory_books_introductory)
+      - [Collected Papers](#logic_and_foundational_mathematics_computability_theory_books_collected_papers)
+      - [Popular Science](#logic_and_foundational_mathematics_computability_theory_books_popular_science)
+      - [Advanced](#logic_and_foundational_mathematics_computability_theory_books_advanced)
+  - [Computational Complexity](#logic_and_foundational_mathematics_computational_complexity)
+    - [Books](#logic_and_foundational_mathematics_computational_complexity_books)
 - [Philosophy](#philosophy)
+  - [Lecture Notes](#philosophy_lecture_notes)
+  - [Books](#philosophy_books)
+  - [Popular Science](#philosophy_popular_science)
+  - [Papers](#philosophy_#papers)
 - [Physics](#physics)
 - [Math/Logic Preliminaries](#mathlogic-preliminaries)
 - [Surveys](#surveys)
@@ -114,12 +129,12 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 
 
 ## Randomization
-### General
+### General<a name="randomization_general"></a>
 - [Goldreich. Randomized Methods in Computation](http://www.wisdom.weizmann.ac.il/~oded/rnd.html) - The aim of the current course is to make the students familiar with some of randomized methods.
 
 ## Algorithms
 
-### Lecture Video Playlists
+### Lecture Video Playlists<a name="algorithms_lecture_video_playlists"></a>
 - [Demaine. Algorithmic Lower Bounds: Fun with Hardness Proofs](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-890-algorithmic-lower-bounds-fun-with-hardness-proofs-fall-2014/) - A class taking a practical approach to proving problems can't be solved efficient.
 ### Books
 - [Demaine. Games, Puzzles, and Computation](https://www.routledge.com/Games-Puzzles-and-Computation/Hearn-Demaine/p/book/9781568813226) - It shows that games and puzzles can serve as powerful models of computation, Offering a new way of thinking about computation.
@@ -128,25 +143,25 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 
 ## Logic and Foundational Mathematics
 
-### Computability Theory
-#### Books
-##### Introductory
+### Computability Theory<a name="logic_and_foundational_mathematics_computability_theory"></a>
+#### Books<a name="logic_and_foundational_mathematics_computability_theory_books"></a>
+##### Introductory<a name="logic_and_foundational_mathematics_computability_theory_books_introductory"></a>
 - [Cutland. Computability: An Introduction to Recursive Function Theory](https://www.cambridge.org/highereducation/books/computability/E8F085FDBECB8280F7723D71C1D2EE1C) - Intuitively, It explains the idea of a computable function: a function whose values can be calculated in an effective or automatic way.
 - [Cooper. Computability Theory](https://www.routledge.com/Computability-Theory/Cooper-Cooper/p/book/9781584882374) - A concise, comprehensive, and authoritative introduction to contemporary computability theory, techniques, and results.
 - [Davis. Computability and Unsolvability](https://www.amazon.com/Computability-Unsolvability-Prof-Martin-Davis/dp/0486614719) - In this classic text, Dr. Davis provides a clear introduction to computability, at an advanced undergraduate level, that serves the needs of specialists and non-specialists alike.
-##### Collected Papers
+##### Collected Papers<a name="logic_and_foundational_mathematics_computability_theory_books_collected_papers"></a>
 - [Copeland, Posy & Shagrir (editors). Computability: Turing, Gödel, Church, and Beyond](https://mitpress.mit.edu/books/computability) - Computer scientists, mathematicians, and philosophers discuss the conceptual foundations of the notion of computability as well as recent theoretical developments. 
-##### Popular Science
+##### Popular Science<a name="logic_and_foundational_mathematics_computability_theory_books_popular_science"></a>
 - [Papadimitriou. Turing: A Novel About Computation](https://mitpress.mit.edu/books/turing-novel-about-computation) - The world of computation according to Turing, an interactive tutoring program, as told to star-crossed lovers: a novel. 
 - [Petzold. The Annotated Turing: A Guided Tour Through Alan Turing's Historic Paper on Computability and the Turing Machine](http://www.charlespetzold.com/AnnotatedTuring/) -  A Guided Tour through Alan Turing's Historic Paper on Computability and the Turing Machine.
-##### Advanced
+##### Advanced<a name="logic_and_foundational_mathematics_computability_theory_books_advanced"></a>
 - [Soare. Recursively Enumerable Sets and Degree](https://www.springer.com/gp/book/9783540666813) - It gives a complete account of the theory of r.e degrees. The definitions, results and proofs are always clearly motivated and explained before the formal presentation; the proofs are described with remarkable clarity and conciseness.
 - [Odifreddi. Classical Recursion Theory: The Theory of Functions and Sets of Natural Numbers](https://archive.org/details/classicalrecursi0000odif) - An impressive presentation of classical recursion theory. It is highly recommended to everyone interested in recursion theory.
 
 
 
-### Computational Complexity
-#### Books
+### Computational Complexity<a name="logic_and_foundational_mathematics_computational_complexity"></a>
+#### Books<a name="logic_and_foundational_mathematics_computational_complexity_books"></a>
 - [Pudlák. Logical Foundations of Mathematics and Computational Complexity: A Gentle Introduction](https://www.springer.com/gp/book/9783319001180) - Presents a wide range of results in logic and computational complexity.
 
 
@@ -154,16 +169,16 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 
 ## Philosophy
 
-### Lecture Notes
+### Lecture Notes<a name="philosophy_lecture_notes"></a>
 - [6.893 Philosophy and Theoretical Computer Science. MIT](https://stellar.mit.edu/S/course/6/fa11/6.893/index.html) - It examines the relevance of modern theoretical computer science to traditional questions in philosophy, and conversely, what philosophy can contribute to theoretical computer science.
-### Books
+### Books<a name="philosophy_books"></a>
 - [Knuth. Things a Computer Scientist Rarely Talks About](https://web.stanford.edu/group/cslipublications/cslipublications/site/1575863278.shtml) - A general illustration of relations between faith and science.
 - [Floyd & Bokulich. Philosophical Explorations of the Legacy of Alan Turing: Turing 100](https://www.springer.com/gp/book/9783319532783) - Turing’s place in the history and philosophy of science.
 
-### Popular Science
+### Popular Science<a name="philosophy_popular_science"></a>
 - [Deutsch. The Fabric of Reality: The Science of Parallel Universes and Its Implications](http://www.daviddeutsch.org.uk/books/the-fabric-of-reality/) - The Fabric of Reality presents a startlingly integrated, rational and optimistic world view – the result of taking seriously the deepest ideas of modern science and the philosophy of science.
 
-### Papers
+### Papers<a name="philosophy_papers"></a>
 - [Aaronson. Why Should Philosophers Care About Computational Complexity Theory](https://www.scottaaronson.com/papers/philos.pdf) - It argues that computational complexity theory leads to new perspectives on the nature of mathematical knowledge and other philosophical questions.
 - [Aharonov & Vazirani, Is Quantum Mechanics Falsifiable? A Computational Perspective on the Foundations of Quantum Mechanics](https://www.researchgate.net/publication/227171743_Is_Quantum_Mechanics_Falsifiable_A_computational_perspective_on_thefoundations_of_Quantum_Mechanics) - It describes how quantum mechanics can be tested in the limit of high complexity regime by extending the usual scientific paradigm to include.
 - [Walter Dean. Computational Complexity Theory and the Philosophy of Mathematics](https://academic.oup.com/philmat/article/27/3/381/5613215) - It highlights the significance of complexity theory relative to questions traditionally asked by philosophers of mathematics while also attempting to isolate some new ones.
