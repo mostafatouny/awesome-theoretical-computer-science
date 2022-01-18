@@ -35,9 +35,9 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 - [Math/Logic Preliminaries](#mathlogic-preliminaries)
   - [General](#math_logic_preliminaries_general)
     - [Lecture Video Playlist](#math_logic_preliminaries_general_lecture_video_playlist) | [Books](#math_logic_preliminaries_general_books) | [Lecture Notes](#math_logic_preliminaries_general_books)
-  - [Transition To Pure Rigour Math](#mathlogic_preliminaries_transition_to_pure_rigour_math)
   - [Discrete Mathematics](#math_logic_preliminaries_discrete_mathematics)
     - [Lecture Notes](#math_logic_preliminaries_discrete_mathematics_lecture_notes) | [Books](#math_logic_preliminaries_discrete_mathematics_books) | [MOOC](#math_logic_preliminaries_discrete_mathematics_mooc)
+  - [Transition To Pure Rigour Math](#mathlogic_preliminaries_transition_to_pure_rigour_math)
 - [Surveys](#surveys)
 - [Other Resources](#other-resources)
   - [Blog Posts and Essays](#other_resources_blog_posts_and_essays)
@@ -211,8 +211,6 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 - [Oberguggenberger & Ostermann. Analysis for Computer Scientists: Foundations, Methods, and Algorithms](https://www.springer.com/gp/book/9783319911540) - Presents an algorithmic approach to mathematical analysis, with a focus on modelling and on the applications of analysis.
 #### Lecture Notes<a name="math_logic_preliminaries_general_lecture_notes"></a>
 - [Paluszynski. Calculus for Computer Scientists](https://www.math.uni.wroc.pl/~mpal/academic/2013/lecture_notes.pdf) - calculus lecture notes taught for undergrad computer science students
-### Transition To Pure Rigour Math<a name="math_logic_preliminaries_transition_to_pure_rigour_math"></a>
-It is already curated [here](https://github.com/mostafatouny/awesome-pure-math#transition-to-pure-rigour-math) - Introductory proofs and mathematical maturity.
 
 ### Discrete Mathematics<a name="math_logic_preliminaries_discrete_mathematics"></a>
 #### Lecture Notes<a name="math_logic_preliminaries_discrete_mathematics_lecture_notes"></a>
@@ -228,6 +226,11 @@ It is already curated [here](https://github.com/mostafatouny/awesome-pure-math#t
 
 #### MOOC<a name="math_logic_preliminaries_discrete_mathematics_mooc"></a>
 - [Introduction to Discrete Mathematics for Computer Science. UC San-Diego](https://www.coursera.org/specializations/discrete-mathematics) - Learn the language of Computer Science. Learn the math that defines computer science, and practice applying it through mathematical proofs and Python code.
+
+### Transition To Pure Rigour Math<a name="math_logic_preliminaries_transition_to_pure_rigour_math"></a>
+It is already curated [here](https://github.com/mostafatouny/awesome-pure-math#transition-to-pure-rigour-math) - Introductory proofs and mathematical maturity.
+
+
 
 ## Surveys
 - [Fortnow & Homer. A Short History of Computational Complexity](https://www.researchgate.net/profile/Lance-Fortnow/publication/220530495_A_Short_History_of_Computational_Complexity/links/0deec52bd7ab603fef000000/A-Short-History-of-Computational-Complexity.pdf) - A historical overview of computational complexity.
