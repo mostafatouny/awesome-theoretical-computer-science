@@ -7,6 +7,7 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 ## Contents
 - [Introductory Theoretical Computer Science](#introductory-theoretical-computer-science)
   - [Broad Intros](#introductory_theoretical_computer_science_broad_intros)
+    - [Books](#introductory_theoretical_computer_science_broad_intros_books)
 - [Theoretical Computer Science Handbooks](#theoretical-computer-science-handbooks)
 - [Computational Complexity](#computational-complexity)
 - [Algorithms](#algorithms)
@@ -25,7 +26,7 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 ## Introductory Theoretical Computer Science
 
 ### Broad Intros<a name="introductory_theoretical_computer_science_broad_intros"></a>
-#### Books
+#### Books<a name="introductory_theoretical_computer_science_broad_intros_books"></a>
 - [Moore & Mertens. The Nature of Computation](http://nature-of-computation.org/) - It spans complexity of mazes and games; optimization in theory and practice; randomized algorithms, interactive proofs, and pseudorandomness; Markov chains and phase transitions; and of quantum computing. It provides accessible explanations
 - [Wigderson. Mathematics and Computation: A Theory Revolutionizing Technology and Science](https://www.math.ias.edu/files/Book-online-Aug0619.pdf) - A sweeping survey of complexity theory, emphasizing the field’s insights and challenges. It explains the ideas and motivations leading to key models, notions, and results.
 
