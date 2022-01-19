@@ -271,13 +271,11 @@ It is already curated [here](https://github.com/mostafatouny/awesome-pure-math#t
 - Berkeley in the 80s - Interviews with eminent figures in Berkeley's theoretical computer science.
 	- [Shafi Goldwasser](https://www.youtube.com/watch?v=7D4hIe7M4qU&t=1s)
 - [Simons' Theory Shorts](https://www.youtube.com/playlist?list=PLgKuh-lKre134Psz9KECgjuwJ47l3IvqW) - Short accessible videos which populate theory of computation.
-- Lex Podcast
-  - Donald Knuth: [1](https://www.youtube.com/watch?v=2BdBfsXbST8), [2](https://www.youtube.com/watch?v=EE1R8FYUJm0)
-  - [Silvio Micali](https://www.youtube.com/watch?v=zNdhgOk4-fE)
-  - [Richard Karp](https://www.youtube.com/watch?v=KllCrlfLuzs)
-  - Scott Aaronson: [1](https://www.youtube.com/watch?v=uX5t8EivCaM), [2](https://www.youtube.com/watch?v=nAMjv0NAESM)
-- [Computational Complexity](https://www.youtube.com/channel/UCzBw287tly0c2lE6a-9XymA)
-- [Chi-Ning Chou. Mini-Course: What is Computation? From Turing Machines to Black Holes and Neurons](https://www.youtube.com/playlist?list=PLUxf7X3NCfHNqOFlnnX9nSTENSzZoOLVp) (see also [main website](https://cnchou.github.io/mini-course/))
+- Lex Podcast - Informal discussions podcast.
+  - [Donald Knuth 1](https://www.youtube.com/watch?v=2BdBfsXbST8) | [Donald Knuth 2](https://www.youtube.com/watch?v=EE1R8FYUJm0) | [Silvio Micali](https://www.youtube.com/watch?v=zNdhgOk4-fE) | [Richard Karp](https://www.youtube.com/watch?v=KllCrlfLuzs) | [Scott Aaronson 1](https://www.youtube.com/watch?v=uX5t8EivCaM), [Scott Aaronson 2](https://www.youtube.com/watch?v=nAMjv0NAESM)
+- [Computational Complexity](https://www.youtube.com/channel/UCzBw287tly0c2lE6a-9XymA) - Collection of workshops.
+- [Chi-Ning Chou. What is Computation? From Turing Machines to Black Holes and Neurons](https://www.youtube.com/playlist?list=PLUxf7X3NCfHNqOFlnnX9nSTENSzZoOLVp) (see also [main website](https://cnchou.github.io/mini-course/)) - Accessible mini-course that introduces high-level stories of TCS and its intersections with other fields.
+
 
 ### Jobs<a name="live_content_jobs"></a>
 #### Aggregator<a name="live_content_jobs_aggregator"></a>
