@@ -279,7 +279,7 @@ It is already curated [here](https://github.com/mostafatouny/awesome-pure-math#t
 
 ### Jobs<a name="live_content_jobs"></a>
 #### Aggregator<a name="live_content_jobs_aggregator"></a>
-- [CS Theory Jobs](https://cstheory-jobs.org)
+- [CS Theory Jobs](https://cstheory-jobs.org) - TCS Jobs announcements.
 
 #### Masters<a name="live_content_jobs_masters"></a>
 - [Rubinstein & Weinberg. Research Masters in TCS](https://www.cs.princeton.edu/~smattw/masters/masters.html) - A list of master programs in TCS.
