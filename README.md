@@ -51,7 +51,7 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
   - [Blog Posts and Essays](#other_resources_blog_posts_and_essays) | [Magazines/Journals/News](#other_resources_magazines_journals_news) | [Popular Science](#other_resources_popular_science) | [Cheat-Sheets](#other_resources_cheat_sheets) | [Network Groups](#other_resources_network_groups)
 - [Related Awesome Lists](#related-awesome-lists)
 
----
+
 
 ## Introductory
 
@@ -97,7 +97,7 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 - [Handbook of Theoretical Computer Science. Volume A: Algorithms and Complexity](https://mitpress.mit.edu/books/handbook-theoretical-computer-science-volume) - A complete comprehensive encyclopediac handbook which surveys all related areas to theoretical computer science.
 - [Handbook of Theoretical Computer Science. Volume B: Formal Methods and Semantics](https://mitpress.mit.edu/books/handbook-theoretical-computer-science-2-vol-set) - A complete comprehensive encyclopediac handbook which surveys all related areas to theoretical computer science.
 
----
+
 
 ## Computational Complexity
 
@@ -123,7 +123,7 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 - [Jukna. Boolean Function Complexity: Advances and Frontiers](https://www.springer.com/gp/book/9783642245077) - A modern textbook surveying circuit complexity.
 - [Clote & Kranakis. Boolean Functions and Computation Models](https://www.springer.com/gp/book/9783540594369) - An introduction to circuit complexity, boolean functions, and computation models.
 
----
+
 
 ## Logic and Foundational Mathematics
 
@@ -176,7 +176,7 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 ### Monographs<a name="physics_monographs"></a>
 - [Susskind. Three Lectures on Complexity and Black Holes](https://link.springer.com/book/10.1007/978-3-030-45109-7) - Important connections between thermodynamics and complexity are proposed and discussed. Pedagogically written, serves as a fundamental introduction to black holes and their complex physical interpretation
 
----
+
 
 ## Philosophy
 
@@ -194,7 +194,7 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 - [Stanford Encyclopedia of Philosophy. Computational Complexity Theory](https://plato.stanford.edu/entries/computational-complexity/) - The foundations of complexity theory, and its potential significance on philosophy of computer science, philosophy of mathematics and epistemology.
 - [Philip Davis. Toward a Philosophy of Computation](https://www.jstor.org/stable/40247755) - Philosophical implication of mathematization and computerization of the world.
 
----
+
 
 ## Math/Logic Preliminaries
 ### General<a name="math_logic_preliminaries_general"></a>
