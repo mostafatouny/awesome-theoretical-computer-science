@@ -15,7 +15,7 @@ def genCon(data, lev, prevRef):
     # if list of strings
     elif ( isinstance(data, list) ):
         for el in data:
-            print("  "*lev + "- " + el)
+            print("- " + el)
 
 ###
 

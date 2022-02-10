@@ -21,4 +21,4 @@ def parseToCitem(key, keyRef):
 
 # for Con
 def parseConItem(lev, key, keyRef):
-    return "  "*lev + "#"*(lev+1) + " " + key +"<a name="+keyRef+"></a>"
+    return "#"*(lev+1) + " " + key +"<a name="+keyRef+"></a>"
