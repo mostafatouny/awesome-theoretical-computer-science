@@ -7,16 +7,17 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 ## Contents
 - [Broad Intros](#broad_intros)
   - [Books](#broad_intros_books) | [Lecture Videos Playlists](#broad_intros_lecture_videos_playlists) | [Lecture Notes](#broad_intros_lecture_notes)
-- [Automata, Computability, & Complexity](#introductory_theoretical_computer_science_automata_computability_complexity)
-  - [Lecture Notes](#introductory_theoretical_computer_science_automata_computability_complexity_lecture_notes) | [Lecture Videos Playlists](#introductory_theoretical_computer_science_automata_computability_complexity_lecture_videos_playlists) | [MOOC](#introductory_theoretical_computer_science_automata_computability_complexity_mooc) | [Books](#introductory_theoretical_computer_science_automata_computability_complexity_books) | [Puzzles and Problem Sets](#introductory_theoretical_computer_science_automata_computability_complexity_puzzles_and_problem_sets)
 - [Handbooks](#handbooks)
-- [Computational Complexity](#computational-complexity)
-  - [General](#computational_complexity_general)
-    - [Lecture Videos Playlists](#computational_complexity_general_lecture_videos_playlists) | [Lecture Notes](#computational_complexity_general_lecture_notes) | [Books](#computational_complexity_general_books)
-  - [Communication Complexity](#computational_complexity_communication_complexity)
-    - [Books](#computational_complexity_communication_complexity_books)
-  - [Circuit Complexity](#computational_complexity_circuit_complexity)
-    - [Books](#computational_complexity_circuit_complexity_books) 
+- [Theory of Computation](#theory_of_computation)
+  - [Introductory](#theory_of_computation_introductory)
+    - [Lecture Notes](#theory_of_computation_introductory_lecture_notes) | [Lecture Videos Playlists](#theory_of_computation_introductory_lecture_videos_playlists) | [MOOC](#theory_of_computation_introductory_mooc) | [Books](#theory_of_computation_introductory_books) | [Puzzles and Problem Sets](#theory_of_computation_introductory_puzzles_and_problem_sets)
+  - [Computational Complexity](#theory_of_computation_computational_complexity)
+    - [General](#theory_of_computation_computational_complexity_general)
+      - [Lecture Videos Playlists](#theory_of_computationtheory_of_computation__computational_complexity_general_lecture_videos_playlists) | [Lecture Notes](#theory_of_computation_computational_complexity_general_lecture_notes) | [Books](#theory_of_computation_computational_complexity_general_books)
+    - [Communication Complexity](#theory_of_computation_computational_complexity_communication_complexity)
+      - [Books](#theory_of_computation_computational_complexity_communication_complexity_books)
+    - [Circuit Complexity](#theory_of_computation_computational_complexity_circuit_complexity)
+      - [Books](#theory_of_computation_computational_complexity_circuit_complexity_books) 
 - [Logic and Foundational Mathematics](#logic-and-foundational-mathematics)
   - [Computability Theory](#logic_and_foundational_mathematics_computability_theory)
     - [Books](#logic_and_foundational_mathematics_computability_theory_books)
@@ -53,6 +54,7 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 
 
 
+
 ## Broad Intros<a name="broad_intros"></a>
 ### Books<a name="broad_intros_books"></a>
 - [Moore & Mertens. The Nature of Computation](http://nature-of-computation.org/) - It spans complexity of mazes and games; optimization in theory and practice; randomized algorithms, interactive proofs, and pseudorandomness; Markov chains and phase transitions; and of quantum computing. It provides accessible explanations
@@ -67,27 +69,6 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 - [O'Donnell. A Theorist's Toolkit](https://www.cs.cmu.edu/~odonnell/toolkit13/) - It covers a large number of the math/CS topics that you need to know for reading and doing research in Computer Science Theory.
 - [Arora. Thinking Like a Theorist](https://www.cs.princeton.edu/courses/archive/fall07/cos597D/Site/lectopics.html) - It covers a large number of the math/CS topics that you need to know for reading and doing research in Computer Science Theory.
 
-## Automata, Computability, & Complexity<a name="introductory_theoretical_computer_science_automata_computability_complexity"></a>
-
-### Lecture Notes<a name="introductory_theoretical_computer_science_automata_computability_complexity_lecture_notes"></a>
-- [Watrous. Introduction to The Theory of Computing](https://cs.uwaterloo.ca/~watrous/ToC-notes/) - undergrad introduction to theory of computation
-
-### Lecture Videos Playlists<a name="introductory_theoretical_computer_science_automata_computability_complexity_lecture_videos_playlists"></a>
-- [Yanofsky. Theoretical Computer Science](https://www.youtube.com/playlist?list=PLCqUsBXxq16yBaN_hpo7dY2l9N-ZLtI-X) - undergrad introduction to theory of computation
-- [Anil Ada. Great Ideas in Theoretical Computer Science. CMU](https://www.youtube.com/playlist?list=PLKzLTB8HeSUIuln-o1mbXfTr8HmIhiGEg) - A series of lectures on selected notable topics in theoretical computer science.
-- [O'Donnell. Great Ideas in Theoretical Computer Science. CMU](https://www.youtube.com/playlist?list=PLm3J0oaFux3aafQm568blS9blxtA_EWQv) - A series of lectures on selected notable topics in theoretical computer science.
-
-### MOOC<a name="introductory_theoretical_computer_science_automata_computability_complexity_mooc"></a>
-- [Intro to Theoretical Computer Science](https://www.udacity.com/course/intro-to-theoretical-computer-science--cs313) - It teaches basic concepts in theoretical computer science, such as NP-completeness, and what they imply for solving tough algorithmic problems.
-- [Computability, Complexity & Algorithms. Georgia Institute of Technology](https://www.udacity.com/course/computability-complexity-algorithms--ud061) - It focuses on the big fundamental questions of computing, and how understanding the power and limitations of algorithms helps us develop the tools to make real-world computers smarter, faster and safer. 
-
-### Books<a name="introductory_theoretical_computer_science_automata_computability_complexity_books"></a>
-- [Sipser. Introduciton to Theory of Computation](https://www.cengage.com/c/introduction-to-the-theory-of-computation-3e-sipser/9781133187790/) - A standard text for introducing theory of computation for undergrads.
-- [Hopcroft, Motwani & Ullman. Introduction to Automata Theory, Languages, and Computation](https://www.pearson.com/us/higher-education/program/Hopcroft-Introduction-to-Automata-Theory-Languages-and-Computation-3rd-Edition/PGM64331.html) - Introductory undergrad textbook for automata, languages and theory of computation topics.
-- [Barak. Introduction to TCS](https://introtcs.org/public/index.html) - A modern, brief, and accessible text which introduces theoretical computer science for undergrads. It includes topics not usually included in standard undergrad text-books.
-
-### Puzzles and Problem Sets<a name="introductory_theoretical_computer_science_automata_computability_complexity_puzzles_and_problem_sets"></a>
-- [Zhu & Ko. Problem Solving in Automata, Languages, and Complexity](https://onlinelibrary.wiley.com/doi/book/10.1002/0471224642) - A problem-set text for automata, languages, and complexity.
 
 
 ## Handbooks
@@ -98,27 +79,56 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 
 
 
-## Computational Complexity
 
-### General<a name="computational_complexity_general"></a>
-#### Lecture Videos Playlists<a name="computational_complexity_general_lecture_videos_playlists"></a>
+
+
+
+## Theory of Computation<a name="theory_of_computation"></a>
+
+### Introductory<a name="theory_of_computation_introductory"></a>
+
+#### Lecture Notes<a name="theory_of_computation_introductory_lecture_notes"></a>
+- [Watrous. Introduction to The Theory of Computing](https://cs.uwaterloo.ca/~watrous/ToC-notes/) - undergrad introduction to theory of computation
+
+#### Lecture Videos Playlists<a name="theory_of_computation_introductory_lecture_videos_playlists"></a>
+- [Yanofsky. Theoretical Computer Science](https://www.youtube.com/playlist?list=PLCqUsBXxq16yBaN_hpo7dY2l9N-ZLtI-X) - undergrad introduction to theory of computation
+- [Anil Ada. Great Ideas in Theoretical Computer Science. CMU](https://www.youtube.com/playlist?list=PLKzLTB8HeSUIuln-o1mbXfTr8HmIhiGEg) - A series of lectures on selected notable topics in theoretical computer science.
+- [O'Donnell. Great Ideas in Theoretical Computer Science. CMU](https://www.youtube.com/playlist?list=PLm3J0oaFux3aafQm568blS9blxtA_EWQv) - A series of lectures on selected notable topics in theoretical computer science.
+
+#### MOOC<a name="theory_of_computation_introductory_mooc"></a>
+- [Intro to Theoretical Computer Science](https://www.udacity.com/course/intro-to-theoretical-computer-science--cs313) - It teaches basic concepts in theoretical computer science, such as NP-completeness, and what they imply for solving tough algorithmic problems.
+- [Computability, Complexity & Algorithms. Georgia Institute of Technology](https://www.udacity.com/course/computability-complexity-algorithms--ud061) - It focuses on the big fundamental questions of computing, and how understanding the power and limitations of algorithms helps us develop the tools to make real-world computers smarter, faster and safer. 
+
+#### Books<a name="theory_of_computation_introductory_books"></a>
+- [Sipser. Introduciton to Theory of Computation](https://www.cengage.com/c/introduction-to-the-theory-of-computation-3e-sipser/9781133187790/) - A standard text for introducing theory of computation for undergrads.
+- [Hopcroft, Motwani & Ullman. Introduction to Automata Theory, Languages, and Computation](https://www.pearson.com/us/higher-education/program/Hopcroft-Introduction-to-Automata-Theory-Languages-and-Computation-3rd-Edition/PGM64331.html) - Introductory undergrad textbook for automata, languages and theory of computation topics.
+- [Barak. Introduction to TCS](https://introtcs.org/public/index.html) - A modern, brief, and accessible text which introduces theoretical computer science for undergrads. It includes topics not usually included in standard undergrad text-books.
+
+#### Puzzles and Problem Sets<a name="theory_of_computation_introductory_puzzles_and_problem_sets"></a>
+- [Zhu & Ko. Problem Solving in Automata, Languages, and Complexity](https://onlinelibrary.wiley.com/doi/book/10.1002/0471224642) - A problem-set text for automata, languages, and complexity.
+
+
+## Computational Complexity<a name="theory_of_computation_computational_complexity">
+
+### Introductory<a name="theory_of_computation_computational_complexity_introductory"></a>
+#### Lecture Videos Playlists<a name="theory_of_computation_computational_complexity_introductory_lecture_videos_playlists"></a>
 - [O'Donnell. Undergrad Complexity Theory. Fall 2019 (15-455)](https://www.youtube.com/playlist?list=PLm3J0oaFux3YL5vLXpzOyJiLtqLp6dCW2) - Undergraduate course on computational complexity theory; It follows the same spirit of Sipser's part III.
 - [O'Donnell. Graduate Complexity Theory](https://www.youtube.com/playlist?list=PLm3J0oaFux3b8Gg1DdaJOzYNsaXYLAOKH) - It covers most of what is believed to be known to get started in complexity theory research.
-#### Lecture Notes<a name="computational_complexity_general_lecture_notes"></a>
+#### Lecture Notes<a name="theory_of_computation_computational_complexity_introductory_lecture_notes"></a>
 - [Rudich & Wigderson. Computational Complexity Theory](http://www.ams.org/books/pcms/010/) - Three weeks of lectures from the IAS/Park City Mathematics Institute Summer School on computational complexity. Topics include reductions, lower-bounds, average-case complexity, randomness, interactive proof systems, probabilistically checkable proofs, quantum computing, and proof complexity.
-#### Books<a name="computational_complexity_general_books"></a>
+#### Books<a name="theory_of_computation_computational_complexity_introductory_books"></a>
 - [Arora & Barak. Computational Complexity: A Modern Approach](https://theory.cs.princeton.edu/complexity/book.pdf) - A golden standard textbook, Surveying computational complexity theory for graduate students and researchers.
 - [Goldreich. Computational Complexity: A Conceptual Perspective](http://www.wisdom.weizmann.ac.il/~oded/cc-book.html) - A grad introduction to computation complexity theory, emphasizing the idea behind concepts of complexity theory.
 - [Goldreich. P, NP, and NP-Completeness: The Basics of Computational Complexity](http://www.wisdom.weizmann.ac.il/~oded/bc-book.html) - A very gentle introduction to some fundamental ideas of computational complexity like NP-completeness and P vs NP.
 - [Ogihara & Hemaspaandra. The Complexity Theory Companion](https://www.springer.com/gp/book/9783540674191) - An accessible, algorithmically oriented, research-centered, up-to-date guide to some of the most interesting techniques of complexity theory.
 - [Papadimitriou. Computational Complexity](https://www.pearson.com/us/higher-education/program/Papadimitriou-Computational-Complexity/PGM94583.html) - Body of knowledge for studying the performance and limitations of computer algorithms. Among topics covered are: reductions and NP-completeness, cryptography and protocols, randomized algorithms, and approximability of optimization problems, circuit complexity, the "structural" aspects of the P=NP question, parallel computation, and the polynomial hierarchy.
 
-### Communication Complexity<a name="computational_complexity_communication_complexity"></a>
-#### Books<a name="computational_complexity_communication_complexity_books"></a>
+### Communication Complexity<a name="theory_of_computation_computational_complexity_communication_complexity"></a>
+#### Books<a name="theory_of_computation_computational_complexity_communication_complexity_books"></a>
 - [Rao & Yehudayoff. Communication Complexity and Applications](https://www.cambridge.org/core/books/communication-complexity/5F44993E3B2597174B71D3F21E748443) - An excellent and very readable introductory textbook to the field of communication complexity.
 
-### Circuit Complexity<a name="computational_complexity_circuit_complexity"></a>
-#### Books<a name="computational_complexity_circuit_complexity_books"></a>
+### Circuit Complexity<a name="theory_of_computation_computational_complexity_circuit_complexity"></a>
+#### Books<a name="theory_of_computation_computational_complexity_circuit_complexity_books"></a>
 - [Jukna. Boolean Function Complexity: Advances and Frontiers](https://www.springer.com/gp/book/9783642245077) - A modern textbook surveying circuit complexity.
 - [Clote & Kranakis. Boolean Functions and Computation Models](https://www.springer.com/gp/book/9783540594369) - An introduction to circuit complexity, boolean functions, and computation models.
 
