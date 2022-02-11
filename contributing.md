@@ -1,1 +1,1 @@
-- use big_list_builder module to generate both table of contents and references list, through one structured json file
+- The repo is devoted to theoretical computer science, which is distinguished by its mathematical rigour and technique. More practically-oriented resources are ought to be on other repositories.

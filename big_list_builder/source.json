@@ -71,6 +71,15 @@
                     "[Jukna. Boolean Function Complexity: Advances and Frontiers](https://www.springer.com/gp/book/9783642245077) - A modern textbook surveying circuit complexity.",
                     "[Clote & Kranakis. Boolean Functions and Computation Models](https://www.springer.com/gp/book/9783540594369) - An introduction to circuit complexity, boolean functions, and computation models."
                 ]
+            },
+            "Quantum Complexity": {
+                "Lecture Videos Playlists": [
+                    "[Uni Paderborn. Quantum Complexity Theory. Winter 2020](https://www.youtube.com/playlist?list=PLZGjbQcY0aI7Yqwbwp-lsf1tTPyvkQG6h) - CS Masters level lectures on topics including Boson sampling, quantum interactive proofs, and quantum merlin arthur."
+                ],
+
+                "Lecture Notes": [
+                    "[Henry Yuen. The Complexity of Entanglement. Fall 2020](https://www.henryyuen.net/fall2020/complexity_of_entanglement_notes.pdf) - Focuses on cutting edge topics in quantum information that relate to Complexity of Entanglement. - see this [class](https://www.henryyuen.net/classes/fall2020/) also"
+                ]
             }
         },
         "Computability Theory": {
@@ -100,12 +109,18 @@
     },
 
     "Algorithms": {
-        "Lecture Video Playlists": [
+        "Lecture Videos Playlists": [
             "[Demaine. Algorithmic Lower Bounds: Fun with Hardness Proofs](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-890-algorithmic-lower-bounds-fun-with-hardness-proofs-fall-2014/) - A class taking a practical approach to proving problems can't be solved efficient."
         ],
         "Books": [
             "[Demaine. Games, Puzzles, and Computation](https://www.routledge.com/Games-Puzzles-and-Computation/Hearn-Demaine/p/book/9781568813226) - It shows that games and puzzles can serve as powerful models of computation, Offering a new way of thinking about computation.",
             "[Knuth. The Art of Computer Programming](https://en.wikipedia.org/wiki/The_Art_of_Computer_Programming) - A legendary series by Donald Knuth on design and analysis of algorithms."
+        ]
+    },
+
+    "Information/Coding Theory": {
+        "Lecture Notes": [
+            " [Madhu Sudan. Essential Coding Theory](http://people.seas.harvard.edu/~madhusudan/courses/Spring2020/) - Some elements of Algorithmic tasks of encoding and decoding and its connections with error-correction; These codes are now tools in the design and analysis of algorithms, and also in many aspects of computational complexity. The focus is on constructions of algorithmic and asymptotic importance. Requires only basic mathematical maturity"
         ]
     },
 
@@ -147,7 +162,7 @@
 
     "Math/Logic Preliminaries": {
         "General": {
-            "Lecture Video Playlist": [
+            "Lecture Videos Playlist": [
                 "[Lehman, Leighton & Meyer. Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/lecture-slides/) - An introduction to discrete mathematics oriented toward computer science and engineering. - [Companion Textbook](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/readings/MIT6_042JS15_textbook.pdf)"
             ],
             "Books": [

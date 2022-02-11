@@ -1,6 +1,6 @@
 ![banner](./TCS-banner.png)
 # Awesome Theoretical Computer Science [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
-The interdisciplinary of Mathematics and Computer Science; It is distinguished by its emphasis on mathemtical technique and rigour. 
+The interdisciplinary of Mathematics and Computer Science; It is distinguished by its emphasis on mathemtical technique and rigour.
 
 ---
 
@@ -18,6 +18,8 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
       - [Books](#theory_of_computation_computational_complexity_communication_complexity_books)
     - [Circuit Complexity](#theory_of_computation_computational_complexity_circuit_complexity)
       - [Books](#theory_of_computation_computational_complexity_circuit_complexity_books)
+    - [Quantum Complexity](#theory_of_computation_computational_complexity_quantum_complexity)
+      - [Lecture Videos Playlists](#theory_of_computation_computational_complexity_quantum_complexity_lecture_videos_playlists) | [Lecture Notes](#theory_of_computation_computational_complexity_quantum_complexity_lecture_notes)
   - [Computability Theory](#theory_of_computation_computability_theory)
     - [Books](#theory_of_computation_computability_theory_books)
       - [Introductory](#theory_of_computation_computability_theory_books_introductory) | [Advanced](#theory_of_computation_computability_theory_books_advanced) | [Monograph](#theory_of_computation_computability_theory_books_monograph)
@@ -25,7 +27,9 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
   - [Computational Complexity](#logic_computational_complexity)
     - [Books](#logic_computational_complexity_books)
 - [Algorithms](#algorithms)
-  - [Lecture Video Playlists](#algorithms_lecture_video_playlists) | [Books](#algorithms_books)
+  - [Lecture Videos Playlists](#algorithms_lecture_videos_playlists) | [Books](#algorithms_books)
+- [Information/Coding Theory](#informationcoding_theory)
+  - [Lecture Notes](#informationcoding_theory_lecture_notes)
 - [Randomization](#randomization)
 - [Cryptography](#cryptography)
 - [Physics](#physics)
@@ -34,7 +38,7 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
   - [Lecture Notes](#philosophy_lecture_notes) | [Books](#philosophy_books) | [Papers](#philosophy_papers)
 - [Math/Logic Preliminaries](#mathlogic_preliminaries)
   - [General](#mathlogic_preliminaries_general)
-    - [Lecture Video Playlist](#mathlogic_preliminaries_general_lecture_video_playlist) | [Books](#mathlogic_preliminaries_general_books) | [Lecture Notes](#mathlogic_preliminaries_general_lecture_notes)
+    - [Lecture Videos Playlist](#mathlogic_preliminaries_general_lecture_videos_playlist) | [Books](#mathlogic_preliminaries_general_books) | [Lecture Notes](#mathlogic_preliminaries_general_lecture_notes)
   - [Discrete Mathematics](#mathlogic_preliminaries_discrete_mathematics)
     - [Lecture Notes](#mathlogic_preliminaries_discrete_mathematics_lecture_notes) | [Books](#mathlogic_preliminaries_discrete_mathematics_books) | [MOOC](#mathlogic_preliminaries_discrete_mathematics_mooc)
   - [Transition To Pure Rigour Math](#mathlogic_preliminaries_transition_to_pure_rigour_math)
@@ -105,6 +109,11 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 #### Books<a name=theory_of_computation_computational_complexity_circuit_complexity_books></a>
 - [Jukna. Boolean Function Complexity: Advances and Frontiers](https://www.springer.com/gp/book/9783642245077) - A modern textbook surveying circuit complexity.
 - [Clote & Kranakis. Boolean Functions and Computation Models](https://www.springer.com/gp/book/9783540594369) - An introduction to circuit complexity, boolean functions, and computation models.
+### Quantum Complexity<a name=theory_of_computation_computational_complexity_quantum_complexity></a>
+#### Lecture Videos Playlists<a name=theory_of_computation_computational_complexity_quantum_complexity_lecture_videos_playlists></a>
+- [Uni Paderborn. Quantum Complexity Theory. Winter 2020](https://www.youtube.com/playlist?list=PLZGjbQcY0aI7Yqwbwp-lsf1tTPyvkQG6h) - CS Masters level lectures on topics including Boson sampling, quantum interactive proofs, and quantum merlin arthur.
+#### Lecture Notes<a name=theory_of_computation_computational_complexity_quantum_complexity_lecture_notes></a>
+- [Henry Yuen. The Complexity of Entanglement. Fall 2020](https://www.henryyuen.net/fall2020/complexity_of_entanglement_notes.pdf) - Focuses on cutting edge topics in quantum information that relate to Complexity of Entanglement. - see this [class](https://www.henryyuen.net/classes/fall2020/) also
 ## Computability Theory<a name=theory_of_computation_computability_theory></a>
 ### Books<a name=theory_of_computation_computability_theory_books></a>
 #### Introductory<a name=theory_of_computation_computability_theory_books_introductory></a>
@@ -121,11 +130,14 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 ### Books<a name=logic_computational_complexity_books></a>
 - [Pudlák. Logical Foundations of Mathematics and Computational Complexity: A Gentle Introduction](https://www.springer.com/gp/book/9783319001180) - Presents a wide range of results in logic and computational complexity.
 # Algorithms<a name=algorithms></a>
-## Lecture Video Playlists<a name=algorithms_lecture_video_playlists></a>
+## Lecture Videos Playlists<a name=algorithms_lecture_videos_playlists></a>
 - [Demaine. Algorithmic Lower Bounds: Fun with Hardness Proofs](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-890-algorithmic-lower-bounds-fun-with-hardness-proofs-fall-2014/) - A class taking a practical approach to proving problems can't be solved efficient.
 ## Books<a name=algorithms_books></a>
 - [Demaine. Games, Puzzles, and Computation](https://www.routledge.com/Games-Puzzles-and-Computation/Hearn-Demaine/p/book/9781568813226) - It shows that games and puzzles can serve as powerful models of computation, Offering a new way of thinking about computation.
 - [Knuth. The Art of Computer Programming](https://en.wikipedia.org/wiki/The_Art_of_Computer_Programming) - A legendary series by Donald Knuth on design and analysis of algorithms.
+# Information/Coding Theory<a name=informationcoding_theory></a>
+## Lecture Notes<a name=informationcoding_theory_lecture_notes></a>
+-  [Madhu Sudan. Essential Coding Theory](http://people.seas.harvard.edu/~madhusudan/courses/Spring2020/) - Some elements of Algorithmic tasks of encoding and decoding and its connections with error-correction; These codes are now tools in the design and analysis of algorithms, and also in many aspects of computational complexity. The focus is on constructions of algorithmic and asymptotic importance. Requires only basic mathematical maturity
 # Randomization<a name=randomization></a>
 - [Goldreich. Randomized Methods in Computation](http://www.wisdom.weizmann.ac.il/~oded/rnd.html) - The aim of the current course is to make the students familiar with some of randomized methods.
 # Cryptography<a name=cryptography></a>
@@ -151,7 +163,7 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 - [Philip Davis. Toward a Philosophy of Computation](https://www.jstor.org/stable/40247755) - Philosophical implication of mathematization and computerization of the world.
 # Math/Logic Preliminaries<a name=mathlogic_preliminaries></a>
 ## General<a name=mathlogic_preliminaries_general></a>
-### Lecture Video Playlist<a name=mathlogic_preliminaries_general_lecture_video_playlist></a>
+### Lecture Videos Playlist<a name=mathlogic_preliminaries_general_lecture_videos_playlist></a>
 - [Lehman, Leighton & Meyer. Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/lecture-slides/) - An introduction to discrete mathematics oriented toward computer science and engineering. - [Companion Textbook](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/readings/MIT6_042JS15_textbook.pdf)
 ### Books<a name=mathlogic_preliminaries_general_books></a>
 - [Knuth, Graham & Patashnik. Concrete Mathematics: A Foundation for Computer Science](https://www.pearson.com/us/higher-education/product/Graham-Concrete-Mathematics-A-Foundation-for-Computer-Science-2nd-Edition/9780134389981.html) - An expansion of the Mathematical Preliminaries section in Knuth's classic Art of Computer Programming, but the style of presentation is more leisurely, and individual topics are covered more deeply.
