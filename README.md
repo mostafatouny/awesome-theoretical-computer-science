@@ -44,15 +44,15 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
   - [Transition To Pure Rigour Math](#mathlogic_preliminaries_transition_to_pure_rigour_math)
 - [Surveys](#surveys)
 - [Live Content](#live_content)
-  - [Blogs Aggregators](#live_content_blogs_aggregators)
   - [Conferences, Workshops, Events, and Talks](#live_content_conferences_workshops_events_and_talks)
     - [Aggregators](#live_content_conferences_workshops_events_and_talks_aggregators) | [Live](#live_content_conferences_workshops_events_and_talks_live) | [Archived](#live_content_conferences_workshops_events_and_talks_archived)
+  - [Magazines, News, and Monographs](#live_content_magazines_news_and_monographs)
+  - [Blogs Aggregators](#live_content_blogs_aggregators)
   - [Jobs](#live_content_jobs)
     - [Aggregator](#live_content_jobs_aggregator) | [Masters](#live_content_jobs_masters)
-  - [Journals](#live_content_journals)
   - [Online Communities](#live_content_online_communities)
 - [Other Resources](#other_resources)
-  - [Blog Posts and Essays](#other_resources_blog_posts_and_essays) | [Magazines/Journals/News](#other_resources_magazinesjournalsnews) | [Popular Science](#other_resources_popular_science) | [Cheat Sheets](#other_resources_cheat_sheets) | [Network Groups](#other_resources_network_groups)
+  - [Blog Posts and Essays](#other_resources_blog_posts_and_essays) | [Special Magazines and Workshops](#other_resources_special_magazines_and_workshops) | [Popular Science Books](#other_resources_popular_science_books) | [Cheat Sheets](#other_resources_cheat_sheets) | [Network Groups](#other_resources_network_groups)
 - [Related Awesome Lists](#related_awesome_lists)
 
 ---
@@ -200,8 +200,6 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 - [Harrow & Ashley Montanaro. Quantum Computational Supremacy](https://www.nature.com/articles/nature23458) - A remarkable paper on quantum supremacy.
 - [Cook. An Overview of Computational Complexity](https://dl.acm.org/doi/abs/10.1145/1283920.1283938?casa_token=I0zkxGUh7zoAAAAA:qUozzyaWcba56dq5q6CXVo2JvGVOzcXY2J8HKoI-OZxEbxhVXlQlWF0pg5ttfs8X8pznp5j7Bbrktg) - A historical overview of computational complexity.
 # Live Content<a name=live_content></a>
-## Blogs Aggregators<a name=live_content_blogs_aggregators></a>
-- [Theory of Computing Blog Aggregator](https://cstheory-feed.org/) - A blog Aggregator for all blogs related to TCS.
 ## Conferences, Workshops, Events, and Talks<a name=live_content_conferences_workshops_events_and_talks></a>
 ### Aggregators<a name=live_content_conferences_workshops_events_and_talks_aggregators></a>
 - [CS Theory Events Aggregator](https://cstheory-events.org/) - An aggregator for CS theory workshops and schools.
@@ -220,15 +218,18 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 - Lex Podcast - Informal discussions podcast. - [Donald Knuth 1](https://www.youtube.com/watch?v=2BdBfsXbST8) | [Donald Knuth 2](https://www.youtube.com/watch?v=EE1R8FYUJm0) | [Silvio Micali](https://www.youtube.com/watch?v=zNdhgOk4-fE) | [Richard Karp](https://www.youtube.com/watch?v=KllCrlfLuzs) | [Scott Aaronson 1](https://www.youtube.com/watch?v=uX5t8EivCaM) | [Scott Aaronson 2](https://www.youtube.com/watch?v=nAMjv0NAESM)
 - [Computational Complexity](https://www.youtube.com/channel/UCzBw287tly0c2lE6a-9XymA) - Collection of workshops.
 - [Chi-Ning Chou. What is Computation? From Turing Machines to Black Holes and Neurons](https://www.youtube.com/playlist?list=PLUxf7X3NCfHNqOFlnnX9nSTENSzZoOLVp) (see also [main website](https://cnchou.github.io/mini-course/)) - Accessible mini-course that introduces high-level stories of TCS and its intersections with other fields.
+## Magazines, News, and Monographs<a name=live_content_magazines_news_and_monographs></a>
+- [EATCS Bulletin](https://eatcs.org/index.php/on-line-issues) - Surveys, tutorials, conferences reports, events, open problems and solutions, PhD Theses, and entertaining contributions
+- [SIGACT News](https://dl.acm.org/loi/sigact) - ACM's official theoretical computer science news feed.
+- [Foundations and Trends in Theoretical Computer Science](https://www.nowpublishers.com/TCS) - It provides monographs written by leaders that give tutorial coverage of subjects, research retrospectives as well as survey papers that offer state-of-the-art reviews fall within the scope of the journal.
+## Blogs Aggregators<a name=live_content_blogs_aggregators></a>
+- [Theory of Computing Blog Aggregator](https://cstheory-feed.org/) - A blog Aggregator for all blogs related to TCS.
 ## Jobs<a name=live_content_jobs></a>
 ### Aggregator<a name=live_content_jobs_aggregator></a>
 - [CS Theory Jobs](https://cstheory-jobs.org) - TCS Jobs announcements.
 ### Masters<a name=live_content_jobs_masters></a>
 - [Rubinstein & Weinberg. Research Masters in TCS](https://www.cs.princeton.edu/~smattw/masters/masters.html) - A list of master programs in TCS.
 - [Barak. Research Masters in TCS](https://docs.google.com/spreadsheets/d/1znVmERIVm2Fz2cbYjXE97VH9eIx7UdaLh5n3FBYb8o8/edit?usp=sharing) - A list of master programs in TCS.
-## Journals<a name=live_content_journals></a>
-- [Foundations and Trends in Theoretical Computer Science](https://www.nowpublishers.com/TCS) - It provides monographs written by leaders that give tutorial coverage of subjects, research retrospectives as well as survey papers that offer state-of-the-art reviews fall within the scope of the journal.
-- [SIGACT News](https://dl.acm.org/loi/sigact) - ACM's official theoretical computer science news feed.
 ## Online Communities<a name=live_content_online_communities></a>
 - [TCS Stack Exchange](https://cstheory.stackexchange.com/) - Stack Exchange (QnA) of theoretical computer science.
 - [TCS Subreddit](https://www.reddit.com/r/theoreticalcs)- Theoretical computer science's subreddit.
@@ -246,9 +247,10 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 - [Hamming. You and Your Research](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html) - Why do so few scientists make significant contributions and so many are forgotten in the long run? The talk is about what Hamming has learned.
 - [Weinberg. Four Golden Lessons](https://www.nature.com/articles/426389a) - Lessons for students and researchers given by Steven Weinberg.
 - [Terry. Career Advice](https://terrytao.wordpress.com/career-advice/) - A collection of various pieces of advice on academic career issues in mathematics, roughly arranged by the stage of career at which the advice is most pertinent.
-## Magazines/Journals/News<a name=other_resources_magazinesjournalsnews></a>
-- [The Legacy of Alan Turing: Pushing the Boundaries of Computation (Volume 18, Issue 3, Spring 2012). ACM, XRDS](https://dl.acm.org/toc/xrds/2012/18/3) - ACM's students magazine special issue for theory of computation
-## Popular Science<a name=other_resources_popular_science></a>
+## Special Magazines and Workshops<a name=other_resources_special_magazines_and_workshops></a>
+- [The Legacy of Alan Turing: Pushing the Boundaries of Computation (Volume 18, Issue 3, Spring 2012). ACM, XRDS](https://dl.acm.org/toc/xrds/2012/18/3) - ACM's students magazine special issue for theory of computation.
+- [TCS Visioning Workshop 2020 Report](https://cra.org/ccc/wp-content/uploads/sites/2/2021/07/TCS-Visioning-Workshop-Report-2020.pdf) - Recent accomplishments and new challenges in the field of TCS.
+## Popular Science Books<a name=other_resources_popular_science_books></a>
 - [Fortnow. The Golden Ticket: P, NP, and the Search for the Impossible](https://goldenticket.fortnow.com) - A nontechnical introduction to P-NP, its rich history, and its algorithmic implications for everything we do with computers and beyond.
 - [Aaronson. Quantum Computing Since Democritus](https://assets.cambridge.org/97805211/99568/frontmatter/9780521199568_frontmatter.pdf) - It covers an amazing array of topics. Beginning in antiquity with Democritus, it progresses through logic and set theory,computability and complexity theory, quantum computing, cryptography, the information content of quantum states, and theinterpretation of quantum mechanics.
 - [Deutsch. The Fabric of Reality: The Science of Parallel Universes and Its Implications](http://www.daviddeutsch.org.uk/books/the-fabric-of-reality/) - The Fabric of Reality presents a startlingly integrated, rational and optimistic world view – the result of taking seriously the deepest ideas of modern science and the philosophy of science.
