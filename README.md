@@ -27,13 +27,13 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
   - [Computational Complexity](#logic_computational_complexity)
     - [Books](#logic_computational_complexity_books)
 - [Algorithms](#algorithms)
-  - [Lecture Videos Playlists](#algorithms_lecture_videos_playlists) | [Books](#algorithms_books)
+  - [Lecture Videos Playlists](#algorithms_lecture_videos_playlists) | [Lecture Notes](#algorithms_lecture_notes) | [Books](#algorithms_books)
 - [Information/Coding Theory](#informationcoding_theory)
   - [Lecture Notes](#informationcoding_theory_lecture_notes)
 - [Randomization](#randomization)
 - [Cryptography](#cryptography)
 - [Physics](#physics)
-  - [Books](#physics_books) | [Monographs](#physics_monographs)
+  - [Lecture Notes](#physics_lecture_notes) | [Books](#physics_books) | [Monographs](#physics_monographs)
 - [Philosophy](#philosophy)
   - [Lecture Notes](#philosophy_lecture_notes) | [Books](#philosophy_books) | [Papers](#philosophy_papers)
 - [Math/Logic Preliminaries](#mathlogic_preliminaries)
@@ -67,6 +67,7 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 - [Zhou. A Theorist's Toolkit](https://yuanz.web.illinois.edu/teaching/B609fa16/) - It covers a large number of the math/CS topics that you need to know for reading and doing research in Computer Science Theory.
 - [O'Donnell. A Theorist's Toolkit](https://www.cs.cmu.edu/~odonnell/toolkit13/) - It covers a large number of the math/CS topics that you need to know for reading and doing research in Computer Science Theory.
 - [Arora. Thinking Like a Theorist](https://www.cs.princeton.edu/courses/archive/fall07/cos597D/Site/lectopics.html) - It covers a large number of the math/CS topics that you need to know for reading and doing research in Computer Science Theory.
+- [Arora. A Theorist's Toolkit](https://www.cs.princeton.edu/courses/archive/fall02/cs597D/)
 # Handbooks<a name=handbooks></a>
 - [Atallah & Blanton. Algorithms and Theory of Computation Handbook: General Concepts and Techniques](https://www.routledge.com/Algorithms-and-Theory-of-Computation-Handbook-Volume-1-General-Concepts/Atallah-Blanton/p/book/9781138113930) - A complete comprehensive encyclopediac handbook which surveys all related areas to theoretical computer science.
 - [Atallah & Blanton. Algorithms and Theory of Computation Handbook: Special Topics and Techniques](https://www.routledge.com/Algorithms-and-Theory-of-Computation-Handbook-Volume-2-Special-Topics/Atallah-Blanton/p/book/9780367384845) - A complete comprehensive encyclopediac handbook which surveys all related areas to theoretical computer science.
@@ -132,6 +133,8 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 # Algorithms<a name=algorithms></a>
 ## Lecture Videos Playlists<a name=algorithms_lecture_videos_playlists></a>
 - [Demaine. Algorithmic Lower Bounds: Fun with Hardness Proofs](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-890-algorithmic-lower-bounds-fun-with-hardness-proofs-fall-2014/) - A class taking a practical approach to proving problems can't be solved efficient.
+## Lecture Notes<a name=algorithms_lecture_notes></a>
+- [Arora. Advanced Algorithm Design](https://www.cs.princeton.edu/courses/archive/fall15/cos521/) - Notably uses ideas such as randomness, approximation, high dimensional geometry. Faces uncertainty, approaches to handle big data, handling intractability, heuristic approaches, ..etc.
 ## Books<a name=algorithms_books></a>
 - [Demaine. Games, Puzzles, and Computation](https://www.routledge.com/Games-Puzzles-and-Computation/Hearn-Demaine/p/book/9781568813226) - It shows that games and puzzles can serve as powerful models of computation, Offering a new way of thinking about computation.
 - [Knuth. The Art of Computer Programming](https://en.wikipedia.org/wiki/The_Art_of_Computer_Programming) - A legendary series by Donald Knuth on design and analysis of algorithms.
@@ -144,6 +147,8 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 - [Lindell. Tutorials on the Foundations of Cryptography](https://link.springer.com/book/10.1007/978-3-319-57048-8) - Advanced tutorials appropriate for self-study by experienced researchers,
 - [Goldreich. Modern Cryptography, Probabilistic Proofs and Pseudorandomness](https://www.wisdom.weizmann.ac.il/~oded/book1.html) - An introduction to the interwoven domains of cryptography, proofs and randomness.
 # Physics<a name=physics></a>
+## Lecture Notes<a name=physics_lecture_notes></a>
+- [Arora. The Computational Universe](https://www.cs.princeton.edu/courses/archive/spring11/cos116/lectures.php) - Takes us on a broad sweep of scientific knowledge and related technologies: propositional logic of the ancient Greeks (microprocessors); quantum mechanics (silicon chips); network and system phenomena (internet and search engines); computational intractability (secure encryption); and efficient algorithms (genomic sequencing).
 ## Books<a name=physics_books></a>
 - [Feynman. Feynman And Computation: Exploring The Limits Of Computers](https://www.taylorfrancis.com/books/feynman-computation-anthony-hey/e/10.1201/9780429500459)
 - Feynman’s Course on Computation - See also Preskill's update 40 years later [here](https://arxiv.org/abs/2106.10522)
