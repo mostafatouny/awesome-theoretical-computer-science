@@ -72,6 +72,11 @@
                 "Lecture Notes": [
                     "[Henry Yuen. The Complexity of Entanglement. Fall 2020](https://www.henryyuen.net/fall2020/complexity_of_entanglement_notes.pdf) - Focuses on cutting edge topics in quantum information that relate to Complexity of Entanglement. - see this [class](https://www.henryyuen.net/classes/fall2020/) also"
                 ]
+            },
+            "Proof Complexity": {
+                "Lecture Notes": [
+                    "[Robert Robere. Proof Complexity: Algorithms and Lower Bounds](https://www.cs.mcgill.ca/~robere/comp598/index.html) - An introduction to modern proof complexity, emphasizing its connections with computational complexity and algorithms in optimization."
+                ]
             }
         },
         "Computability Theory": {

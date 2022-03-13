@@ -20,6 +20,8 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
       - [Books](#theory_of_computation_computational_complexity_circuit_complexity_books)
     - [Quantum Complexity](#theory_of_computation_computational_complexity_quantum_complexity)
       - [Lecture Videos Playlists](#theory_of_computation_computational_complexity_quantum_complexity_lecture_videos_playlists) | [Lecture Notes](#theory_of_computation_computational_complexity_quantum_complexity_lecture_notes)
+    - [Proof Complexity](#theory_of_computation_computational_complexity_proof_complexity)
+      - [Lecture Notes](#theory_of_computation_computational_complexity_proof_complexity_lecture_notes)
   - [Computability Theory](#theory_of_computation_computability_theory)
     - [Books](#theory_of_computation_computability_theory_books)
       - [Introductory](#theory_of_computation_computability_theory_books_introductory) | [Advanced](#theory_of_computation_computability_theory_books_advanced) | [Monograph](#theory_of_computation_computability_theory_books_monograph)
@@ -110,6 +112,9 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 - [Uni Paderborn. Quantum Complexity Theory. Winter 2020](https://www.youtube.com/playlist?list=PLZGjbQcY0aI7Yqwbwp-lsf1tTPyvkQG6h) - CS Masters level lectures on topics including Boson sampling, quantum interactive proofs, and quantum merlin arthur.
 #### Lecture Notes<a name=theory_of_computation_computational_complexity_quantum_complexity_lecture_notes></a>
 - [Henry Yuen. The Complexity of Entanglement. Fall 2020](https://www.henryyuen.net/fall2020/complexity_of_entanglement_notes.pdf) - Focuses on cutting edge topics in quantum information that relate to Complexity of Entanglement. - see this [class](https://www.henryyuen.net/classes/fall2020/) also
+### Proof Complexity<a name=theory_of_computation_computational_complexity_proof_complexity></a>
+#### Lecture Notes<a name=theory_of_computation_computational_complexity_proof_complexity_lecture_notes></a>
+- [Robert Robere. Proof Complexity: Algorithms and Lower Bounds](https://www.cs.mcgill.ca/~robere/comp598/index.html) - An introduction to modern proof complexity, emphasizing its connections with computational complexity and algorithms in optimization.
 ## Computability Theory<a name=theory_of_computation_computability_theory></a>
 ### Books<a name=theory_of_computation_computability_theory_books></a>
 #### Introductory<a name=theory_of_computation_computability_theory_books_introductory></a>
