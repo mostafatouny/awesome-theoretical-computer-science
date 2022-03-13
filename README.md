@@ -44,7 +44,7 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
   - [Discrete Mathematics](#mathlogic_preliminaries_discrete_mathematics)
     - [Lecture Notes](#mathlogic_preliminaries_discrete_mathematics_lecture_notes) | [Books](#mathlogic_preliminaries_discrete_mathematics_books) | [MOOC](#mathlogic_preliminaries_discrete_mathematics_mooc)
   - [Transition To Pure Rigour Math](#mathlogic_preliminaries_transition_to_pure_rigour_math)
-- [Surveys](#surveys)
+- [Surveys & Monographs](#surveys__monographs)
 - [Live Content](#live_content)
   - [Conferences, Workshops, Events, and Talks](#live_content_conferences_workshops_events_and_talks)
     - [Aggregators](#live_content_conferences_workshops_events_and_talks_aggregators) | [Live](#live_content_conferences_workshops_events_and_talks_live) | [Archived](#live_content_conferences_workshops_events_and_talks_archived)
@@ -202,9 +202,11 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 - [Introduction to Discrete Mathematics for Computer Science. UC San-Diego](https://www.coursera.org/specializations/discrete-mathematics) - Learn the language of Computer Science. Learn the math that defines computer science, and practice applying it through mathematical proofs and Python code.
 ## Transition To Pure Rigour Math<a name=mathlogic_preliminaries_transition_to_pure_rigour_math></a>
 - It is already curated [here](https://github.com/mostafatouny/awesome-pure-math#transition-to-pure-rigour-math) - Introductory proofs and mathematical maturity.
-# Surveys<a name=surveys></a>
+# Surveys & Monographs<a name=surveys__monographs></a>
 - [Fortnow & Homer. A Short History of Computational Complexity](https://www.researchgate.net/profile/Lance-Fortnow/publication/220530495_A_Short_History_of_Computational_Complexity/links/0deec52bd7ab603fef000000/A-Short-History-of-Computational-Complexity.pdf) - A historical overview of computational complexity.
 - [Goldreich. Providing Sound Foundations for Cryptography: On the Work of Shafi Goldwasser and Silvio Micali](http://www.wisdom.weizmann.ac.il/~oded/sst.html) - It explains the remarkable work of Shafi and Silvio and their works' implications on foundations of cryptography.
+- [Building Bridges I](https://rd.springer.com/book/10.1007/978-3-540-85221-6), [Building Bridges II](https://link.springer.com/book/10.1007/978-3-662-59204-5), [Fete of Combinatorics and Computer Science](https://link.springer.com/book/10.1007/978-3-642-13580-4) - Collected works in celebration of Laszlo Lovasz, Connecting discrete math with computer science.
+- [Entropy, Search, Complexity](https://link.springer.com/book/10.1007/978-3-540-32777-6) - A collection of survey papers in the fields of entropy, search and complexity. It includes also search theory and quantum source coding. Recommended to both researchers and students.
 - [Watrous. Quantum Computational Complexity](https://arxiv.org/abs/0804.3401) - A survey on the intersection of computational complexity and quantum computing.
 - [Harrow & Ashley Montanaro. Quantum Computational Supremacy](https://www.nature.com/articles/nature23458) - A remarkable paper on quantum supremacy.
 - [Cook. An Overview of Computational Complexity](https://dl.acm.org/doi/abs/10.1145/1283920.1283938?casa_token=I0zkxGUh7zoAAAAA:qUozzyaWcba56dq5q6CXVo2JvGVOzcXY2J8HKoI-OZxEbxhVXlQlWF0pg5ttfs8X8pznp5j7Bbrktg) - A historical overview of computational complexity.
