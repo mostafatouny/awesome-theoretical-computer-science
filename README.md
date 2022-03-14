@@ -90,7 +90,7 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 ## Computational Complexity<a name=theory_of_computation_computational_complexity></a>
 ### Introductory<a name=theory_of_computation_computational_complexity_introductory></a>
 #### Lecture Videos Playlists<a name=theory_of_computation_computational_complexity_introductory_lecture_videos_playlists></a>
-- [O'Donnell. Undergrad Complexity Theory. Fall 2019 (15-455)](https://www.youtube.com/playlist?list=PLm3J0oaFux3YL5vLXpzOyJiLtqLp6dCW2) - Undergraduate course on computational complexity theory; It follows the same spirit of Sipser's part III.
+- [O'Donnell. Undergrad Complexity Theory. Fall 2019 (15-455)](https://www.youtube.com/playlist?list=PLm3J0oaFux3YL5vLXpzOyJiLtqLp6dCW2) ([Homework](https://www.cs.cmu.edu/~odonnell/15455-s17/)) - Undergraduate course on computational complexity theory; It follows the same spirit of Sipser's part III.
 - [O'Donnell. Graduate Complexity Theory](https://www.youtube.com/playlist?list=PLm3J0oaFux3b8Gg1DdaJOzYNsaXYLAOKH) - It covers most of what is believed to be known to get started in complexity theory research.
 #### Lecture Notes<a name=theory_of_computation_computational_complexity_introductory_lecture_notes></a>
 - [Rudich & Wigderson. Computational Complexity Theory](http://www.ams.org/books/pcms/010/) - Three weeks of lectures from the IAS/Park City Mathematics Institute Summer School on computational complexity. Topics include reductions, lower-bounds, average-case complexity, randomness, interactive proof systems, probabilistically checkable proofs, quantum computing, and proof complexity.
@@ -260,6 +260,7 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 - [Barak. Advice for The Budding Theorist](https://windowsontheory.org/2015/11/03/advice-for-the-budding-theorist/) - Tips for anyone interested in theoretical computer science.
 - [Barak. Surveys For Students](https://thmatters.wordpress.com/surveys/) - Surveys for high-school, undergraduate, and even researchers.
 - [Barak. Non-technical or Less-technical Writings and Talks](https://www.boazbarak.org/informal/) - Posts oriented more for a less-technically matured audience.
+- [Lipton & Regan](https://rjlipton.wpcomstaging.com/2022/01/26/a-list-of-most-theory-blogs/) - A list of theory blogs for computer science.
 - [Karp. A Personal View of Computer Science at Berkeley](https://www2.eecs.berkeley.edu/bears/CS_Anniversary/karp-talk.html) - Karp addresses: In 1968 computer science at Berkeley was problematic, with two departments working independently to develop programs, and his personal reflections.
 - [Hamming. You and Your Research](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html) - Why do so few scientists make significant contributions and so many are forgotten in the long run? The talk is about what Hamming has learned.
 - [Weinberg. Four Golden Lessons](https://www.nature.com/articles/426389a) - Lessons for students and researchers given by Steven Weinberg.
