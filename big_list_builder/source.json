@@ -39,7 +39,7 @@
         "Computational Complexity": {
             "Introductory": {
                 "Lecture Videos Playlists":[
-                    "[O'Donnell. Undergrad Complexity Theory. Fall 2019 (15-455)](https://www.youtube.com/playlist?list=PLm3J0oaFux3YL5vLXpzOyJiLtqLp6dCW2) - Undergraduate course on computational complexity theory; It follows the same spirit of Sipser's part III.",
+                    "[O'Donnell. Undergrad Complexity Theory. Fall 2019 (15-455)](https://www.youtube.com/playlist?list=PLm3J0oaFux3YL5vLXpzOyJiLtqLp6dCW2) ([Homework](https://www.cs.cmu.edu/~odonnell/15455-s17/)) - Undergraduate course on computational complexity theory; It follows the same spirit of Sipser's part III.",
                     "[O'Donnell. Graduate Complexity Theory](https://www.youtube.com/playlist?list=PLm3J0oaFux3b8Gg1DdaJOzYNsaXYLAOKH) - It covers most of what is believed to be known to get started in complexity theory research."
                 ],
                 "Lecture Notes": [
