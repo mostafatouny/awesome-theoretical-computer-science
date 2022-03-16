@@ -133,7 +133,7 @@
         "[Goldreich. Modern Cryptography, Probabilistic Proofs and Pseudorandomness](https://www.wisdom.weizmann.ac.il/~oded/book1.html) - An introduction to the interwoven domains of cryptography, proofs and randomness."
     ],
 
-    "Machine Learning Thoery": {
+    "Machine Learning Theory": {
         "Lecture Notes": [
             "[Telgarsky. Deep Learning Theory. Illinois](https://mjt.cs.illinois.edu/dlt/) - Focuses on simplified proofs over what appears in the literature, and classical perspective of achieving a low test error for binary classification with IID data via standard (typically ReLU) feedforward networks.",
             "[Vaughan. CS260: Machine Learning Theory](http://www.jennwv.com/courses/F11.html) - A broad overview of the theoretical foundations underlying common machine learning algorithms.",
