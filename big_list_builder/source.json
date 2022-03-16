@@ -133,6 +133,42 @@
         "[Goldreich. Modern Cryptography, Probabilistic Proofs and Pseudorandomness](https://www.wisdom.weizmann.ac.il/~oded/book1.html) - An introduction to the interwoven domains of cryptography, proofs and randomness."
     ],
 
+    "Machine Learning Thoery": {
+        "Lecture Notes": [
+            "[Telgarsky. Deep Learning Theory. Illinois](https://mjt.cs.illinois.edu/dlt/) - Focuses on simplified proofs over what appears in the literature, and classical perspective of achieving a low test error for binary classification with IID data via standard (typically ReLU) feedforward networks.",
+            "[Vaughan. CS260: Machine Learning Theory](http://www.jennwv.com/courses/F11.html) - A broad overview of the theoretical foundations underlying common machine learning algorithms.",
+            "[Livni. COS 511 Theoretical Machine Learning. Princeton](https://www.cs.princeton.edu/~rlivni/cos511/cos511.html) - Formally define and study various models that have been proposed for learning. The course will present and contrast the statistical, computational and online models for learning. We will present and rigorously analyze some of the most successful algorithms in machine learning that are extensively used today.",
+            "[Moitra. Theoretical Foundations for Deep Learning. MIT](https://people.csail.mit.edu/moitra/408b.html) - It explores theoretical foundations for deep learning, emphasizing the following themes: (1) Approximation: What sorts of functions can be represented by deep networks, and does depth provably increase the expressive power? (2) Optimization: Essentially all optimization problems we want to solve in practice are non-convex. What frameworks can be used to analyze such problems? (3) Beyond-Worst Case Analysis: Deep networks can memorize worst-case data, so why do they generalize well on real-world data?",
+            "[Arora. Overcoming Intractability in Machine Learning](https://www.cs.princeton.edu/courses/archive/spring15/cos598D/) - A seminar course that will focus on the following phenomenon: many problems in machine learning are formally intractable (e.g., NP-hard). Nevertheless they are solved in practice by heuristics. Can we design algorithms with provable guarantees (running time, solution quality)?"
+        ],
+
+        "Books": [
+            "[Vazirani & Kearns. An Introduction to Computational Learning Theory](https://mitpress.mit.edu/books/introduction-computational-learning-theory) - Emphasizing issues of computational efficiency, It introduces a number of central topics in computational learning theory.",
+            "[Shalev-Shwartz. Understanding Machine Learning: From Theory to Algorithms](https://www.cambridge.org/core/books/understanding-machine-learning/3059695661405D25673058E43C8BE2A6) - It provides an extensive theoretical account of the fundamental ideas underlying machine learning and the mathematical derivations that transform these principles into practical algorithms."
+        ],
+
+        "Workshops": [
+            "[Simons Institute. Foundations of Deep Learning Program](https://simons.berkeley.edu/programs/dl2019) - Aligning and focusing theoretical and applied researchers on the common purpose of building empirically relevant theoretical foundations of deep learning. Specifically, the intention was to identify and make progress on challenges that, on one hand, are key to guiding the real-world use of deep learning and, on the other hand, can be approached using theoretical methodology.",
+            "[Simons Institute. Foundations of Data Science](https://simons.berkeley.edu/programs/datascience2018) - Identifying a set of core techniques and principles that form a foundation for the subject.",
+            "[Foundations of Machine Learning](https://simons.berkeley.edu/programs/machinelearning2017) - Aims to grow the reach and impact of computer science theory within machine learning.",
+            "[Toward Theoretical Understanding of Deep Learning](https://unsupervised.cs.princeton.edu/deeplearningtutorial.html)",
+            "[A Brief Introduction to Theoretical Foundations of Machine Learning and Machine Teaching](https://simons.berkeley.edu/talks/tbd-288) - Formal methods and machine learning can inform each other from deductive and inductive reasoning perspectives.  This talk aims to facilitate the dialogue between the two communities by establishing some fundamental concepts in learning theory."
+        ],
+
+        "Conferences": [
+            "[COLT](https://www.learningtheory.org/)"
+        ],
+
+        "Research Groups": [
+            "[Simons Institute. Machine Learning Research Pod](https://simons.berkeley.edu/research-pods/machine-learning-research-pod)",
+            "[Harvard Machine Learning Foundations Group](https://mltheory.org/)"
+        ],
+
+        "Other": [
+            "[Avrim Blum. Intro Machine Learning Theory](https://www.cs.cmu.edu/~avrim/Talks/mlt.pdf)"
+        ]
+    },
+
     "Physics": {
         "Lecture Notes": [
             "[Arora. The Computational Universe](https://www.cs.princeton.edu/courses/archive/spring11/cos116/lectures.php) - Takes us on a broad sweep of scientific knowledge and related technologies: propositional logic of the ancient Greeks (microprocessors); quantum mechanics (silicon chips); network and system phenomena (internet and search engines); computational intractability (secure encryption); and efficient algorithms (genomic sequencing)."
