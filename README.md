@@ -31,7 +31,7 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 - [Algorithms](#algorithms)
   - [Lecture Videos Playlists](#algorithms_lecture_videos_playlists) | [Lecture Notes](#algorithms_lecture_notes) | [Books](#algorithms_books)
 - [Information/Coding Theory](#informationcoding_theory)
-  - [Lecture Notes](#informationcoding_theory_lecture_notes)
+  - [Lecture Notes](#informationcoding_theory_lecture_notes) | [Workshops](#informationcoding_theory_workshops) | [Conferences](#informationcoding_theory_conferences)
 - [Randomization](#randomization)
 - [Cryptography](#cryptography)
 - [Machine Learning Theory](#machine_learning_theory)
@@ -143,6 +143,10 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 # Information/Coding Theory<a name=informationcoding_theory></a>
 ## Lecture Notes<a name=informationcoding_theory_lecture_notes></a>
 -  [Madhu Sudan. Essential Coding Theory](http://people.seas.harvard.edu/~madhusudan/courses/Spring2020/) - Some elements of Algorithmic tasks of encoding and decoding and its connections with error-correction; These codes are now tools in the design and analysis of algorithms, and also in many aspects of computational complexity. The focus is on constructions of algorithmic and asymptotic importance. Requires only basic mathematical maturity
+## Workshops<a name=informationcoding_theory_workshops></a>
+- [Simons Institute. Informaiton Theory](https://simons.berkeley.edu/programs/inftheory2015) - It aims to strengthen the ties between computation and communication communities. It explores (1) information theoretic techniques in complexity theory and combinatorics, (2) Coding theory and applications, and (3) information theory, machine learning, and big data.
+## Conferences<a name=informationcoding_theory_conferences></a>
+- [Compression+Computation 2022](https://sites.google.com/view/compression-computation-2022/program) - It bridges the gap of Theoretical Computer Science and Bioinformatics communities, On new data compression techniques, and computation over compressed data.
 # Randomization<a name=randomization></a>
 - [Goldreich. Randomized Methods in Computation](http://www.wisdom.weizmann.ac.il/~oded/rnd.html) - The aim of the current course is to make the students familiar with some of randomized methods.
 # Cryptography<a name=cryptography></a>

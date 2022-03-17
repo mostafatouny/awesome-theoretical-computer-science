@@ -121,6 +121,14 @@
     "Information/Coding Theory": {
         "Lecture Notes": [
             " [Madhu Sudan. Essential Coding Theory](http://people.seas.harvard.edu/~madhusudan/courses/Spring2020/) - Some elements of Algorithmic tasks of encoding and decoding and its connections with error-correction; These codes are now tools in the design and analysis of algorithms, and also in many aspects of computational complexity. The focus is on constructions of algorithmic and asymptotic importance. Requires only basic mathematical maturity"
+        ],
+
+        "Workshops": [
+            "[Simons Institute. Informaiton Theory](https://simons.berkeley.edu/programs/inftheory2015) - It aims to strengthen the ties between computation and communication communities. It explores (1) information theoretic techniques in complexity theory and combinatorics, (2) Coding theory and applications, and (3) information theory, machine learning, and big data."
+        ],
+
+        "Conferences": [
+            "[Compression+Computation 2022](https://sites.google.com/view/compression-computation-2022/program) - It bridges the gap of Theoretical Computer Science and Bioinformatics communities, On new data compression techniques, and computation over compressed data."
         ]
     },
 
