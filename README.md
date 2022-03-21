@@ -169,12 +169,12 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 - [Toward Theoretical Understanding of Deep Learning](https://unsupervised.cs.princeton.edu/deeplearningtutorial.html)
 - [A Brief Introduction to Theoretical Foundations of Machine Learning and Machine Teaching](https://simons.berkeley.edu/talks/tbd-288) - Formal methods and machine learning can inform each other from deductive and inductive reasoning perspectives.  This talk aims to facilitate the dialogue between the two communities by establishing some fundamental concepts in learning theory.
 ## Conferences<a name=machine_learning_theory_conferences></a>
-- [COLT](https://www.learningtheory.org/)
+- [COLT](https://www.learningtheory.org/).
 ## Research Groups<a name=machine_learning_theory_research_groups></a>
-- [Simons Institute. Machine Learning Research Pod](https://simons.berkeley.edu/research-pods/machine-learning-research-pod)
-- [Harvard Machine Learning Foundations Group](https://mltheory.org/)
+- [Simons Institute. Machine Learning Research Pod](https://simons.berkeley.edu/research-pods/machine-learning-research-pod).
+- [Harvard Machine Learning Foundations Group](https://mltheory.org/).
 ## Other<a name=machine_learning_theory_other></a>
-- [Avrim Blum. Intro Machine Learning Theory](https://www.cs.cmu.edu/~avrim/Talks/mlt.pdf)
+- [Avrim Blum. Intro Machine Learning Theory](https://www.cs.cmu.edu/~avrim/Talks/mlt.pdf).
 # Physics<a name=physics></a>
 ## Lecture Notes<a name=physics_lecture_notes></a>
 - [Arora. The Computational Universe](https://www.cs.princeton.edu/courses/archive/spring11/cos116/lectures.php) - Takes us on a broad sweep of scientific knowledge and related technologies: propositional logic of the ancient Greeks (microprocessors); quantum mechanics (silicon chips); network and system phenomena (internet and search engines); computational intractability (secure encryption); and efficient algorithms (genomic sequencing).
