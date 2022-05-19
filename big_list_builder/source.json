@@ -182,10 +182,18 @@
 
     "Game Theory": {
         "Lecture Notes": [
-
+            "[Tim Roughgarden. Complexity Theory, Game Theory, and Economics: The Barbados Lectures](https://arxiv.org/abs/1801.00734).",
+            "[Eva Tardos. Algorithmic Game Theory](http://www.cs.cornell.edu/courses/cs6840/2012sp/).",
+            "[Chekuri. Topics in Algorithms: Algorithmic Game Theory](https://chekuri.cs.illinois.edu/teaching/spring2008/agt.htm) - A broad graduate-level introduction to: auctions, existence and computation of equilibria in games and markets, algorithmic mechanism design, price of anarchy and price of stability, games relevant to networks and e-commerce. The emphasis will be on conceptual ideas and algorithmic aspects. No familiarity with game theory or economics will be assumed.",
+            "[Penna. Algorithmic Game Theory](https://ml2.inf.ethz.ch/courses/agt/) - The course discusses algorithmic aspects of game theory, such as a general introduction to game theory, auctions, mechanisms, the costs of a central control optimum versus those of an equilibrium under selfish agents, and algorithms and complexity of computing equilibria.",
+            "[Brown. Resources list for game theory](http://cs.brown.edu/courses/cs1951k/lectures/) - TAs based these notes in large part on the lecture notes and accompanying videos of Tim Roughgarden's CS 364A and CS 364B courses at Stanford, and Jason Hartline's Mechanism Design and Approximation textbook.",
+            "[Fang. Advanced Topics in Machine Learning and Game Theory](https://feifang.info/advanced-topics-in-machine-learning-and-game-theory-fall-2021/) - A graduate-level course covering the topics at the intersection of machine learning and game theory.",
+            "[Xu. Topics in Learning and Game Theory](http://www.haifeng-xu.com/cs6501sp21/index.htm) - A graduate level course covering topics at the interface between machine learning and game theory.",
+            "[Diakonikolas & Dughmi. Topics in Learning and Game Theory](https://viterbi-web.usc.edu/~shaddin/cs699fa17/index.html) - Recent research trends at the interface of learning and game theory."
         ],
         "Books": [
-
+            "[Apt & Grädel. Lectures in Game Theory for Computer Scientists](https://www.cambridge.org/us/academic/subjects/computer-science/programming-languages-and-applied-logic/lectures-game-theory-computer-scientists) - Games provide mathematical models for interaction, and numerous tasks in computer science can be formulated in game-theoretic terms.",
+            "[Eva Tardos. Algorithmic Game Theory](https://www.cambridge.org/core/books/algorithmic-game-theory/0092C07CA8B724E1B1BE2238DDD66B38#fndtn-information) - Basic chapters on algorithmic methods for equilibria, mechanism design and combinatorial auctions are followed by chapters on important game theory applications such as incentives and pricing, cost sharing, information markets and cryptography and security."
         ],
         "Workshops": [
             "[Simons Institute. Economics and Computation Program](https://simons.berkeley.edu/programs/economics2015) - The intersection is motivated by applications such as large-scale digital auctions and markets, and fundamental questions such as the computational complexity of Nash equilibria and complexity and approximation in mechanism design. Also, To productively model and study the Internet and its novel computational phenomena, Models and insights can be gained from from game theory and economic theory. The computational point of view, on the other hand, is essential to understand a world in which markets are networked and the default platforms of economic transactions are algorithmic.",
