@@ -154,6 +154,7 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 - [Goldreich. Modern Cryptography, Probabilistic Proofs and Pseudorandomness](https://www.wisdom.weizmann.ac.il/~oded/book1.html) - An introduction to the interwoven domains of cryptography, proofs and randomness.
 # Machine Learning Theory<a name=machine_learning_theory></a>
 ## Lecture Notes<a name=machine_learning_theory_lecture_notes></a>
+- [Blum. An Introduction to the Theory of Machine Learning. TTIC](https://home.ttic.edu/~avrim/MLT20/) - The basic theory underlying machine learning and the process of generalizing from data.
 - [Telgarsky. Deep Learning Theory. Illinois](https://mjt.cs.illinois.edu/dlt/) - Focuses on simplified proofs over what appears in the literature, and classical perspective of achieving a low test error for binary classification with IID data via standard (typically ReLU) feedforward networks.
 - [Vaughan. CS260: Machine Learning Theory](http://www.jennwv.com/courses/F11.html) - A broad overview of the theoretical foundations underlying common machine learning algorithms.
 - [Livni. COS 511 Theoretical Machine Learning. Princeton](https://www.cs.princeton.edu/~rlivni/cos511/cos511.html) - Formally define and study various models that have been proposed for learning. The course will present and contrast the statistical, computational and online models for learning. We will present and rigorously analyze some of the most successful algorithms in machine learning that are extensively used today.
@@ -174,7 +175,9 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 - [Simons Institute. Machine Learning Research Pod](https://simons.berkeley.edu/research-pods/machine-learning-research-pod).
 - [Harvard Machine Learning Foundations Group](https://mltheory.org/).
 ## Other<a name=machine_learning_theory_other></a>
-- [Avrim Blum. Intro Machine Learning Theory](https://www.cs.cmu.edu/~avrim/Talks/mlt.pdf).
+- [Blum. Intro Machine Learning Theory](https://www.cs.cmu.edu/~avrim/Talks/mlt.pdf).
+- [Blum, et.al. Machine Learning, Game Theory, and Mechanism Design for a Networked World](https://www.cs.cmu.edu/~mblum/search/AGTML35.pdf).
+- [Agrawal & Jaiswal. When Machine Learning Meets AI and Game Theory](https://cs229.stanford.edu/proj2012/AgrawalJaiswal-WhenMachineLearningMeetsAIandGameTheory.pdf).
 # Physics<a name=physics></a>
 ## Lecture Notes<a name=physics_lecture_notes></a>
 - [Arora. The Computational Universe](https://www.cs.princeton.edu/courses/archive/spring11/cos116/lectures.php) - Takes us on a broad sweep of scientific knowledge and related technologies: propositional logic of the ancient Greeks (microprocessors); quantum mechanics (silicon chips); network and system phenomena (internet and search engines); computational intractability (secure encryption); and efficient algorithms (genomic sequencing).

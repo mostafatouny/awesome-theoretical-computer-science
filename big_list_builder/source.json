@@ -143,6 +143,7 @@
 
     "Machine Learning Theory": {
         "Lecture Notes": [
+	    "[Blum. An Introduction to the Theory of Machine Learning. TTIC](https://home.ttic.edu/~avrim/MLT20/) - The basic theory underlying machine learning and the process of generalizing from data.",
             "[Telgarsky. Deep Learning Theory. Illinois](https://mjt.cs.illinois.edu/dlt/) - Focuses on simplified proofs over what appears in the literature, and classical perspective of achieving a low test error for binary classification with IID data via standard (typically ReLU) feedforward networks.",
             "[Vaughan. CS260: Machine Learning Theory](http://www.jennwv.com/courses/F11.html) - A broad overview of the theoretical foundations underlying common machine learning algorithms.",
             "[Livni. COS 511 Theoretical Machine Learning. Princeton](https://www.cs.princeton.edu/~rlivni/cos511/cos511.html) - Formally define and study various models that have been proposed for learning. The course will present and contrast the statistical, computational and online models for learning. We will present and rigorously analyze some of the most successful algorithms in machine learning that are extensively used today.",
@@ -173,7 +174,9 @@
         ],
 
         "Other": [
-            "[Avrim Blum. Intro Machine Learning Theory](https://www.cs.cmu.edu/~avrim/Talks/mlt.pdf)."
+            "[Blum. Intro Machine Learning Theory](https://www.cs.cmu.edu/~avrim/Talks/mlt.pdf).",
+	    "[Blum, et.al. Machine Learning, Game Theory, and Mechanism Design for a Networked World](https://www.cs.cmu.edu/~mblum/search/AGTML35.pdf).",
+	    "[Agrawal & Jaiswal. When Machine Learning Meets AI and Game Theory](https://cs229.stanford.edu/proj2012/AgrawalJaiswal-WhenMachineLearningMeetsAIandGameTheory.pdf)."
         ]
     },
 
