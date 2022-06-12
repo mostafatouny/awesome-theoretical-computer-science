@@ -297,7 +297,7 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 ### Aggregator<a name=live_content_jobs_aggregator></a>
 - [CS Theory Jobs](https://cstheory-jobs.org) - TCS Jobs announcements.
 ### Lists<a name=live_content_jobs_lists></a>
-- [Yaroslavtsev. Hires spreadsheet 2022](http://grigory.us/blog/theory-jobs-2022/)
+- [Yaroslavtsev. Hires spreadsheet 2022](http://grigory.us/blog/theory-jobs-2022/) - A crowdsourced spreadsheet created to collect information about theory hires in year 2022.
 - [Rubinstein & Weinberg. Research Masters in TCS](https://www.cs.princeton.edu/~smattw/masters/masters.html) - A list of master programs in TCS.
 - [Barak. Research Masters in TCS](https://docs.google.com/spreadsheets/d/1znVmERIVm2Fz2cbYjXE97VH9eIx7UdaLh5n3FBYb8o8/edit?usp=sharing) - A list of master programs in TCS.
 ## Online Communities<a name=live_content_online_communities></a>
