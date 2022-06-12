@@ -57,7 +57,7 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
   - [Magazines, News, and Monographs](#live_content_magazines_news_and_monographs)
   - [Blogs Aggregators](#live_content_blogs_aggregators)
   - [Jobs](#live_content_jobs)
-    - [Aggregator](#live_content_jobs_aggregator) | [Masters](#live_content_jobs_masters)
+    - [Aggregator](#live_content_jobs_aggregator) | [Lists](#live_content_jobs_lists)
   - [Online Communities](#live_content_online_communities)
 - [Other Resources](#other_resources)
   - [Blog Posts and Essays](#other_resources_blog_posts_and_essays) | [Special Magazines and Workshops](#other_resources_special_magazines_and_workshops) | [Popular Science Books](#other_resources_popular_science_books) | [Cheat Sheets](#other_resources_cheat_sheets) | [Network Groups](#other_resources_network_groups)
@@ -296,7 +296,8 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 ## Jobs<a name=live_content_jobs></a>
 ### Aggregator<a name=live_content_jobs_aggregator></a>
 - [CS Theory Jobs](https://cstheory-jobs.org) - TCS Jobs announcements.
-### Masters<a name=live_content_jobs_masters></a>
+### Lists<a name=live_content_jobs_lists></a>
+- [Yaroslavtsev. Hires spreadsheet 2022](http://grigory.us/blog/theory-jobs-2022/)
 - [Rubinstein & Weinberg. Research Masters in TCS](https://www.cs.princeton.edu/~smattw/masters/masters.html) - A list of master programs in TCS.
 - [Barak. Research Masters in TCS](https://docs.google.com/spreadsheets/d/1znVmERIVm2Fz2cbYjXE97VH9eIx7UdaLh5n3FBYb8o8/edit?usp=sharing) - A list of master programs in TCS.
 ## Online Communities<a name=live_content_online_communities></a>
