@@ -337,6 +337,7 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 - [List of TCS Conferences and Workshops](https://cstheory.blogoverflow.com/theoretical-computer-science-conferences-and-workshops/) - A list of conferences and workshops in theoretical computer science.
 # Related Awesome Lists<a name=related_awesome_lists></a>
 - [Algorithms](https://github.com/tayllan/awesome-algorithms) - Awesome list for design and analysis of algorithms
-- [Mathematics](https://github.com/rossant/awesome-math#mathematics-for-computer-science) - Awesome list for freely available lecture notes on mathematics
+- [Mathematics](https://github.com/rossant/awesome-math) - Awesome list for freely available lecture notes on mathematics
 - [Cryptography](https://github.com/sobolevn/awesome-cryptography) - Awesome list for cryptography
 - [Quantum Computing](https://github.com/desireevl/awesome-quantum-computing) - Awesome list for quantum computing
+- P.S. See also [Math](https://github.com/ossu/math) and [CS](https://github.com/ossu/computer-science) curricula by [Open Source Society University](https://github.com/ossu)
