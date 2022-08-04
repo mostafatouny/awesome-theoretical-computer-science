@@ -32,7 +32,6 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
   - [Lecture Videos Playlists](#algorithms_lecture_videos_playlists) | [Lecture Notes](#algorithms_lecture_notes) | [Books](#algorithms_books)
 - [Information/Coding Theory](#informationcoding_theory)
   - [Lecture Notes](#informationcoding_theory_lecture_notes) | [Workshops](#informationcoding_theory_workshops) | [Conferences](#informationcoding_theory_conferences)
-- [Randomization](#randomization)
 - [Cryptography](#cryptography)
 - [Machine Learning Theory](#machine_learning_theory)
   - [Lecture Notes](#machine_learning_theory_lecture_notes) | [Books](#machine_learning_theory_books) | [Workshops](#machine_learning_theory_workshops) | [Conferences](#machine_learning_theory_conferences) | [Research Groups](#machine_learning_theory_research_groups) | [Other](#machine_learning_theory_other)
@@ -149,11 +148,10 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 - [Simons Institute. Informaiton Theory Program](https://simons.berkeley.edu/programs/inftheory2015) - It aims to strengthen the ties between computation and communication communities. It explores (1) information theoretic techniques in complexity theory and combinatorics, (2) Coding theory and applications, and (3) information theory, machine learning, and big data.
 ## Conferences<a name=informationcoding_theory_conferences></a>
 - [Compression+Computation 2022](https://sites.google.com/view/compression-computation-2022/program) - It bridges the gap of Theoretical Computer Science and Bioinformatics communities, On new data compression techniques, and computation over compressed data.
-# Randomization<a name=randomization></a>
-- [Goldreich. Randomized Methods in Computation](http://www.wisdom.weizmann.ac.il/~oded/rnd.html) - The aim of the current course is to make the students familiar with some of randomized methods.
 # Cryptography<a name=cryptography></a>
 - [Lindell. Tutorials on the Foundations of Cryptography](https://link.springer.com/book/10.1007/978-3-319-57048-8) - Advanced tutorials appropriate for self-study by experienced researchers,
 - [Goldreich. Modern Cryptography, Probabilistic Proofs and Pseudorandomness](https://www.wisdom.weizmann.ac.il/~oded/book1.html) - An introduction to the interwoven domains of cryptography, proofs and randomness.
+- [Goldreich. Randomized Methods in Computation](http://www.wisdom.weizmann.ac.il/~oded/rnd.html) - The aim of the current course is to make the students familiar with some of randomized methods.
 # Machine Learning Theory<a name=machine_learning_theory></a>
 ## Lecture Notes<a name=machine_learning_theory_lecture_notes></a>
 - [Blum. An Introduction to the Theory of Machine Learning. TTIC](https://home.ttic.edu/~avrim/MLT20/) - The basic theory underlying machine learning and the process of generalizing from data.
@@ -278,7 +276,7 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 - [Simons' Public Lectures](https://simons.berkeley.edu/programs) - Programs, Events, and workshops, that aim toward maximizing impact and engagement across the theoretical computer science community.
 - [CMU Theory](https://www.youtube.com/channel/UCWFp4UWNiOv71j0sPbdNiqw) - Aims for a mathematical understanding of fundamental issues in Computer Science, and to use this understanding to produce better algorithms, protocols, and systems, as well as identify the inherent limitations of efficient computation.
 ### Archived<a name=live_content_conferences_workshops_events_and_talks_archived></a>
-- [ICALP](https://eatcs.org/index.php/conferences) | [ITCS 2022](https://www.youtube.com/playlist?list=PLgKuh-lKre13VY4AJCOK5Nx8ghscvpGrE) | [ITCS 2022 Pre-recorded](https://www.youtube.com/playlist?list=PLgKuh-lKre11M2GCKkTySipbMIxXqKzkE) | [STOC 2021](https://www.youtube.com/playlist?list=PLXjzCrdVznQKezRe9V4feOaTF95wdLyNN) | [FOCS 2021](https://www.youtube.com/channel/UClrteoQ-ULzlZZaWi6c6iKw) | [ITCS 2021](https://www.youtube.com/playlist?list=PLgKuh-lKre12JHHIMp3EHQSO8Z_62TnNQ) | [STOC 2020](https://www.youtube.com/playlist?list=PLn0nrSd4xjjadfcMd5xvmJ_GNSLDi1ATn) | [FOCS 2020](https://www.youtube.com/channel/UCSpAMJ70rngnq9_jkxXJvoQ/playlists)
+- [CCC 22](https://www.youtube.com/playlist?list=PLIgnAi1_K6YGqJQVtx2EowWXwVAnU24x3) | [ICALP](https://eatcs.org/index.php/conferences) | [ITCS 2022](https://www.youtube.com/playlist?list=PLgKuh-lKre13VY4AJCOK5Nx8ghscvpGrE) | [ITCS 2022 Pre-recorded](https://www.youtube.com/playlist?list=PLgKuh-lKre11M2GCKkTySipbMIxXqKzkE) | [STOC 2021](https://www.youtube.com/playlist?list=PLXjzCrdVznQKezRe9V4feOaTF95wdLyNN) | [FOCS 2021](https://www.youtube.com/channel/UClrteoQ-ULzlZZaWi6c6iKw) | [ITCS 2021](https://www.youtube.com/playlist?list=PLgKuh-lKre12JHHIMp3EHQSO8Z_62TnNQ) | [STOC 2020](https://www.youtube.com/playlist?list=PLn0nrSd4xjjadfcMd5xvmJ_GNSLDi1ATn) | [FOCS 2020](https://www.youtube.com/channel/UCSpAMJ70rngnq9_jkxXJvoQ/playlists)
 - [Turing Lectures. ACM](https://amturing.acm.org/lectures.cfm)
 - ACM A.M. Turing Laureate Interview. Berkeley - Interviews with Berkeley's Turing award winners. - [Shafi Goldwasser and Silvio Micali](https://www.youtube.com/watch?v=yBRbSzPgG4A)
 - Berkeley in the 80s - Interviews with eminent figures in Berkeley's theoretical computer science. - [Shafi Goldwasser](https://www.youtube.com/watch?v=7D4hIe7M4qU&t=1s)

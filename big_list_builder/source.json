@@ -132,13 +132,10 @@
         ]
     },
 
-    "Randomization": [
-        "[Goldreich. Randomized Methods in Computation](http://www.wisdom.weizmann.ac.il/~oded/rnd.html) - The aim of the current course is to make the students familiar with some of randomized methods."
-    ],
-
     "Cryptography": [
         "[Lindell. Tutorials on the Foundations of Cryptography](https://link.springer.com/book/10.1007/978-3-319-57048-8) - Advanced tutorials appropriate for self-study by experienced researchers,",
-        "[Goldreich. Modern Cryptography, Probabilistic Proofs and Pseudorandomness](https://www.wisdom.weizmann.ac.il/~oded/book1.html) - An introduction to the interwoven domains of cryptography, proofs and randomness."
+        "[Goldreich. Modern Cryptography, Probabilistic Proofs and Pseudorandomness](https://www.wisdom.weizmann.ac.il/~oded/book1.html) - An introduction to the interwoven domains of cryptography, proofs and randomness.",
+        "[Goldreich. Randomized Methods in Computation](http://www.wisdom.weizmann.ac.il/~oded/rnd.html) - The aim of the current course is to make the students familiar with some of randomized methods."
     ],
 
     "Machine Learning Theory": {
@@ -311,7 +308,7 @@
                 "[CMU Theory](https://www.youtube.com/channel/UCWFp4UWNiOv71j0sPbdNiqw) - Aims for a mathematical understanding of fundamental issues in Computer Science, and to use this understanding to produce better algorithms, protocols, and systems, as well as identify the inherent limitations of efficient computation."
             ],
             "Archived": [
-                "[ICALP](https://eatcs.org/index.php/conferences) | [ITCS 2022](https://www.youtube.com/playlist?list=PLgKuh-lKre13VY4AJCOK5Nx8ghscvpGrE) | [ITCS 2022 Pre-recorded](https://www.youtube.com/playlist?list=PLgKuh-lKre11M2GCKkTySipbMIxXqKzkE) | [STOC 2021](https://www.youtube.com/playlist?list=PLXjzCrdVznQKezRe9V4feOaTF95wdLyNN) | [FOCS 2021](https://www.youtube.com/channel/UClrteoQ-ULzlZZaWi6c6iKw) | [ITCS 2021](https://www.youtube.com/playlist?list=PLgKuh-lKre12JHHIMp3EHQSO8Z_62TnNQ) | [STOC 2020](https://www.youtube.com/playlist?list=PLn0nrSd4xjjadfcMd5xvmJ_GNSLDi1ATn) | [FOCS 2020](https://www.youtube.com/channel/UCSpAMJ70rngnq9_jkxXJvoQ/playlists)",
+                "[CCC 22](https://www.youtube.com/playlist?list=PLIgnAi1_K6YGqJQVtx2EowWXwVAnU24x3) | [ICALP](https://eatcs.org/index.php/conferences) | [ITCS 2022](https://www.youtube.com/playlist?list=PLgKuh-lKre13VY4AJCOK5Nx8ghscvpGrE) | [ITCS 2022 Pre-recorded](https://www.youtube.com/playlist?list=PLgKuh-lKre11M2GCKkTySipbMIxXqKzkE) | [STOC 2021](https://www.youtube.com/playlist?list=PLXjzCrdVznQKezRe9V4feOaTF95wdLyNN) | [FOCS 2021](https://www.youtube.com/channel/UClrteoQ-ULzlZZaWi6c6iKw) | [ITCS 2021](https://www.youtube.com/playlist?list=PLgKuh-lKre12JHHIMp3EHQSO8Z_62TnNQ) | [STOC 2020](https://www.youtube.com/playlist?list=PLn0nrSd4xjjadfcMd5xvmJ_GNSLDi1ATn) | [FOCS 2020](https://www.youtube.com/channel/UCSpAMJ70rngnq9_jkxXJvoQ/playlists)",
                 "[Turing Lectures. ACM](https://amturing.acm.org/lectures.cfm)",
                 "ACM A.M. Turing Laureate Interview. Berkeley - Interviews with Berkeley's Turing award winners. - [Shafi Goldwasser and Silvio Micali](https://www.youtube.com/watch?v=yBRbSzPgG4A)",
                 "Berkeley in the 80s - Interviews with eminent figures in Berkeley's theoretical computer science. - [Shafi Goldwasser](https://www.youtube.com/watch?v=7D4hIe7M4qU&t=1s)",
