@@ -132,12 +132,14 @@
         ]
     },
 
-    "Cryptography": [
-        "[Lindell. Tutorials on the Foundations of Cryptography](https://link.springer.com/book/10.1007/978-3-319-57048-8) - Advanced tutorials appropriate for self-study by experienced researchers,",
-        "[Goldreich. Modern Cryptography, Probabilistic Proofs and Pseudorandomness](https://www.wisdom.weizmann.ac.il/~oded/book1.html) - An introduction to the interwoven domains of cryptography, proofs and randomness.",
-        "[Goldreich. Randomized Methods in Computation](http://www.wisdom.weizmann.ac.il/~oded/rnd.html) - The aim of the current course is to make the students familiar with some of randomized methods."
-    ],
-
+    "Cryptography": {
+        "Books": [
+            "[Lindell. Tutorials on the Foundations of Cryptography](https://link.springer.com/book/10.1007/978-3-319-57048-8) - Advanced tutorials appropriate for self-study by experienced researchers,",
+            "[Goldreich. Modern Cryptography, Probabilistic Proofs and Pseudorandomness](https://www.wisdom.weizmann.ac.il/~oded/book1.html) - An introduction to the interwoven domains of cryptography, proofs and randomness.",
+            "[Goldreich. Randomized Methods in Computation](http://www.wisdom.weizmann.ac.il/~oded/rnd.html) - The aim of the current course is to make the students familiar with some of randomized methods."
+        ]
+    },
+    
     "Machine Learning Theory": {
         "Lecture Notes": [
 	        "[Blum. An Introduction to the Theory of Machine Learning. TTIC](https://home.ttic.edu/~avrim/MLT20/) - The basic theory underlying machine learning and the process of generalizing from data.",
