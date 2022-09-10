@@ -292,7 +292,7 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 - [Foundations and Trends in Theoretical Computer Science](https://www.nowpublishers.com/TCS) - It provides monographs written by leaders that give tutorial coverage of subjects, research retrospectives as well as survey papers that offer state-of-the-art reviews fall within the scope of the journal.
 - [Quanta Magazine](https://www.quantamagazine.org/tag/computational-complexity) - Features breakthroughs in the field, written in an accessible style for non-experts.
 ## Blogs Aggregators<a name=live_content_blogs_aggregators></a>
-- [Theory of Computing Blog Aggregator](https://cstheory-feed.org/) - A blog Aggregator for all blogs related to TCS.
+- [Theory of Computing Blog Aggregator](https://theory.report/) - A blog Aggregator for all blogs related to TCS.
 ## Jobs<a name=live_content_jobs></a>
 ### Aggregator<a name=live_content_jobs_aggregator></a>
 - [CS Theory Jobs](https://cstheory-jobs.org) - TCS Jobs announcements.
