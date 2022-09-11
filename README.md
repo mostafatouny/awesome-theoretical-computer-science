@@ -140,6 +140,7 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 ## Lecture Notes<a name=algorithms_lecture_notes></a>
 - [Arora. Advanced Algorithm Design](https://www.cs.princeton.edu/courses/archive/fall15/cos521/) - Notably uses ideas such as randomness, approximation, high dimensional geometry. Faces uncertainty, approaches to handle big data, handling intractability, heuristic approaches, ..etc.
 ## Books<a name=algorithms_books></a>
+- [Demaine, Gasarch & Hajiaghayi. Computers and Intractability: A Guide to Algorithmic Lower Bounds](https://hardness.mit.edu/) - A sequel to Garey and Johnson's Computers and Intractability: A Guide to NP-Completeness. New topics include Parameterized Complexity, Lower bounds on approximation, Other hardness assumptions (ETH, 3SUM-conjecture, APSP-conjecture, UGC, Others), Online Algorithms, Streaming Algorithms, Polynomial Parity Arguments, and Parallelism.
 - [Demaine. Games, Puzzles, and Computation](https://www.routledge.com/Games-Puzzles-and-Computation/Hearn-Demaine/p/book/9781568813226) - It shows that games and puzzles can serve as powerful models of computation, Offering a new way of thinking about computation.
 - [Knuth. The Art of Computer Programming](https://en.wikipedia.org/wiki/The_Art_of_Computer_Programming) - A legendary series by Donald Knuth on design and analysis of algorithms.
 # Information/Coding Theory<a name=informationcoding_theory></a>
