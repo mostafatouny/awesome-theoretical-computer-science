@@ -54,6 +54,9 @@
                 ]
             },
             "Communication Complexity": {
+            	"Lecture Notes": [
+            		"[Mark Bun. CS591 Communication Complexity](https://cs-people.bu.edu/mbun/courses/591_F19/) - A graduate course which introduces the fundamental results and techniques in the area and some research frontier questions. Themes include: Communication models and the communication complexity zoo, Information vs. communication, Query-to-communication lifting, and Applications"
+            	],
                 "Books": [
                     "[Rao & Yehudayoff. Communication Complexity and Applications](https://www.cambridge.org/core/books/communication-complexity/5F44993E3B2597174B71D3F21E748443) - An excellent and very readable introductory textbook to the field of communication complexity."
                 ]
