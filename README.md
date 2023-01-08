@@ -140,6 +140,7 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 ## Lecture Videos Playlists<a name=algorithms_lecture_videos_playlists></a>
 - [Demaine. Algorithmic Lower Bounds: Fun with Hardness Proofs](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-890-algorithmic-lower-bounds-fun-with-hardness-proofs-fall-2014/) - A class taking a practical approach to proving problems can't be solved efficient.
 ## Lecture Notes<a name=algorithms_lecture_notes></a>
+- [Aspnes. Notes on Randomized Algorithms](https://www.cs.yale.edu/homes/aspnes/classes/469/notes.pdf) - Supplemental notes to the standard books by Mitzenmacher & Upfals, and Motwani & Raghavan.
 - [Arora. Advanced Algorithm Design](https://www.cs.princeton.edu/courses/archive/fall15/cos521/) - Notably uses ideas such as randomness, approximation, high dimensional geometry. Faces uncertainty, approaches to handle big data, handling intractability, heuristic approaches, ..etc.
 ## Books<a name=algorithms_books></a>
 - [Demaine, Gasarch & Hajiaghayi. Computers and Intractability: A Guide to Algorithmic Lower Bounds](https://hardness.mit.edu/) - A sequel to Garey and Johnson's Computers and Intractability: A Guide to NP-Completeness. New topics include Parameterized Complexity, Lower bounds on approximation, Other hardness assumptions (ETH, 3SUM-conjecture, APSP-conjecture, UGC, Others), Online Algorithms, Streaming Algorithms, Polynomial Parity Arguments, and Parallelism.
