@@ -253,6 +253,7 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 ### Lecture Notes<a name=mathlogic_preliminaries_discrete_mathematics_lecture_notes></a>
 - [Halpern. CS 2802: Discrete Structures - Honors. 2020. Cornell](https://www.cs.cornell.edu/courses/cs2802/2020fa/cs2802-20f-notes.html) - Honors lecture notes on discrete math - [Homework](https://www.cs.cornell.edu/courses/cs2802/2020fa/cs2802-20f-homework.html)
 ### Books<a name=mathlogic_preliminaries_discrete_mathematics_books></a>
+- [Alon & Spencer. The Probabilistic Method](https://www.wiley.com/en-us/The+Probabilistic+Method%2C+4th+Edition-p-9781119061953) -  A standard reference for researchers in probabilistic methods in combinatorics. Shows also connections to theoretical computer science.
 - [Rosen. Discrete Mathematics and Its Applications](https://www.mheducation.com/highered/product/discrete-mathematics-applications-rosen/M9780073383095.html) - A canonical discrete math textbook, accessible for even high school students.
 - [Rosen. Handbook of Discrete and Combinatorial Mathematics](https://www.taylorfrancis.com/books/handbook-discrete-combinatorial-mathematics-kenneth-rosen-douglas-shier-wayne-goddard/e/10.1201/9781315156484) - A complete survey of roughly all topics of discrete math and their relevance to computing and communication engineering.
 - [Jukna. Extremal Combinatorics](https://web.vu.lt/mif/s.jukna/EC_Book_2nd/index.html) - Combinatorial techniques written largely with an eye to their applications in TCS, and mostly in complexity
