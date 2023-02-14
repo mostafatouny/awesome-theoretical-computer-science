@@ -351,4 +351,5 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 - [Mathematics](https://github.com/rossant/awesome-math) - Awesome list for freely available lecture notes on mathematics
 - [Cryptography](https://github.com/sobolevn/awesome-cryptography) - Awesome list for cryptography
 - [Quantum Computing](https://github.com/desireevl/awesome-quantum-computing) - Awesome list for quantum computing
+- [Computer Science Roadmap](https://roadmap.sh/computer-science) - Complete guide to Computer Science.
 - P.S. See also [Math](https://github.com/ossu/math) and [CS](https://github.com/ossu/computer-science) curricula by [Open Source Society University](https://github.com/ossu)
