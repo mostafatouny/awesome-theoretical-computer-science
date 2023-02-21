@@ -252,6 +252,7 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 - [Arora. A Theorist's Toolkit](https://www.cs.princeton.edu/courses/archive/fall02/cs597D/) - Aimed primarily at first and second year graduate students who plan to do research in theoretical computer science. We will introduce probabilistic, algebraic, combinatorial, and algorithmic methods useful in proofs.
 ## Discrete Mathematics<a name=mathlogic_preliminaries_discrete_mathematics></a>
 ### Lecture Notes<a name=mathlogic_preliminaries_discrete_mathematics_lecture_notes></a>
+- [Aspnes. Notes on Discrete Mathematics](https://www.cs.yale.edu/homes/aspnes/classes/202/notes.pdf) - Fall 2017 of the Yale course CPSC 202a, Mathematical Tools for Computer Science.
 - [Halpern. CS 2802: Discrete Structures - Honors. 2020. Cornell](https://www.cs.cornell.edu/courses/cs2802/2020fa/cs2802-20f-notes.html) - Honors lecture notes on discrete math - [Homework](https://www.cs.cornell.edu/courses/cs2802/2020fa/cs2802-20f-homework.html)
 ### Books<a name=mathlogic_preliminaries_discrete_mathematics_books></a>
 - [Alon & Spencer. The Probabilistic Method](https://www.wiley.com/en-us/The+Probabilistic+Method%2C+4th+Edition-p-9781119061953) -  A standard reference for researchers in probabilistic methods in combinatorics. Shows also connections to theoretical computer science.
