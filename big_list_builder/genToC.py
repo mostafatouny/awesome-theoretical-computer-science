@@ -23,18 +23,18 @@ def genToC(data, printLev, lastOneLine, lev, prevRef):
             print("  "*lev + "- " + header )
             # recursively call beneath items
             genToC(val, printLev, lastOneLine, lev+1, keyRef+'_')
-
+    return
     # case only one list is remaining, and
-    #  printing in one line is activated
-    elif (treeDepth == 1 and lastOneLine):
-        finalItem = "  "*lev + "- "
-        for key, val in data.items():
-            keyRef = convKeyRef(key, prevRef)
-            header = parseToCitem(key, keyRef)
-            finalItem = finalItem + header + " | "
-        # remove final additional " | "
-        finalItem = finalItem[:-3]
-        print(finalItem)
+    # #  printing in one line is activated
+    # elif (treeDepth == 1 and lastOneLine):
+    #     finalItem = "  "*lev + "- "
+    #     for key, val in data.items():
+    #         keyRef = convKeyRef(key, prevRef)
+    #         header = parseToCitem(key, keyRef)
+    #         finalItem = finalItem + header + " | "
+    #     # remove final additional " | "
+    #     finalItem = finalItem[:-3]
+    #     print(finalItem)
         # no recursive call as this is a leaf list
 
 ###
