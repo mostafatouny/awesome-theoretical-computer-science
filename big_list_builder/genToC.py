@@ -26,16 +26,16 @@ def genToC(data, printLev, lastOneLine, lev, prevRef):
 
     # case only one list is remaining, and
     #  printing in one line is activated
-    elif (treeDepth == 1 and lastOneLine):
-        finalItem = "  "*lev + "- "
-        for key, val in data.items():
-            keyRef = convKeyRef(key, prevRef)
-            header = parseToCitem(key, keyRef)
-            finalItem = finalItem + header + " | "
-        # remove final additional " | "
-        finalItem = finalItem[:-3]
-        print(finalItem)
-        # no recursive call as this is a leaf list
+    # elif (treeDepth == 1 and lastOneLine):
+    #     finalItem = "  "*lev + "- "
+    #     for key, val in data.items():
+    #         keyRef = convKeyRef(key, prevRef)
+    #         header = parseToCitem(key, keyRef)
+    #         finalItem = finalItem + header + " | "
+    #     # remove final additional " | "
+    #     finalItem = finalItem[:-3]
+    #     print(finalItem)
+    #     # no recursive call as this is a leaf list
 
 ###
 
