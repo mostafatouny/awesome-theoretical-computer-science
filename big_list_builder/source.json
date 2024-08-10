@@ -106,6 +106,16 @@
             "Books": [
                 "[Pudlák. Logical Foundations of Mathematics and Computational Complexity: A Gentle Introduction](https://www.springer.com/gp/book/9783319001180) - Presents a wide range of results in logic and computational complexity."
             ]
+        },
+
+        "Formal Method": {
+            "Lecture Notes": [
+                "[UW CSE505 18au Principles of PL](https://sites.google.com/cs.washington.edu/cse-505-18au/home) - Techniques for thinking crisply about programming languages, write some fascinating programs, and discuss various design tradeoffs."
+            ],
+            "Books": [
+                "[Chlipala. Formal Reasoning About Programs](http://adam.chlipala.net/frap/) - A book introducing both machine-checked proof with the Coq proof assistant and approaches to formal reasoning about program correctness.",
+                "[Pierce. Software Foundations Vol.1 Logical Foundation](https://softwarefoundations.cis.upenn.edu/lf-current/index.html) - Introduction to the mathematical underpinnings of reliable software with Coq Proof Assistant."
+            ]
         }
     },
 
@@ -299,8 +309,8 @@
         "TCS Inspired": {
             "Lecture Videos Playlists": [
                 "[O'Donnell. CS Theory Toolkit](https://www.youtube.com/playlist?list=PLm3J0oaFux3ZYpFLwwrlv_EHH9wtH6pnX) - It covers a large number of the math/CS topics that you need to know for reading and doing research in Computer Science Theory - alternatively: [bilibili](https://www.bilibili.com/video/BV1Ry4y1e7zR)",
-		"[Madhur Tulsiani. Mathematical Toolkit](https://home.ttic.edu/~madhurt/courses/toolkit2021/index.html) - Things prof. Madhur wish he knew in first year of grad school.",
-		"[Harsha & Strivastava. Toolkit for Theoretical Computer Science. Tata Institute](https://www.tifr.res.in/~prahladh/teaching/2020-21/toolkit/)"
+		        "[Madhur Tulsiani. Mathematical Toolkit](https://home.ttic.edu/~madhurt/courses/toolkit2021/index.html) - Things prof. Madhur wish he knew in first year of grad school.",
+		        "[Harsha & Strivastava. Toolkit for Theoretical Computer Science. Tata Institute](https://www.tifr.res.in/~prahladh/teaching/2020-21/toolkit/)"
             ],
             "Lecture Notes": [
                 "[Zhou. A Theorist's Toolkit. Illinois](https://yuanz.web.illinois.edu/teaching/B609fa16/) - It covers a large number of the math/CS topics that you need to know for reading and doing research in Computer Science Theory.",
@@ -331,6 +341,11 @@
         },
         "Transition To Pure Rigour Math": [
             "Velleman. How to Prove it: A Structured Approach. - It transitions from solving problems to proving theorems by teaching them the techniques needed to read and write proofs."
+        ],
+        "Type Theory": [
+            "[Daniel Gratzer. learn-type-theory](https://github.com/jozefg/learn-tt) - A collection of resources for learning type theory and type theory adjacent fields.",
+            "[Type Theory in nLab](https://ncatlab.org/nlab/show/type+theory)",
+            "[Infinity-Type-Cafe. ∞-type Café Summer School](https://infinity-type-cafe.github.io/ntype-cafe-summer-school/) - A summer school on type theory (written in Chinese)"
         ]
     },
 

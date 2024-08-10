@@ -28,6 +28,8 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 - [Logic](#logic)
   - [Computational Complexity](#logic_computational_complexity)
     - [Books](#logic_computational_complexity_books)
+  - [Formal Method](#logic_formal_method)
+    - [Lecture Notes](#logic_formal_method_lecture_notes) | [Books](#logic_formal_method_books)
 - [Algorithms](#algorithms)
   - [General](#algorithms_general)
     - [Lecture Notes](#algorithms_general_lecture_notes) | [Books](#algorithms_general_books)
@@ -59,6 +61,7 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
   - [Discrete Mathematics](#mathlogic_preliminaries_discrete_mathematics)
     - [Lecture Notes](#mathlogic_preliminaries_discrete_mathematics_lecture_notes) | [Books](#mathlogic_preliminaries_discrete_mathematics_books) | [MOOC](#mathlogic_preliminaries_discrete_mathematics_mooc)
   - [Transition To Pure Rigour Math](#mathlogic_preliminaries_transition_to_pure_rigour_math)
+  - [Type Theory](#mathlogic_preliminaries_type_theory)
 - [Surveys & Monographs](#surveys__monographs)
 - [Live Content](#live_content)
   - [Conferences, Workshops, Events, and Talks](#live_content_conferences_workshops_events_and_talks)
@@ -145,6 +148,12 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 ## Computational Complexity<a name=logic_computational_complexity></a>
 ### Books<a name=logic_computational_complexity_books></a>
 - [Pudlák. Logical Foundations of Mathematics and Computational Complexity: A Gentle Introduction](https://www.springer.com/gp/book/9783319001180) - Presents a wide range of results in logic and computational complexity.
+## Formal Method<a name=logic_formal_method></a>
+### Lecture Notes<a name=logic_formal_method_lecture_notes></a>
+- [UW CSE505 18au Principles of PL](https://sites.google.com/cs.washington.edu/cse-505-18au/home) - Techniques for thinking crisply about programming languages, write some fascinating programs, and discuss various design tradeoffs.
+### Books<a name=logic_formal_method_books></a>
+- [Chlipala. Formal Reasoning About Programs](http://adam.chlipala.net/frap/) - A book introducing both machine-checked proof with the Coq proof assistant and approaches to formal reasoning about program correctness.
+- [Pierce. Software Foundations Vol.1 Logical Foundation](https://softwarefoundations.cis.upenn.edu/lf-current/index.html) - Introduction to the mathematical underpinnings of reliable software with Coq Proof Assistant.
 # Algorithms<a name=algorithms></a>
 ## General<a name=algorithms_general></a>
 ### Lecture Notes<a name=algorithms_general_lecture_notes></a>
@@ -299,6 +308,10 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 - [Introduction to Discrete Mathematics for Computer Science. UC San-Diego](https://www.coursera.org/specializations/discrete-mathematics) - Learn the language of Computer Science. Learn the math that defines computer science, and practice applying it through mathematical proofs and Python code.
 ## Transition To Pure Rigour Math<a name=mathlogic_preliminaries_transition_to_pure_rigour_math></a>
 - Velleman. How to Prove it: A Structured Approach. - It transitions from solving problems to proving theorems by teaching them the techniques needed to read and write proofs.
+## Type Theory<a name=mathlogic_preliminaries_type_theory></a>
+- [Daniel Gratzer. learn-type-theory](https://github.com/jozefg/learn-tt) - A collection of resources for learning type theory and type theory adjacent fields.
+- [Type Theory in nLab](https://ncatlab.org/nlab/show/type+theory)
+- [Infinity-Type-Cafe. ∞-type Café Summer School](https://infinity-type-cafe.github.io/ntype-cafe-summer-school/) - A summer school on type theory (written in Chinese)
 # Surveys & Monographs<a name=surveys__monographs></a>
 - [Sommaruga & Strahm. Turing’s Revolution: The Impact of His Ideas about Computability](https://link.springer.com/book/10.1007/978-3-319-22156-4) - A collection of historical, technical and philosophical papers.
 - [Harry Lewis. Ideas That Created the Future: Classic Papers of Computer Science ](https://mitpress.mit.edu/9780262045308/ideas-that-created-the-future/) - Classic papers by thinkers ranging from Aristotle and Leibniz to Norbert Wiener and Gordon Moore that chart the evolution of computer science.
