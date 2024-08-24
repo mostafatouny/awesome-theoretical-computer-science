@@ -25,11 +25,18 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
   - [Computability Theory](#theory_of_computation_computability_theory)
     - [Books](#theory_of_computation_computability_theory_books)
       - [Introductory](#theory_of_computation_computability_theory_books_introductory) | [Advanced](#theory_of_computation_computability_theory_books_advanced) | [Monograph](#theory_of_computation_computability_theory_books_monograph)
+- [Programming Language Theory](#programming_language_theory)
+  - [Basics](#programming_language_theory_basics)
+    - [Books](#programming_language_theory_basics_books)
+  - [Formal Verification](#programming_language_theory_formal_verification)
+    - [Lecture Notes](#programming_language_theory_formal_verification_lecture_notes) | [Books](#programming_language_theory_formal_verification_books)
+  - [Type Theory](#programming_language_theory_type_theory)
+    - [Lecture Notes](#programming_language_theory_type_theory_lecture_notes) | [Books](#programming_language_theory_type_theory_books) | [Others](#programming_language_theory_type_theory_others)
+  - [Functional Programming](#programming_language_theory_functional_programming)
+    - [Lecture Notes](#programming_language_theory_functional_programming_lecture_notes)
 - [Logic](#logic)
   - [Computational Complexity](#logic_computational_complexity)
     - [Books](#logic_computational_complexity_books)
-  - [Formal Method](#logic_formal_method)
-    - [Lecture Notes](#logic_formal_method_lecture_notes) | [Books](#logic_formal_method_books)
 - [Algorithms](#algorithms)
   - [General](#algorithms_general)
     - [Lecture Notes](#algorithms_general_lecture_notes) | [Books](#algorithms_general_books)
@@ -61,7 +68,6 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
   - [Discrete Mathematics](#mathlogic_preliminaries_discrete_mathematics)
     - [Lecture Notes](#mathlogic_preliminaries_discrete_mathematics_lecture_notes) | [Books](#mathlogic_preliminaries_discrete_mathematics_books) | [MOOC](#mathlogic_preliminaries_discrete_mathematics_mooc)
   - [Transition To Pure Rigour Math](#mathlogic_preliminaries_transition_to_pure_rigour_math)
-  - [Type Theory](#mathlogic_preliminaries_type_theory)
 - [Surveys & Monographs](#surveys__monographs)
 - [Live Content](#live_content)
   - [Conferences, Workshops, Events, and Talks](#live_content_conferences_workshops_events_and_talks)
@@ -144,16 +150,34 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 - [Odifreddi. Classical Recursion Theory: The Theory of Functions and Sets of Natural Numbers](https://archive.org/details/classicalrecursi0000odif) - An impressive presentation of classical recursion theory. It is highly recommended to everyone interested in recursion theory.
 #### Monograph<a name=theory_of_computation_computability_theory_books_monograph></a>
 - [Copeland, Posy & Shagrir (editors). Computability: Turing, Gödel, Church, and Beyond](https://mitpress.mit.edu/books/computability) - Computer scientists, mathematicians, and philosophers discuss the conceptual foundations of the notion of computability as well as recent theoretical developments.
+# Programming Language Theory<a name=programming_language_theory></a>
+## Basics<a name=programming_language_theory_basics></a>
+### Books<a name=programming_language_theory_basics_books></a>
+- [Structure and Interpretation of Computer Programs](https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/index.html) - a computer science textbook teaching fundamental principles of computer programming in Scheme, including recursion, abstraction, modularity, and programming language design and implementation.
+- [Structure and Interpretation of Computer Programs, Javascript version](https://sourceacademy.org/sicpjs/index) - SICP rewritten in Javascript
+## Formal Verification<a name=programming_language_theory_formal_verification></a>
+### Lecture Notes<a name=programming_language_theory_formal_verification_lecture_notes></a>
+- [UW CSE505 18au Principles of PL](https://sites.google.com/cs.washington.edu/cse-505-18au/home) - Techniques for thinking crisply about programming languages, write some fascinating programs, and discuss various design tradeoffs.
+### Books<a name=programming_language_theory_formal_verification_books></a>
+- [Pierce. Software Foundations](https://softwarefoundations.cis.upenn.edu/) - A broad introduction series to the mathematical underpinnings of reliable software with Coq proof assistant. It's intended for a broad range of readers, with no specific background assumed.
+- [Chlipala. Formal Reasoning About Programs](http://adam.chlipala.net/frap) - A book introducing both machine-checked proof with Coq Proof Assistant and approaches to formal reasoning about program correctness.
+- [Lean Community. Logic and Proof](https://leanprover.github.io/logic_and_proof) - Introduction to logic and proof with Lean Proof Assistant.
+## Type Theory<a name=programming_language_theory_type_theory></a>
+### Lecture Notes<a name=programming_language_theory_type_theory_lecture_notes></a>
+- [Martin-Löf. Intuitionistic Type Theory](https://raw.githubusercontent.com/michaelt/martin-lof/master/pdfs/Bibliopolis-Book-retypeset-1984.pdf) - Notes by Giovanni Sambin of a series of type theory lectures given in Padua, June 1980.
+### Books<a name=programming_language_theory_type_theory_books></a>
+- [Bengt. Programming in Martin-Löf's Type Theory](https://www.cse.chalmers.se/research/group/logic/book/book.pdf) - This book describes different type theories (theories of types, polymorphic and monomorphic sets, and subsets) from a computing science perspective.
+- [The Univalent Foundations Program Institute for Advanced Study. Homotopy Type Theory: Univalent Foundations of Mathematics](https://homotopytypetheory.org/book) - The present book is intended as a first systematic exposition of the basics of univalent foundations, and a collection of examples of this new style of reasoning — but without requiring the reader to know or learn any formal logic, or to use any computer proof assistant.
+### Others<a name=programming_language_theory_type_theory_others></a>
+- [Type Theory in nLab](https://ncatlab.org/nlab/show/type+theory) - A curated list of mathematics including type theory and proof assistants.
+## Functional Programming<a name=programming_language_theory_functional_programming></a>
+### Lecture Notes<a name=programming_language_theory_functional_programming_lecture_notes></a>
+- [University of Helsinki. Haskell MOOC](https://haskell.mooc.fi) - An online course on functional programming that uses the Haskell programming language.
+- [Cornell. Functional Programming in Ocaml](https://www.cs.cornell.edu/courses/cs3110/2024sp) - A course on data structures and functional programming using OCaml.
 # Logic<a name=logic></a>
 ## Computational Complexity<a name=logic_computational_complexity></a>
 ### Books<a name=logic_computational_complexity_books></a>
 - [Pudlák. Logical Foundations of Mathematics and Computational Complexity: A Gentle Introduction](https://www.springer.com/gp/book/9783319001180) - Presents a wide range of results in logic and computational complexity.
-## Formal Method<a name=logic_formal_method></a>
-### Lecture Notes<a name=logic_formal_method_lecture_notes></a>
-- [UW CSE505 18au Principles of PL](https://sites.google.com/cs.washington.edu/cse-505-18au/home) - Techniques for thinking crisply about programming languages, write some fascinating programs, and discuss various design tradeoffs.
-### Books<a name=logic_formal_method_books></a>
-- [Chlipala. Formal Reasoning About Programs](http://adam.chlipala.net/frap/) - A book introducing both machine-checked proof with the Coq proof assistant and approaches to formal reasoning about program correctness.
-- [Pierce. Software Foundations Vol.1 Logical Foundation](https://softwarefoundations.cis.upenn.edu/lf-current/index.html) - Introduction to the mathematical underpinnings of reliable software with Coq Proof Assistant.
 # Algorithms<a name=algorithms></a>
 ## General<a name=algorithms_general></a>
 ### Lecture Notes<a name=algorithms_general_lecture_notes></a>
@@ -308,10 +332,6 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 - [Introduction to Discrete Mathematics for Computer Science. UC San-Diego](https://www.coursera.org/specializations/discrete-mathematics) - Learn the language of Computer Science. Learn the math that defines computer science, and practice applying it through mathematical proofs and Python code.
 ## Transition To Pure Rigour Math<a name=mathlogic_preliminaries_transition_to_pure_rigour_math></a>
 - Velleman. How to Prove it: A Structured Approach. - It transitions from solving problems to proving theorems by teaching them the techniques needed to read and write proofs.
-## Type Theory<a name=mathlogic_preliminaries_type_theory></a>
-- [Daniel Gratzer. learn-type-theory](https://github.com/jozefg/learn-tt) - A collection of resources for learning type theory and type theory adjacent fields.
-- [Type Theory in nLab](https://ncatlab.org/nlab/show/type+theory)
-- [Infinity-Type-Cafe. ∞-type Café Summer School](https://infinity-type-cafe.github.io/ntype-cafe-summer-school/) - A summer school on type theory (written in Chinese)
 # Surveys & Monographs<a name=surveys__monographs></a>
 - [Sommaruga & Strahm. Turing’s Revolution: The Impact of His Ideas about Computability](https://link.springer.com/book/10.1007/978-3-319-22156-4) - A collection of historical, technical and philosophical papers.
 - [Harry Lewis. Ideas That Created the Future: Classic Papers of Computer Science ](https://mitpress.mit.edu/9780262045308/ideas-that-created-the-future/) - Classic papers by thinkers ranging from Aristotle and Leibniz to Norbert Wiener and Gordon Moore that chart the evolution of computer science.
