@@ -101,6 +101,14 @@
         }
     },
 
+    "Logic": {
+        "Computational Complexity": {
+            "Books": [
+                "[Pudlák. Logical Foundations of Mathematics and Computational Complexity: A Gentle Introduction](https://www.springer.com/gp/book/9783319001180) - Presents a wide range of results in logic and computational complexity."
+            ]
+        }
+  },
+
     "Programming Language Theory": {
 
         "Basics": {
@@ -143,14 +151,6 @@
             ]
         }
     },
-
-    "Logic": {
-        "Computational Complexity": {
-            "Books": [
-                "[Pudlák. Logical Foundations of Mathematics and Computational Complexity: A Gentle Introduction](https://www.springer.com/gp/book/9783319001180) - Presents a wide range of results in logic and computational complexity."
-            ]
-        }
-  },
 
     "Algorithms": {
         "General": {

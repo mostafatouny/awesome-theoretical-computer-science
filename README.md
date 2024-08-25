@@ -25,6 +25,9 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
   - [Computability Theory](#theory_of_computation_computability_theory)
     - [Books](#theory_of_computation_computability_theory_books)
       - [Introductory](#theory_of_computation_computability_theory_books_introductory) | [Advanced](#theory_of_computation_computability_theory_books_advanced) | [Monograph](#theory_of_computation_computability_theory_books_monograph)
+- [Logic](#logic)
+  - [Computational Complexity](#logic_computational_complexity)
+    - [Books](#logic_computational_complexity_books)
 - [Programming Language Theory](#programming_language_theory)
   - [Basics](#programming_language_theory_basics)
     - [Books](#programming_language_theory_basics_books)
@@ -36,9 +39,6 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
     - [Lecture Notes](#programming_language_theory_type_theory_lecture_notes) | [Books](#programming_language_theory_type_theory_books)
   - [Functional Programming](#programming_language_theory_functional_programming)
     - [Lecture Notes](#programming_language_theory_functional_programming_lecture_notes)
-- [Logic](#logic)
-  - [Computational Complexity](#logic_computational_complexity)
-    - [Books](#logic_computational_complexity_books)
 - [Algorithms](#algorithms)
   - [General](#algorithms_general)
     - [Lecture Notes](#algorithms_general_lecture_notes) | [Books](#algorithms_general_books)
@@ -152,6 +152,10 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 - [Odifreddi. Classical Recursion Theory: The Theory of Functions and Sets of Natural Numbers](https://archive.org/details/classicalrecursi0000odif) - An impressive presentation of classical recursion theory. It is highly recommended to everyone interested in recursion theory.
 #### Monograph<a name=theory_of_computation_computability_theory_books_monograph></a>
 - [Copeland, Posy & Shagrir (editors). Computability: Turing, Gödel, Church, and Beyond](https://mitpress.mit.edu/books/computability) - Computer scientists, mathematicians, and philosophers discuss the conceptual foundations of the notion of computability as well as recent theoretical developments.
+# Logic<a name=logic></a>
+## Computational Complexity<a name=logic_computational_complexity></a>
+### Books<a name=logic_computational_complexity_books></a>
+- [Pudlák. Logical Foundations of Mathematics and Computational Complexity: A Gentle Introduction](https://www.springer.com/gp/book/9783319001180) - Presents a wide range of results in logic and computational complexity.
 # Programming Language Theory<a name=programming_language_theory></a>
 ## Basics<a name=programming_language_theory_basics></a>
 ### Books<a name=programming_language_theory_basics_books></a>
@@ -176,10 +180,6 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 ### Lecture Notes<a name=programming_language_theory_functional_programming_lecture_notes></a>
 - [Helsinki. Haskell MOOC](https://haskell.mooc.fi) - An online course on functional programming with Haskell programming language, and a live interactive Telegram community.
 - [Cornell. Functional Programming in Ocaml](https://www.cs.cornell.edu/courses/cs3110/2024sp) - A modern course on data structures and functional programming using OCaml.
-# Logic<a name=logic></a>
-## Computational Complexity<a name=logic_computational_complexity></a>
-### Books<a name=logic_computational_complexity_books></a>
-- [Pudlák. Logical Foundations of Mathematics and Computational Complexity: A Gentle Introduction](https://www.springer.com/gp/book/9783319001180) - Presents a wide range of results in logic and computational complexity.
 # Algorithms<a name=algorithms></a>
 ## General<a name=algorithms_general></a>
 ### Lecture Notes<a name=algorithms_general_lecture_notes></a>
