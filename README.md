@@ -28,10 +28,12 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 - [Programming Language Theory](#programming_language_theory)
   - [Basics](#programming_language_theory_basics)
     - [Books](#programming_language_theory_basics_books)
+  - [Introductory](#programming_language_theory_introductory)
+    - [Books](#programming_language_theory_introductory_books)
   - [Formal Verification](#programming_language_theory_formal_verification)
     - [Lecture Notes](#programming_language_theory_formal_verification_lecture_notes) | [Books](#programming_language_theory_formal_verification_books)
   - [Type Theory](#programming_language_theory_type_theory)
-    - [Lecture Notes](#programming_language_theory_type_theory_lecture_notes) | [Books](#programming_language_theory_type_theory_books) | [Others](#programming_language_theory_type_theory_others)
+    - [Lecture Notes](#programming_language_theory_type_theory_lecture_notes) | [Books](#programming_language_theory_type_theory_books)
   - [Functional Programming](#programming_language_theory_functional_programming)
     - [Lecture Notes](#programming_language_theory_functional_programming_lecture_notes)
 - [Logic](#logic)
@@ -79,7 +81,7 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
   - [Online Communities](#live_content_online_communities)
 - [Other Resources](#other_resources)
   - [Blog Posts and Essays](#other_resources_blog_posts_and_essays) | [Special Magazines and Workshops](#other_resources_special_magazines_and_workshops) | [Popular Science Books](#other_resources_popular_science_books) | [Cheat Sheets](#other_resources_cheat_sheets) | [Network Groups](#other_resources_network_groups)
-- [Related Awesome Lists](#related_awesome_lists)
+- [Related Lists](#related_lists)
 
 ---
 
@@ -153,27 +155,27 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 # Programming Language Theory<a name=programming_language_theory></a>
 ## Basics<a name=programming_language_theory_basics></a>
 ### Books<a name=programming_language_theory_basics_books></a>
-- [Structure and Interpretation of Computer Programs](https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/index.html) - a computer science textbook teaching fundamental principles of computer programming in Scheme, including recursion, abstraction, modularity, and programming language design and implementation.
-- [Structure and Interpretation of Computer Programs, Javascript version](https://sourceacademy.org/sicpjs/index) - SICP rewritten in Javascript
+- Structure and Interpretation of Computer Programs - [MIT OCW](https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/pages/syllabus/), [HTML book](https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/index.html), [Byford's playlist](https://www.youtube.com/playlist?list=PL7BcsI5ueSNFPCEisbaoQ0kXIDX9rR5FF), [Javascript book](https://github.com/source-academy/sicp?tab=readme-ov-file), [Python book](https://wizardforcel.gitbooks.io/sicp-in-python/content/index.html), [Berkeley](https://romanbird.github.io/sicp/#e682e189-1f90-4713-9dfe-35c92b7d1cdf) - Fundamental principles of computer programming in Scheme, including recursion, abstraction, modularity, and programming language design and implementation.
+## Introductory<a name=programming_language_theory_introductory></a>
+### Books<a name=programming_language_theory_introductory_books></a>
+- [Pennsylvania. Software Foundations](https://softwarefoundations.cis.upenn.edu/) - A broad introduction series to the mathematical underpinnings of reliable software. It's composed of proof scripts for the Coq proof assistant. It's is intended for a broad range of readers, With no specific background assumed.
 ## Formal Verification<a name=programming_language_theory_formal_verification></a>
 ### Lecture Notes<a name=programming_language_theory_formal_verification_lecture_notes></a>
 - [UW CSE505 18au Principles of PL](https://sites.google.com/cs.washington.edu/cse-505-18au/home) - Techniques for thinking crisply about programming languages, write some fascinating programs, and discuss various design tradeoffs.
 ### Books<a name=programming_language_theory_formal_verification_books></a>
 - [Pierce. Software Foundations](https://softwarefoundations.cis.upenn.edu/) - A broad introduction series to the mathematical underpinnings of reliable software with Coq proof assistant. It's intended for a broad range of readers, with no specific background assumed.
 - [Chlipala. Formal Reasoning About Programs](http://adam.chlipala.net/frap) - A book introducing both machine-checked proof with Coq Proof Assistant and approaches to formal reasoning about program correctness.
-- [Lean Community. Logic and Proof](https://leanprover.github.io/logic_and_proof) - Introduction to logic and proof with Lean Proof Assistant.
+- [Lean Proof Assistant](https://lean-lang.org/documentation/) - Lean Proof Assistant.
 ## Type Theory<a name=programming_language_theory_type_theory></a>
 ### Lecture Notes<a name=programming_language_theory_type_theory_lecture_notes></a>
 - [Martin-Löf. Intuitionistic Type Theory](https://raw.githubusercontent.com/michaelt/martin-lof/master/pdfs/Bibliopolis-Book-retypeset-1984.pdf) - Notes by Giovanni Sambin of a series of type theory lectures given in Padua, June 1980.
 ### Books<a name=programming_language_theory_type_theory_books></a>
 - [Bengt. Programming in Martin-Löf's Type Theory](https://www.cse.chalmers.se/research/group/logic/book/book.pdf) - This book describes different type theories (theories of types, polymorphic and monomorphic sets, and subsets) from a computing science perspective.
 - [The Univalent Foundations Program Institute for Advanced Study. Homotopy Type Theory: Univalent Foundations of Mathematics](https://homotopytypetheory.org/book) - The present book is intended as a first systematic exposition of the basics of univalent foundations, and a collection of examples of this new style of reasoning — but without requiring the reader to know or learn any formal logic, or to use any computer proof assistant.
-### Others<a name=programming_language_theory_type_theory_others></a>
-- [Type Theory in nLab](https://ncatlab.org/nlab/show/type+theory) - A curated list of mathematics including type theory and proof assistants.
 ## Functional Programming<a name=programming_language_theory_functional_programming></a>
 ### Lecture Notes<a name=programming_language_theory_functional_programming_lecture_notes></a>
-- [University of Helsinki. Haskell MOOC](https://haskell.mooc.fi) - An online course on functional programming that uses the Haskell programming language.
-- [Cornell. Functional Programming in Ocaml](https://www.cs.cornell.edu/courses/cs3110/2024sp) - A course on data structures and functional programming using OCaml.
+- [Helsinki. Haskell MOOC](https://haskell.mooc.fi) - An online course on functional programming with Haskell programming language, and a live interactive Telegram community.
+- [Cornell. Functional Programming in Ocaml](https://www.cs.cornell.edu/courses/cs3110/2024sp) - A modern course on data structures and functional programming using OCaml.
 # Logic<a name=logic></a>
 ## Computational Complexity<a name=logic_computational_complexity></a>
 ### Books<a name=logic_computational_complexity_books></a>
@@ -416,9 +418,10 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 - [PolyTCS](https://polytcs.wordpress.com/) - A project which promotes massive collaborations to solve theoretical computer science problems.
 - [Complexity Network](https://sites.google.com/view/complexitynetwork/home) - Hosts collaboration between the three computational complexity groups at Imperial College London, University of Oxford and University of Warwick. It promotes smooth flow of ideas between the three groups and beyond.
 - [List of TCS Conferences and Workshops](https://cstheory.blogoverflow.com/theoretical-computer-science-conferences-and-workshops/) - A list of conferences and workshops in theoretical computer science.
-# Related Awesome Lists<a name=related_awesome_lists></a>
-- [Algorithms](https://github.com/tayllan/awesome-algorithms) - Awesome list for design and analysis of algorithms
-- [Mathematics](https://github.com/rossant/awesome-math) - Awesome list for freely available lecture notes on mathematics
-- [Cryptography](https://github.com/sobolevn/awesome-cryptography) - Awesome list for cryptography
-- [Quantum Computing](https://github.com/desireevl/awesome-quantum-computing) - Awesome list for quantum computing
-- P.S. See also [Math](https://github.com/ossu/math) and [CS](https://github.com/ossu/computer-science) curricula by [Open Source Society University](https://github.com/ossu)
+# Related Lists<a name=related_lists></a>
+- [Algorithms](https://github.com/tayllan/awesome-algorithms)
+- [Mathematics](https://github.com/rossant/awesome-math) - Freely available lecture notes on mathematics
+- Logic, Math, Proof assistants, and Type Theory - [nLab](https://ncatlab.org/nlab/show/mathematics), [Gratzer](https://github.com/jozefg/learn-tt) - Type theory and proof assistants.
+- [Cryptography](https://github.com/sobolevn/awesome-cryptography)
+- [Quantum Computing](https://github.com/desireevl/awesome-quantum-computing)
+- [Math](https://github.com/ossu/math) and [CS](https://github.com/ossu/computer-science) curricula by [Open Source Society University](https://github.com/ossu)

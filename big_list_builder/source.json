@@ -102,10 +102,16 @@
     },
 
     "Programming Language Theory": {
+
         "Basics": {
             "Books": [
-                "[Structure and Interpretation of Computer Programs](https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/index.html) - a computer science textbook teaching fundamental principles of computer programming in Scheme, including recursion, abstraction, modularity, and programming language design and implementation.",
-                "[Structure and Interpretation of Computer Programs, Javascript version](https://sourceacademy.org/sicpjs/index) - SICP rewritten in Javascript"
+                "Structure and Interpretation of Computer Programs - [MIT OCW](https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/pages/syllabus/), [HTML book](https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/index.html), [Byford's playlist](https://www.youtube.com/playlist?list=PL7BcsI5ueSNFPCEisbaoQ0kXIDX9rR5FF), [Javascript book](https://github.com/source-academy/sicp?tab=readme-ov-file), [Python book](https://wizardforcel.gitbooks.io/sicp-in-python/content/index.html), [Berkeley](https://romanbird.github.io/sicp/#e682e189-1f90-4713-9dfe-35c92b7d1cdf) - Fundamental principles of computer programming in Scheme, including recursion, abstraction, modularity, and programming language design and implementation."
+            ]
+        },
+        
+        "Introductory": {
+            "Books": [
+                "[Pennsylvania. Software Foundations](https://softwarefoundations.cis.upenn.edu/) - A broad introduction series to the mathematical underpinnings of reliable software. It's composed of proof scripts for the Coq proof assistant. It's is intended for a broad range of readers, With no specific background assumed."
             ]
         },
 
@@ -116,7 +122,7 @@
             "Books": [
                 "[Pierce. Software Foundations](https://softwarefoundations.cis.upenn.edu/) - A broad introduction series to the mathematical underpinnings of reliable software with Coq proof assistant. It's intended for a broad range of readers, with no specific background assumed.",
                 "[Chlipala. Formal Reasoning About Programs](http://adam.chlipala.net/frap) - A book introducing both machine-checked proof with Coq Proof Assistant and approaches to formal reasoning about program correctness.",
-                "[Lean Community. Logic and Proof](https://leanprover.github.io/logic_and_proof) - Introduction to logic and proof with Lean Proof Assistant."
+                "[Lean Proof Assistant](https://lean-lang.org/documentation/) - Lean Proof Assistant."
             ]
         },
 
@@ -127,16 +133,13 @@
             "Books": [
                 "[Bengt. Programming in Martin-Löf's Type Theory](https://www.cse.chalmers.se/research/group/logic/book/book.pdf) - This book describes different type theories (theories of types, polymorphic and monomorphic sets, and subsets) from a computing science perspective.",
                 "[The Univalent Foundations Program Institute for Advanced Study. Homotopy Type Theory: Univalent Foundations of Mathematics](https://homotopytypetheory.org/book) - The present book is intended as a first systematic exposition of the basics of univalent foundations, and a collection of examples of this new style of reasoning — but without requiring the reader to know or learn any formal logic, or to use any computer proof assistant."
-            ],
-            "Others": [
-                "[Type Theory in nLab](https://ncatlab.org/nlab/show/type+theory) - A curated list of mathematics including type theory and proof assistants."
             ]
         },
     
         "Functional Programming": {
             "Lecture Notes": [
-                "[University of Helsinki. Haskell MOOC](https://haskell.mooc.fi) - An online course on functional programming that uses the Haskell programming language.",
-                "[Cornell. Functional Programming in Ocaml](https://www.cs.cornell.edu/courses/cs3110/2024sp) - A course on data structures and functional programming using OCaml."
+                "[Helsinki. Haskell MOOC](https://haskell.mooc.fi) - An online course on functional programming with Haskell programming language, and a live interactive Telegram community.",
+                "[Cornell. Functional Programming in Ocaml](https://www.cs.cornell.edu/courses/cs3110/2024sp) - A modern course on data structures and functional programming using OCaml."
             ]
         }
     },
@@ -339,8 +342,8 @@
         "TCS Inspired": {
             "Lecture Videos Playlists": [
                 "[O'Donnell. CS Theory Toolkit](https://www.youtube.com/playlist?list=PLm3J0oaFux3ZYpFLwwrlv_EHH9wtH6pnX) - It covers a large number of the math/CS topics that you need to know for reading and doing research in Computer Science Theory - alternatively: [bilibili](https://www.bilibili.com/video/BV1Ry4y1e7zR)",
-		    "[Madhur Tulsiani. Mathematical Toolkit](https://home.ttic.edu/~madhurt/courses/toolkit2021/index.html) - Things prof. Madhur wish he knew in first year of grad school.",
-		    "[Harsha & Strivastava. Toolkit for Theoretical Computer Science. Tata Institute](https://www.tifr.res.in/~prahladh/teaching/2020-21/toolkit/)"
+                "[Madhur Tulsiani. Mathematical Toolkit](https://home.ttic.edu/~madhurt/courses/toolkit2021/index.html) - Things prof. Madhur wish he knew in first year of grad school.",
+                "[Harsha & Strivastava. Toolkit for Theoretical Computer Science. Tata Institute](https://www.tifr.res.in/~prahladh/teaching/2020-21/toolkit/)"
             ],
             "Lecture Notes": [
                 "[Zhou. A Theorist's Toolkit. Illinois](https://yuanz.web.illinois.edu/teaching/B609fa16/) - It covers a large number of the math/CS topics that you need to know for reading and doing research in Computer Science Theory.",
@@ -479,11 +482,12 @@
         ]
     },
 
-    "Related Awesome Lists": [
-        "[Algorithms](https://github.com/tayllan/awesome-algorithms) - Awesome list for design and analysis of algorithms",
-        "[Mathematics](https://github.com/rossant/awesome-math) - Awesome list for freely available lecture notes on mathematics",
-        "[Cryptography](https://github.com/sobolevn/awesome-cryptography) - Awesome list for cryptography",
-        "[Quantum Computing](https://github.com/desireevl/awesome-quantum-computing) - Awesome list for quantum computing",
-        "P.S. See also [Math](https://github.com/ossu/math) and [CS](https://github.com/ossu/computer-science) curricula by [Open Source Society University](https://github.com/ossu)"
+    "Related Lists": [
+        "[Algorithms](https://github.com/tayllan/awesome-algorithms)",
+        "[Mathematics](https://github.com/rossant/awesome-math) - Freely available lecture notes on mathematics",
+        "Logic, Math, Proof assistants, and Type Theory - [nLab](https://ncatlab.org/nlab/show/mathematics), [Gratzer](https://github.com/jozefg/learn-tt) - Type theory and proof assistants.",
+        "[Cryptography](https://github.com/sobolevn/awesome-cryptography)",
+        "[Quantum Computing](https://github.com/desireevl/awesome-quantum-computing)",
+        "[Math](https://github.com/ossu/math) and [CS](https://github.com/ossu/computer-science) curricula by [Open Source Society University](https://github.com/ossu)"
     ]
 }
