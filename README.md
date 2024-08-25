@@ -421,7 +421,7 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 # Related Lists<a name=related_lists></a>
 - [Algorithms](https://github.com/tayllan/awesome-algorithms)
 - [Mathematics](https://github.com/rossant/awesome-math) - Freely available lecture notes on mathematics
-- Logic, Math, Proof assistants, and Type Theory - [nLab](https://ncatlab.org/nlab/show/mathematics), [Gratzer](https://github.com/jozefg/learn-tt) - Type theory and proof assistants.
+- [nLab](https://ncatlab.org/nlab/show/mathematics) & [Gratzer](https://github.com/jozefg/learn-tt) - Logic, Math, Proof Assistants, and Type Theory.
 - [Cryptography](https://github.com/sobolevn/awesome-cryptography)
 - [Quantum Computing](https://github.com/desireevl/awesome-quantum-computing)
 - [Math](https://github.com/ossu/math) and [CS](https://github.com/ossu/computer-science) curricula by [Open Source Society University](https://github.com/ossu)
