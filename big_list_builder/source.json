@@ -1,4 +1,3 @@
-
 {
     "Broad Intros": {
         "Books" : [
@@ -119,7 +118,7 @@
         
         "Introductory": {
             "Books": [
-                "[Pennsylvania. Software Foundations](https://softwarefoundations.cis.upenn.edu/) - A broad introduction series to the mathematical underpinnings of reliable software. It's composed of proof scripts for the Coq proof assistant. It's is intended for a broad range of readers, With no specific background assumed."
+                "[Pierce. Software Foundations. Pennsylvania](https://softwarefoundations.cis.upenn.edu/) - A broad introduction series to the mathematical underpinnings of reliable software. It's composed of proof scripts for the Coq proof assistant. It's is intended for a broad range of readers, With no specific background assumed."
             ]
         },
 
@@ -128,7 +127,6 @@
                 "[UW CSE505 18au Principles of PL](https://sites.google.com/cs.washington.edu/cse-505-18au/home) - Techniques for thinking crisply about programming languages, write some fascinating programs, and discuss various design tradeoffs."
             ],
             "Books": [
-                "[Pierce. Software Foundations](https://softwarefoundations.cis.upenn.edu/) - A broad introduction series to the mathematical underpinnings of reliable software with Coq proof assistant. It's intended for a broad range of readers, with no specific background assumed.",
                 "[Chlipala. Formal Reasoning About Programs](http://adam.chlipala.net/frap) - A book introducing both machine-checked proof with Coq Proof Assistant and approaches to formal reasoning about program correctness.",
                 "[Lean Proof Assistant](https://lean-lang.org/documentation/) - Lean Proof Assistant."
             ]
