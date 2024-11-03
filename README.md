@@ -371,10 +371,9 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 ## Blogs Aggregators<a name=live_content_blogs_aggregators></a>
 - [Theory of Computing Blog Aggregator](https://theory.report/) - A blog Aggregator for all blogs related to TCS.
 ## Jobs Aggregators<a name=live_content_jobs_aggregators></a>
+- [Rubinstein & Weinberg. Research Masters in TCS](https://www.cs.princeton.edu/~smattw/masters/masters.html) - A list of master programs in TCS.
 - [CS Theory Jobs](https://cstheory-jobs.org) - TCS Jobs announcements.
 - [Yaroslavtsev. Hires spreadsheet 2022](http://grigory.us/blog/posts/) - A crowdsourced spreadsheet created to collect information about theory hires in year 2022.
-- [Rubinstein & Weinberg. Research Masters in TCS](https://www.cs.princeton.edu/~smattw/masters/masters.html) - A list of master programs in TCS.
-- [Barak. Research Masters in TCS](https://docs.google.com/spreadsheets/d/1znVmERIVm2Fz2cbYjXE97VH9eIx7UdaLh5n3FBYb8o8/edit?usp=sharing) - A list of master programs in TCS.
 ## Online Communities<a name=live_content_online_communities></a>
 - [TCS Stack Exchange](https://cstheory.stackexchange.com/) - Stack Exchange (QnA) of theoretical computer science.
 - [TCS Subreddit](https://www.reddit.com/r/theoreticalcs)- Theoretical computer science's subreddit.
