@@ -201,6 +201,15 @@
             "Books": [
                 "Fedor Fomin. Parametrized Algorithms - Modern comprehensive explanation of recent tools and techniques with exercises, for graduate students."
             ]
+        },
+
+        "Learning-augmented": {
+            "Lecture Notes": [
+                "[Indyk & Daskalakis. Learning-augmented Algorithms. MIT](https://stellar.mit.edu/S/course/6/sp19/6.890/materials.html)"
+            ],
+            "Big List": [
+                "[Algorithms with Predictions](https://algorithms-with-predictions.github.io/)"
+            ]
         }
     },
     

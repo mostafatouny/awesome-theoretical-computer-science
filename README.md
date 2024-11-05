@@ -49,6 +49,8 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
     - [Lecture Notes](#algorithms_approximation_lecture_notes) | [Books](#algorithms_approximation_books)
   - [Parameterized](#algorithms_parameterized)
     - [Lecture Videos Playlist](#algorithms_parameterized_lecture_videos_playlist) | [Books](#algorithms_parameterized_books)
+  - [Learning-augmented](#algorithms_learning-augmented)
+    - [Lecture Notes](#algorithms_learning-augmented_lecture_notes) | [Big List](#algorithms_learning-augmented_big_list)
 - [Information/Coding Theory](#informationcoding_theory)
   - [Lecture Notes](#informationcoding_theory_lecture_notes) | [Workshops](#informationcoding_theory_workshops) | [Conferences](#informationcoding_theory_conferences)
 - [Cryptography](#cryptography)
@@ -219,6 +221,11 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 - [Parametarized Algorithms by Warsaw](https://www.youtube.com/playlist?list=PLzdZSKerwrXpr6hWq1s63a42YbkocAK1Q)
 ### Books<a name=algorithms_parameterized_books></a>
 - Fedor Fomin. Parametrized Algorithms - Modern comprehensive explanation of recent tools and techniques with exercises, for graduate students.
+## Learning-augmented<a name=algorithms_learning-augmented></a>
+### Lecture Notes<a name=algorithms_learning-augmented_lecture_notes></a>
+- [Indyk & Daskalakis. Learning-augmented Algorithms. MIT](https://stellar.mit.edu/S/course/6/sp19/6.890/materials.html)
+### Big List<a name=algorithms_learning-augmented_big_list></a>
+- [Algorithms with Predictions](https://algorithms-with-predictions.github.io/)
 # Information/Coding Theory<a name=informationcoding_theory></a>
 ## Lecture Notes<a name=informationcoding_theory_lecture_notes></a>
 - [Madhu Sudan. Essential Coding Theory](http://people.seas.harvard.edu/~madhusudan/courses/Spring2020/) - Some elements of Algorithmic tasks of encoding and decoding and its connections with error-correction; These codes are now tools in the design and analysis of algorithms, and also in many aspects of computational complexity. The focus is on constructions of algorithmic and asymptotic importance. Requires only basic mathematical maturity.
