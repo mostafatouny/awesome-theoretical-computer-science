@@ -154,6 +154,7 @@
     "Algorithms": {
         "General": {
             "Lecture Notes": [
+                "[Erik Demaine. Advanced Data Structures. MIT](https://ocw.mit.edu/courses/6-851-advanced-data-structures-spring-2012/) - It covers major results and current directions of research in data structure.",
                 "[Arora. Advanced Algorithm Design](https://www.cs.princeton.edu/courses/archive/fall15/cos521/) - Notably uses ideas such as randomness, approximation, high dimensional geometry. Faces uncertainty, approaches to handle big data, handling intractability, heuristic approaches, ..etc."
             ],
             "Books": [

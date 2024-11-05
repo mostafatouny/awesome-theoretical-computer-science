@@ -191,6 +191,7 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 # Algorithms<a name=algorithms></a>
 ## General<a name=algorithms_general></a>
 ### Lecture Notes<a name=algorithms_general_lecture_notes></a>
+- [Erik Demaine. Advanced Data Structures. MIT](https://ocw.mit.edu/courses/6-851-advanced-data-structures-spring-2012/) - It covers major results and current directions of research in data structure.
 - [Arora. Advanced Algorithm Design](https://www.cs.princeton.edu/courses/archive/fall15/cos521/) - Notably uses ideas such as randomness, approximation, high dimensional geometry. Faces uncertainty, approaches to handle big data, handling intractability, heuristic approaches, ..etc.
 ### Books<a name=algorithms_general_books></a>
 - [Knuth. The Art of Computer Programming](https://en.wikipedia.org/wiki/The_Art_of_Computer_Programming) - A legendary series by Donald Knuth on design and analysis of algorithms.
