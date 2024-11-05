@@ -48,7 +48,7 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
   - [Approximation](#algorithms_approximation)
     - [Lecture Notes](#algorithms_approximation_lecture_notes) | [Books](#algorithms_approximation_books)
   - [Parameterized](#algorithms_parameterized)
-    - [Books](#algorithms_parameterized_books)
+    - [Lecture Videos Playlist](#algorithms_parameterized_lecture_videos_playlist) | [Books](#algorithms_parameterized_books)
 - [Information/Coding Theory](#informationcoding_theory)
   - [Lecture Notes](#informationcoding_theory_lecture_notes) | [Workshops](#informationcoding_theory_workshops) | [Conferences](#informationcoding_theory_conferences)
 - [Cryptography](#cryptography)
@@ -67,7 +67,13 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
   - [TCS Inspired](#mathlogic_preliminaries_tcs_inspired)
     - [Lecture Videos Playlists](#mathlogic_preliminaries_tcs_inspired_lecture_videos_playlists) | [Lecture Notes](#mathlogic_preliminaries_tcs_inspired_lecture_notes) | [Books](#mathlogic_preliminaries_tcs_inspired_books)
   - [Discrete Mathematics](#mathlogic_preliminaries_discrete_mathematics)
-    - [Lecture Notes](#mathlogic_preliminaries_discrete_mathematics_lecture_notes) | [Books](#mathlogic_preliminaries_discrete_mathematics_books) | [MOOC](#mathlogic_preliminaries_discrete_mathematics_mooc)
+    - [General](#mathlogic_preliminaries_discrete_mathematics_general)
+      - [Lecture Notes](#mathlogic_preliminaries_discrete_mathematics_general_lecture_notes) | [Books](#mathlogic_preliminaries_discrete_mathematics_general_books) | [MOOC](#mathlogic_preliminaries_discrete_mathematics_general_mooc)
+    - [Probabilistic Method](#mathlogic_preliminaries_discrete_mathematics_probabilistic_method)
+      - [Lecture Notes](#mathlogic_preliminaries_discrete_mathematics_probabilistic_method_lecture_notes) | [Lecture Videos Playlist](#mathlogic_preliminaries_discrete_mathematics_probabilistic_method_lecture_videos_playlist) | [Books](#mathlogic_preliminaries_discrete_mathematics_probabilistic_method_books)
+    - [Graph Theory](#mathlogic_preliminaries_discrete_mathematics_graph_theory)
+      - [Lecture Videos Playlist](#mathlogic_preliminaries_discrete_mathematics_graph_theory_lecture_videos_playlist)
+    - [Other](#mathlogic_preliminaries_discrete_mathematics_other)
   - [Transition To Pure Rigour Math](#mathlogic_preliminaries_transition_to_pure_rigour_math)
 - [Surveys & Monographs](#surveys__monographs)
 - [Community](#community)
@@ -209,6 +215,8 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 - [Du & Ko. Design and Analysis of Approximation Algorithms](https://u.pcloud.link/publink/show?code=XZpzNWXZSCkVs6BKd5RzyNhoRzfJCJoaqSok) - A technique-oriented approach provides a unified view. It includes detailed algorithms, proofs, analyses, examples, and applications from research papers.
 - [Vijay Vazirani. Approximation Algorithms](https://u.pcloud.link/publink/show?code=XZgHNWXZkdvT8L18drSSgLP9vqBIDmbPreD7)
 ## Parameterized<a name=algorithms_parameterized></a>
+### Lecture Videos Playlist<a name=algorithms_parameterized_lecture_videos_playlist></a>
+- [Parametarized Algorithms by Warsaw](https://www.youtube.com/playlist?list=PLzdZSKerwrXpr6hWq1s63a42YbkocAK1Q)
 ### Books<a name=algorithms_parameterized_books></a>
 - Fedor Fomin. Parametrized Algorithms - Modern comprehensive explanation of recent tools and techniques with exercises, for graduate students.
 # Information/Coding Theory<a name=informationcoding_theory></a>
@@ -317,18 +325,29 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 ### Books<a name=mathlogic_preliminaries_tcs_inspired_books></a>
 - [Jukna. Extremal Combinatorics](https://web.vu.lt/mif/s.jukna/EC_Book_2nd/index.html) - Combinatorial techniques written largely with an eye to their applications in TCS, and mostly in complexity
 ## Discrete Mathematics<a name=mathlogic_preliminaries_discrete_mathematics></a>
-### Lecture Notes<a name=mathlogic_preliminaries_discrete_mathematics_lecture_notes></a>
+### General<a name=mathlogic_preliminaries_discrete_mathematics_general></a>
+#### Lecture Notes<a name=mathlogic_preliminaries_discrete_mathematics_general_lecture_notes></a>
 - [Aspnes. Notes on Discrete Mathematics](https://www.cs.yale.edu/homes/aspnes/classes/202/notes.pdf) - Fall 2017 of the Yale course CPSC 202a, Mathematical Tools for Computer Science.
 - [Halpern. CS 2802: Discrete Structures - Honors. 2020. Cornell](https://www.cs.cornell.edu/courses/cs2802/2020fa/cs2802-20f-notes.html) - Honors lecture notes on discrete math - [Homework](https://www.cs.cornell.edu/courses/cs2802/2020fa/cs2802-20f-homework.html)
-### Books<a name=mathlogic_preliminaries_discrete_mathematics_books></a>
-- [Alon & Spencer. The Probabilistic Method](https://www.wiley.com/en-us/The+Probabilistic+Method%2C+4th+Edition-p-9781119061953) -  A standard reference for researchers in probabilistic methods in combinatorics. Shows also connections to theoretical computer science.
-- [Rosen. Discrete Mathematics and Its Applications](https://www.mheducation.com/highered/product/discrete-mathematics-applications-rosen/M9780073383095.html) - A canonical discrete math textbook, accessible for even high school students.
+#### Books<a name=mathlogic_preliminaries_discrete_mathematics_general_books></a>
 - [Rosen. Handbook of Discrete and Combinatorial Mathematics](https://www.taylorfrancis.com/books/handbook-discrete-combinatorial-mathematics-kenneth-rosen-douglas-shier-wayne-goddard/e/10.1201/9781315156484) - A complete survey of roughly all topics of discrete math and their relevance to computing and communication engineering.
+- [Rosen. Discrete Mathematics and Its Applications](https://www.mheducation.com/highered/product/discrete-mathematics-applications-rosen/M9780073383095.html) - A canonical discrete math textbook, accessible for even high school students.
 - [Rosenberg & Trystram. Understand Mathematics, Understand Computing: Discrete Mathematics That All Computing Students Should Know](https://www.springer.com/gp/book/9783030583750) - It endows the reader with an operational conceptual and methodological understanding of discrete mathematics for computing
 - [Gries & Schneider. A Logical Approach to Discrete Math](https://www.springer.com/gp/book/9780387941158) - It attempts to change the way we teach logic to beginning students. Instead of teaching logic as a subject in isolation, we regard it as a basic tool and show how to use it.
-- [Mariconda & Tonolo. Discrete Calculus: Methods for Counting](https://www.springer.com/gp/book/9783319030371) - An introduction to combinatorics, finite calculus, formal series, recurrences, and approximations of sums. Readers will find also deep insights into a range of less common topics rarely considered within a single book.
-### MOOC<a name=mathlogic_preliminaries_discrete_mathematics_mooc></a>
+#### MOOC<a name=mathlogic_preliminaries_discrete_mathematics_general_mooc></a>
 - [Introduction to Discrete Mathematics for Computer Science. UC San-Diego](https://www.coursera.org/specializations/discrete-mathematics) - Learn the language of Computer Science. Learn the math that defines computer science, and practice applying it through mathematical proofs and Python code.
+### Probabilistic Method<a name=mathlogic_preliminaries_discrete_mathematics_probabilistic_method></a>
+#### Lecture Notes<a name=mathlogic_preliminaries_discrete_mathematics_probabilistic_method_lecture_notes></a>
+- [Yufei. Probabilistic Methods in Combinatorics. MIT](https://ocw.mit.edu/courses/18-226-probabilistic-methods-in-combinatorics-fall-2022/pages/syllabus/) and [Yufei's Graph Theory book](https://yufeizhao.com/gtacbook/) - Showing some combinatorial object exists and prove that a certain random construction works with positive probability. The course focuses on methodology as well as combinatorial applications.
+#### Lecture Videos Playlist<a name=mathlogic_preliminaries_discrete_mathematics_probabilistic_method_lecture_videos_playlist></a>
+- [Luke Postle. Probablistic Methods. Waterloo](https://www.youtube.com/playlist?list=PL2BdWtDKMS6nRF72s3TOGyBqXwMVHYiLU)
+#### Books<a name=mathlogic_preliminaries_discrete_mathematics_probabilistic_method_books></a>
+- [Alon & Spencer. The Probabilistic Method](https://www.wiley.com/en-us/The+Probabilistic+Method%2C+4th+Edition-p-9781119061953) -  A standard reference for researchers in probabilistic methods in combinatorics. Shows also connections to theoretical computer science.
+### Graph Theory<a name=mathlogic_preliminaries_discrete_mathematics_graph_theory></a>
+#### Lecture Videos Playlist<a name=mathlogic_preliminaries_discrete_mathematics_graph_theory_lecture_videos_playlist></a>
+- [Graph Theory by Waterloo](https://www.youtube.com/playlist?list=PL2BdWtDKMS6mplieDd_vls0TBX9Fq2jht)
+### Other<a name=mathlogic_preliminaries_discrete_mathematics_other></a>
+- [Mariconda & Tonolo. Discrete Calculus: Methods for Counting](https://www.springer.com/gp/book/9783319030371) - An introduction to combinatorics, finite calculus, formal series, recurrences, and approximations of sums. Readers will find also deep insights into a range of less common topics rarely considered within a single book.
 ## Transition To Pure Rigour Math<a name=mathlogic_preliminaries_transition_to_pure_rigour_math></a>
 - Velleman. How to Prove it: A Structured Approach. - It transitions from solving problems to proving theorems by teaching them the techniques needed to read and write proofs.
 # Surveys & Monographs<a name=surveys__monographs></a>
