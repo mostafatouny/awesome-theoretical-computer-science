@@ -6,11 +6,10 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 
 ## Contents
 - [Broad Intros](#broad_intros)
-  - [Books](#broad_intros_books)
-- [Handbooks](#handbooks)
+  - [Lecture Notes](#broad_intros_lecture_notes) | [Lecture Videos Playlists](#broad_intros_lecture_videos_playlists) | [Books](#broad_intros_books) | [Handbooks](#broad_intros_handbooks)
 - [Theory of Computation](#theory_of_computation)
   - [Introductory](#theory_of_computation_introductory)
-    - [Lecture Notes](#theory_of_computation_introductory_lecture_notes) | [Lecture Videos Playlists](#theory_of_computation_introductory_lecture_videos_playlists) | [MOOC](#theory_of_computation_introductory_mooc) | [Books](#theory_of_computation_introductory_books) | [Puzzles and Problem Sets](#theory_of_computation_introductory_puzzles_and_problem_sets)
+    - [Lecture Notes](#theory_of_computation_introductory_lecture_notes) | [MOOC](#theory_of_computation_introductory_mooc) | [Books](#theory_of_computation_introductory_books) | [Puzzles and Problem Sets](#theory_of_computation_introductory_puzzles_and_problem_sets)
   - [Computational Complexity](#theory_of_computation_computational_complexity)
     - [Introductory](#theory_of_computation_computational_complexity_introductory)
       - [Lecture Videos Playlists](#theory_of_computation_computational_complexity_introductory_lecture_videos_playlists) | [Lecture Notes](#theory_of_computation_computational_complexity_introductory_lecture_notes) | [Books](#theory_of_computation_computational_complexity_introductory_books)
@@ -87,10 +86,16 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 ---
 
 # Broad Intros<a name=broad_intros></a>
+## Lecture Notes<a name=broad_intros_lecture_notes></a>
+- [Barak. Introduction to TCS](https://introtcs.org/public/index.html) - A modern, brief, and accessible text which introduces theoretical computer science for undergrads. It includes topics not usually included in standard undergrad text-books.
+## Lecture Videos Playlists<a name=broad_intros_lecture_videos_playlists></a>
+- [Yanofsky. Theoretical Computer Science](https://www.youtube.com/playlist?list=PLCqUsBXxq16yBaN_hpo7dY2l9N-ZLtI-X) - undergrad introduction to theory of computation
+- [Anil Ada. Great Ideas in Theoretical Computer Science. CMU](https://www.youtube.com/playlist?list=PLKzLTB8HeSUIuln-o1mbXfTr8HmIhiGEg) - A series of lectures on selected notable topics in theoretical computer science.
+- [O'Donnell. Great Ideas in Theoretical Computer Science. CMU](https://www.youtube.com/playlist?list=PLm3J0oaFux3aafQm568blS9blxtA_EWQv) - A series of lectures on selected notable topics in theoretical computer science.
 ## Books<a name=broad_intros_books></a>
-- [Moore & Mertens. The Nature of Computation](http://nature-of-computation.org/) - It spans complexity of mazes and games; optimization in theory and practice; randomized algorithms, interactive proofs, and pseudorandomness; Markov chains and phase transitions; and of quantum computing. It provides accessible explanations
 - [Wigderson. Mathematics and Computation: A Theory Revolutionizing Technology and Science](https://www.math.ias.edu/files/Book-online-Aug0619.pdf) - A sweeping survey of complexity theory, emphasizing the field’s insights and challenges. It explains the ideas and motivations leading to key models, notions, and results.
-# Handbooks<a name=handbooks></a>
+- [Moore & Mertens. The Nature of Computation](http://nature-of-computation.org/) - It spans complexity of mazes and games; optimization in theory and practice; randomized algorithms, interactive proofs, and pseudorandomness; Markov chains and phase transitions; and of quantum computing. It provides accessible explanations
+## Handbooks<a name=broad_intros_handbooks></a>
 - [Atallah & Blanton. Algorithms and Theory of Computation Handbook: General Concepts and Techniques](https://www.routledge.com/Algorithms-and-Theory-of-Computation-Handbook-Volume-1-General-Concepts/Atallah-Blanton/p/book/9781138113930) - A complete comprehensive encyclopediac handbook which surveys all related areas to theoretical computer science.
 - [Atallah & Blanton. Algorithms and Theory of Computation Handbook: Special Topics and Techniques](https://www.routledge.com/Algorithms-and-Theory-of-Computation-Handbook-Volume-2-Special-Topics/Atallah-Blanton/p/book/9780367384845) - A complete comprehensive encyclopediac handbook which surveys all related areas to theoretical computer science.
 - [Handbook of Theoretical Computer Science. Volume A: Algorithms and Complexity](https://mitpress.mit.edu/books/handbook-theoretical-computer-science-volume) - A complete comprehensive encyclopediac handbook which surveys all related areas to theoretical computer science.
@@ -99,17 +104,12 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 ## Introductory<a name=theory_of_computation_introductory></a>
 ### Lecture Notes<a name=theory_of_computation_introductory_lecture_notes></a>
 - [Watrous. Introduction to The Theory of Computing](https://cs.uwaterloo.ca/~watrous/ToC-notes/) - undergrad introduction to theory of computation
-### Lecture Videos Playlists<a name=theory_of_computation_introductory_lecture_videos_playlists></a>
-- [Yanofsky. Theoretical Computer Science](https://www.youtube.com/playlist?list=PLCqUsBXxq16yBaN_hpo7dY2l9N-ZLtI-X) - undergrad introduction to theory of computation
-- [Anil Ada. Great Ideas in Theoretical Computer Science. CMU](https://www.youtube.com/playlist?list=PLKzLTB8HeSUIuln-o1mbXfTr8HmIhiGEg) - A series of lectures on selected notable topics in theoretical computer science.
-- [O'Donnell. Great Ideas in Theoretical Computer Science. CMU](https://www.youtube.com/playlist?list=PLm3J0oaFux3aafQm568blS9blxtA_EWQv) - A series of lectures on selected notable topics in theoretical computer science.
 ### MOOC<a name=theory_of_computation_introductory_mooc></a>
 - [Intro to Theoretical Computer Science](https://www.udacity.com/course/intro-to-theoretical-computer-science--cs313) - It teaches basic concepts in theoretical computer science, such as NP-completeness, and what they imply for solving tough algorithmic problems.
 - [Computability, Complexity & Algorithms. Georgia Institute of Technology](https://www.udacity.com/course/computability-complexity-algorithms--ud061) - It focuses on the big fundamental questions of computing, and how understanding the power and limitations of algorithms helps us develop the tools to make real-world computers smarter, faster and safer.
 ### Books<a name=theory_of_computation_introductory_books></a>
 - [Sipser. Introduction to Theory of Computation](https://www.cengage.com/c/introduction-to-the-theory-of-computation-3e-sipser/9781133187790/) - A standard text for introducing theory of computation for undergrads.
 - [Hopcroft, Motwani & Ullman. Introduction to Automata Theory, Languages, and Computation](https://www.pearson.com/us/higher-education/program/Hopcroft-Introduction-to-Automata-Theory-Languages-and-Computation-3rd-Edition/PGM64331.html) - Introductory undergrad textbook for automata, languages and theory of computation topics.
-- [Barak. Introduction to TCS](https://introtcs.org/public/index.html) - A modern, brief, and accessible text which introduces theoretical computer science for undergrads. It includes topics not usually included in standard undergrad text-books.
 ### Puzzles and Problem Sets<a name=theory_of_computation_introductory_puzzles_and_problem_sets></a>
 - [Zhu & Ko. Problem Solving in Automata, Languages, and Complexity](https://onlinelibrary.wiley.com/doi/book/10.1002/0471224642) - A problem-set text for automata, languages, and complexity.
 ## Computational Complexity<a name=theory_of_computation_computational_complexity></a>
