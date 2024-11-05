@@ -279,37 +279,7 @@
         ]
     },
 
-    "Physics": {
-        "Lecture Notes": [
-            "[Arora. The Computational Universe](https://www.cs.princeton.edu/courses/archive/spring11/cos116/lectures.php) - Takes us on a broad sweep of scientific knowledge and related technologies: propositional logic of the ancient Greeks (microprocessors); quantum mechanics (silicon chips); network and system phenomena (internet and search engines); computational intractability (secure encryption); and efficient algorithms (genomic sequencing)."
-        ],
-        "Books": [
-            "[Feynman. Feynman And Computation: Exploring The Limits Of Computers](https://www.taylorfrancis.com/books/feynman-computation-anthony-hey/e/10.1201/9780429500459)",
-            "Feynman’s Course on Computation - See also Preskill's update 40 years later [here](https://arxiv.org/abs/2106.10522)"
-        ],
-        "Monographs": [
-            "[Susskind. Three Lectures on Complexity and Black Holes](https://link.springer.com/book/10.1007/978-3-030-45109-7) - Important connections between thermodynamics and complexity are proposed and discussed. Pedagogically written, serves as a fundamental introduction to black holes and their complex physical interpretation"
-        ]
-    },
-
-    "Philosophy": {
-        "Lecture Notes": [
-            "[6.893 Philosophy and Theoretical Computer Science. MIT](https://stellar.mit.edu/S/course/6/fa11/6.893/index.html) - It examines the relevance of modern theoretical computer science to traditional questions in philosophy, and conversely, what philosophy can contribute to theoretical computer science."
-        ],
-        "Books": [
-            "[Knuth. Things a Computer Scientist Rarely Talks About](https://web.stanford.edu/group/cslipublications/cslipublications/site/1575863278.shtml) - A general illustration of relations between faith and science.",
-            "[Floyd & Bokulich. Philosophical Explorations of the Legacy of Alan Turing: Turing 100](https://www.springer.com/gp/book/9783319532783) - Turing’s place in the history and philosophy of science."
-        ],
-        "Papers": [
-            "[Aaronson. Why Should Philosophers Care About Computational Complexity Theory](https://www.scottaaronson.com/papers/philos.pdf) - It argues that computational complexity theory leads to new perspectives on the nature of mathematical knowledge and other philosophical questions.",
-            "[Aharonov & Vazirani, Is Quantum Mechanics Falsifiable? A Computational Perspective on the Foundations of Quantum Mechanics](https://www.researchgate.net/publication/227171743_Is_Quantum_Mechanics_Falsifiable_A_computational_perspective_on_thefoundations_of_Quantum_Mechanics) - It describes how quantum mechanics can be tested in the limit of high complexity regime by extending the usual scientific paradigm to include.",
-            "[Walter Dean. Computational Complexity Theory and the Philosophy of Mathematics](https://academic.oup.com/philmat/article/27/3/381/5613215) - It highlights the significance of complexity theory relative to questions traditionally asked by philosophers of mathematics while also attempting to isolate some new ones.",
-            "[Stanford Encyclopedia of Philosophy. Computational Complexity Theory](https://plato.stanford.edu/entries/computational-complexity/) - The foundations of complexity theory, and its potential significance on philosophy of computer science, philosophy of mathematics and epistemology.",
-            "[Philip Davis. Toward a Philosophy of Computation](https://www.jstor.org/stable/40247755) - Philosophical implication of mathematization and computerization of the world."
-        ]
-    },
-
-    "Math/Logic Preliminaries": {
+    "Math and Logic": {
         "General": {
             "Lecture Videos Playlist": [
                 "[Lehman, Leighton & Meyer. Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/lecture-slides/) - An introduction to discrete mathematics oriented toward computer science and engineering. - [Companion Textbook](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/readings/MIT6_042JS15_textbook.pdf)"
@@ -332,7 +302,7 @@
                 "[Paluszynski. Calculus for Computer Scientists](https://www.math.uni.wroc.pl/~mpal/academic/2013/lecture_notes.pdf) - calculus lecture notes taught for undergrad computer science students"
             ]
         },
-        "TCS Inspired": {
+        "TCS Toolkit": {
             "Lecture Videos Playlists": [
                 "[O'Donnell. CS Theory Toolkit](https://www.youtube.com/playlist?list=PLm3J0oaFux3ZYpFLwwrlv_EHH9wtH6pnX) - It covers a large number of the math/CS topics that you need to know for reading and doing research in Computer Science Theory - alternatively: [bilibili](https://www.bilibili.com/video/BV1Ry4y1e7zR)",
                 "[Madhur Tulsiani. Mathematical Toolkit](https://home.ttic.edu/~madhurt/courses/toolkit2021/index.html) - Things prof. Madhur wish he knew in first year of grad school.",
@@ -389,6 +359,36 @@
         },
         "Transition To Pure Rigour Math": [
             "Velleman. How to Prove it: A Structured Approach. - It transitions from solving problems to proving theorems by teaching them the techniques needed to read and write proofs."
+        ]
+    },
+
+    "Physics": {
+        "Lecture Notes": [
+            "[Arora. The Computational Universe](https://www.cs.princeton.edu/courses/archive/spring11/cos116/lectures.php) - Takes us on a broad sweep of scientific knowledge and related technologies: propositional logic of the ancient Greeks (microprocessors); quantum mechanics (silicon chips); network and system phenomena (internet and search engines); computational intractability (secure encryption); and efficient algorithms (genomic sequencing)."
+        ],
+        "Books": [
+            "[Feynman. Feynman And Computation: Exploring The Limits Of Computers](https://www.taylorfrancis.com/books/feynman-computation-anthony-hey/e/10.1201/9780429500459)",
+            "Feynman’s Course on Computation - See also Preskill's update 40 years later [here](https://arxiv.org/abs/2106.10522)"
+        ],
+        "Monographs": [
+            "[Susskind. Three Lectures on Complexity and Black Holes](https://link.springer.com/book/10.1007/978-3-030-45109-7) - Important connections between thermodynamics and complexity are proposed and discussed. Pedagogically written, serves as a fundamental introduction to black holes and their complex physical interpretation"
+        ]
+    },
+
+    "Philosophy": {
+        "Lecture Notes": [
+            "[6.893 Philosophy and Theoretical Computer Science. MIT](https://stellar.mit.edu/S/course/6/fa11/6.893/index.html) - It examines the relevance of modern theoretical computer science to traditional questions in philosophy, and conversely, what philosophy can contribute to theoretical computer science."
+        ],
+        "Books": [
+            "[Knuth. Things a Computer Scientist Rarely Talks About](https://web.stanford.edu/group/cslipublications/cslipublications/site/1575863278.shtml) - A general illustration of relations between faith and science.",
+            "[Floyd & Bokulich. Philosophical Explorations of the Legacy of Alan Turing: Turing 100](https://www.springer.com/gp/book/9783319532783) - Turing’s place in the history and philosophy of science."
+        ],
+        "Papers": [
+            "[Aaronson. Why Should Philosophers Care About Computational Complexity Theory](https://www.scottaaronson.com/papers/philos.pdf) - It argues that computational complexity theory leads to new perspectives on the nature of mathematical knowledge and other philosophical questions.",
+            "[Aharonov & Vazirani, Is Quantum Mechanics Falsifiable? A Computational Perspective on the Foundations of Quantum Mechanics](https://www.researchgate.net/publication/227171743_Is_Quantum_Mechanics_Falsifiable_A_computational_perspective_on_thefoundations_of_Quantum_Mechanics) - It describes how quantum mechanics can be tested in the limit of high complexity regime by extending the usual scientific paradigm to include.",
+            "[Walter Dean. Computational Complexity Theory and the Philosophy of Mathematics](https://academic.oup.com/philmat/article/27/3/381/5613215) - It highlights the significance of complexity theory relative to questions traditionally asked by philosophers of mathematics while also attempting to isolate some new ones.",
+            "[Stanford Encyclopedia of Philosophy. Computational Complexity Theory](https://plato.stanford.edu/entries/computational-complexity/) - The foundations of complexity theory, and its potential significance on philosophy of computer science, philosophy of mathematics and epistemology.",
+            "[Philip Davis. Toward a Philosophy of Computation](https://www.jstor.org/stable/40247755) - Philosophical implication of mathematization and computerization of the world."
         ]
     },
 
