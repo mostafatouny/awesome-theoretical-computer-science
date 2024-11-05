@@ -357,7 +357,7 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 - [Foundations and Trends in Theoretical Computer Science](https://www.nowpublishers.com/TCS) - It provides monographs written by leaders that give tutorial coverage of subjects, research retrospectives as well as survey papers that offer state-of-the-art reviews fall within the scope of the journal.
 - [Quanta Magazine](https://www.quantamagazine.org/tag/computational-complexity) - Features breakthroughs in the field, written in an accessible style for non-experts.
 ## Associations<a name=community_associations></a>
-- [ACM's SigACT](https://sigact.org/)
+- [ACM's SIGACT](https://sigact.org/)
 - [European Association of TCS](https://www.eatcs.org/)
 ## Blogs<a name=community_blogs></a>
 ### Aggregators<a name=community_blogs_aggregators></a>
