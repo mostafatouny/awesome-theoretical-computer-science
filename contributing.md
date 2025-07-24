@@ -1,1 +1,3 @@
-- The repo is devoted to theoretical computer science, which is distinguished by its mathematical rigour and technique. More practically-oriented resources are ought to be on other repositories.
+- modify `./big_list_builder/source.json`
+- execute `run.sh` inside `./big_list_builder/`
+- push your commit
