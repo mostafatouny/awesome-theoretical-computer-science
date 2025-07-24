@@ -1,6 +1,6 @@
 ![banner](./TCS-banner.png)
 # Awesome Theoretical Computer Science [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
-The interdisciplinary of Mathematics and Computer Science, distinguished by proof and logic technique.
+The interdisciplinary of Mathematics and Computer Science; It is distinguished by its emphasis on mathemtical technique and rigour.
 
 ---
 
@@ -12,7 +12,7 @@ The interdisciplinary of Mathematics and Computer Science, distinguished by proo
     - [Lecture Notes](#theory_of_computation_introductory_lecture_notes) | [MOOC](#theory_of_computation_introductory_mooc) | [Books](#theory_of_computation_introductory_books) | [Puzzles and Problem Sets](#theory_of_computation_introductory_puzzles_and_problem_sets)
   - [Computational Complexity](#theory_of_computation_computational_complexity)
     - [Introductory](#theory_of_computation_computational_complexity_introductory)
-      - [Lecture Videos Playlists](#theory_of_computation_computational_complexity_introductory_lecture_videos_playlists) | [Lecture Notes](#theory_of_computation_computational_complexity_introductory_lecture_notes) | [Books](#theory_of_computation_computational_complexity_introductory_books)
+      - [Lecture Videos Playlists](#theory_of_computation_computational_complexity_introductory_lecture_videos_playlists) | [Lecture Notes](#theory_of_computation_computational_complexity_introductory_lecture_notes) | [Books](#theory_of_computation_computational_complexity_introductory_books) | [Big Lists](#theory_of_computation_computational_complexity_introductory_big_lists)
     - [Communication Complexity](#theory_of_computation_computational_complexity_communication_complexity)
       - [Lecture Notes](#theory_of_computation_computational_complexity_communication_complexity_lecture_notes) | [Books](#theory_of_computation_computational_complexity_communication_complexity_books)
     - [Circuit Complexity](#theory_of_computation_computational_complexity_circuit_complexity)
@@ -133,6 +133,8 @@ The interdisciplinary of Mathematics and Computer Science, distinguished by proo
 - [Goldreich. P, NP, and NP-Completeness: The Basics of Computational Complexity](http://www.wisdom.weizmann.ac.il/~oded/bc-book.html) - A very gentle introduction to some fundamental ideas of computational complexity like NP-completeness and P vs NP.
 - [Ogihara & Hemaspaandra. The Complexity Theory Companion](https://www.springer.com/gp/book/9783540674191) - An accessible, algorithmically oriented, research-centered, up-to-date guide to some of the most interesting techniques of complexity theory.
 - [Papadimitriou. Computational Complexity](https://www.pearson.com/us/higher-education/program/Papadimitriou-Computational-Complexity/PGM94583.html) - Body of knowledge for studying the performance and limitations of computer algorithms. Among topics covered are: reductions and NP-completeness, cryptography and protocols, randomized algorithms, and approximability of optimization problems, circuit complexity, the structural aspects of the P=NP question, parallel computation, and the polynomial hierarchy.
+#### Big Lists<a name=theory_of_computation_computational_complexity_introductory_big_lists></a>
+- [Complexity Zoo](https://complexityzoo.net/) - a wiki of complexity classes.
 ### Communication Complexity<a name=theory_of_computation_computational_complexity_communication_complexity></a>
 #### Lecture Notes<a name=theory_of_computation_computational_complexity_communication_complexity_lecture_notes></a>
 - [Mark Bun. CS591 Communication Complexity](https://cs-people.bu.edu/mbun/courses/591_F19/) - A graduate course which introduces the fundamental results and techniques in the area and some research frontier questions. Themes include: Communication models and the communication complexity zoo, Information vs. communication, Query-to-communication lifting, and Applications
