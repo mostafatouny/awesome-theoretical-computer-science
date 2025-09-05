@@ -72,7 +72,7 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
     - [Graph Theory](#math_and_logic_discrete_mathematics_graph_theory)
       - [Lecture Videos Playlist](#math_and_logic_discrete_mathematics_graph_theory_lecture_videos_playlist)
     - [Other](#math_and_logic_discrete_mathematics_other)
-  - [Transition To Pure Rigour Math](#math_and_logic_transition_to_pure_rigour_math)
+  - [Intro to Proofs](#math_and_logic_intro_to_proofs)
 - [Physics](#physics)
   - [Lecture Notes](#physics_lecture_notes) | [Books](#physics_books) | [Monographs](#physics_monographs)
 - [Philosophy](#philosophy)
@@ -343,8 +343,10 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 - [Graph Theory by Waterloo](https://www.youtube.com/playlist?list=PL2BdWtDKMS6mplieDd_vls0TBX9Fq2jht)
 ### Other<a name=math_and_logic_discrete_mathematics_other></a>
 - [Mariconda & Tonolo. Discrete Calculus: Methods for Counting](https://www.springer.com/gp/book/9783319030371) - An introduction to combinatorics, finite calculus, formal series, recurrences, and approximations of sums. Readers will find also deep insights into a range of less common topics rarely considered within a single book.
-## Transition To Pure Rigour Math<a name=math_and_logic_transition_to_pure_rigour_math></a>
-- Velleman. How to Prove it: A Structured Approach. - It transitions from solving problems to proving theorems by teaching them the techniques needed to read and write proofs.
+## Intro to Proofs<a name=math_and_logic_intro_to_proofs></a>
+- [Aho & Ullman. Foundations of Computer Science](http://infolab.stanford.edu/~ullman/focs.html) - providing beginning computer science majors a solid foundation, alongside discrete math and logic.
+- [Eck & Critchlow. Foundations of Computation](https://math.hws.edu/FoundationsOfComputation/) - for a one-semester course in theoretical computer science. It has no prerequisites other than introductory computer programming. It includes logic, sets, and function from discrete math, and automata, formal languages, and grammar from upper-level courses.
+- [Delftse. Foundations of Computation.] - for a one quarter introductory course in theoretical computer science. It includes logic, proof techniques, and set theory, and theory of computation, along practical applications. It has no prerequisites other than basic programming.
 # Physics<a name=physics></a>
 ## Lecture Notes<a name=physics_lecture_notes></a>
 - [Arora. The Computational Universe](https://www.cs.princeton.edu/courses/archive/spring11/cos116/lectures.php) - Takes us on a broad sweep of scientific knowledge and related technologies: propositional logic of the ancient Greeks (microprocessors); quantum mechanics (silicon chips); network and system phenomena (internet and search engines); computational intractability (secure encryption); and efficient algorithms (genomic sequencing).
