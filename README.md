@@ -257,6 +257,7 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 - [Blum. Intro Machine Learning Theory](https://www.cs.cmu.edu/~avrim/Talks/mlt.pdf).
 - [Blum, et.al. Machine Learning, Game Theory, and Mechanism Design for a Networked World](https://www.cs.cmu.edu/~mblum/search/AGTML35.pdf).
 - [Agrawal & Jaiswal. When Machine Learning Meets AI and Game Theory](https://cs229.stanford.edu/proj2012/AgrawalJaiswal-WhenMachineLearningMeetsAIandGameTheory.pdf).
+- [Park. TECS-L: Theoretical Framework Connecting Number Theory to Neural Computation](https://github.com/need-singularity/TECS-L) - A theoretical framework that bridges number theory and computational complexity of neural networks. Proves that the optimal inhibition ratio for sparse computation in Mixture-of-Experts architectures is I approximately 1/e, derived from the theorem that sigma(n)phi(n) = n tau(n) iff n = 6. Includes 194 formal hypotheses.
 # Game Theory<a name=game_theory></a>
 ## Lecture Notes<a name=game_theory_lecture_notes></a>
 - [Tim Roughgarden. Complexity Theory, Game Theory, and Economics: The Barbados Lectures](https://arxiv.org/abs/1801.00734) - A mini-course notes of two-fold goals: mini-course is twofold: (i) Explain how complexity theory has helped illuminate several barriers in economics and game theory; and (ii) Illustrate how game-theoretic questions have led to new and interesting complexity theory, including recent several breakthroughs.
