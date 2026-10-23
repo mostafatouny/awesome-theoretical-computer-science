@@ -246,7 +246,8 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 - [Goldreich. Randomized Methods in Computation](http://www.wisdom.weizmann.ac.il/~oded/rnd.html) - The aim of the current course is to make the students familiar with some of randomized methods.
 # AI Safety<a name=ai_safety></a>
 ## Other<a name=ai_safety_other></a>
-- [Math for AI Safety](https://math-for-ai-safety.github.io) - An open research coalition by [Lionel Levine](https://lionellevine.github.io/)
+- [Math for AI Safety](https://math-for-ai-safety.github.io) - An open research coalition by [Lionel Levine](https://lionellevine.github.io/).
+- [MAISI](https://maisi.org) - An independent non-profit research group for mathematical foundations of AI safety.
 # Machine Learning Theory<a name=machine_learning_theory></a>
 ## Lecture Notes<a name=machine_learning_theory_lecture_notes></a>
 - [Blum. An Introduction to the Theory of Machine Learning. TTIC](https://home.ttic.edu/~avrim/MLT20/) - The basic theory underlying machine learning and the process of generalizing from data.
